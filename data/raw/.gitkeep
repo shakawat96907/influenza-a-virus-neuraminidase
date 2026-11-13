@@ -1,0 +1,24 @@
+Proposed repository structure
+ data/
+
+ raw/
+
+ processed/
+
+
+ scripts/
+
+ analysis/
+
+ results/
+
+ figures/
+
+ tables/
+
+
+ references/
+
+ README.md
+
+ CITATION.cff (later)
