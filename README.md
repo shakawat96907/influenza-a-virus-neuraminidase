@@ -1,126 +1,71 @@
-# Influenza A Virus Neuraminidase (NA)
+# Molecular Evolution and Antigenic Variation of Influenza A(H1N1) Neuraminidase in Asia (2015–2025)
 
-### Bioinformatics Analysis and Molecular Characterization of Neuraminidase in Influenza A Virus
-
-<p align="center">
-  **NCBI Taxonomy ID: 11320**
-</p>
-
----
+**NCBI Taxonomy ID:** 11320 | **Target Protein:** Neuraminidase (NA)
 
 ## Overview
+Influenza A virus is a major human respiratory pathogen characterized by continuous genetic and antigenic evolution. Neuraminidase (NA), one of its two major surface glycoproteins, plays an essential role in viral release, motility through respiratory mucus, and host-cell interactions, while serving as the primary target of neuraminidase inhibitor (NAI) antivirals.
 
-Influenza A virus is an important human and animal pathogen characterized by considerable genetic and antigenic diversity. Neuraminidase (NA), one of its major surface glycoproteins, plays an essential role in viral propagation and host-cell interactions.
-
-This research project focuses on the bioinformatics-based investigation and molecular characterization of neuraminidase in Influenza A virus using publicly available nucleotide and protein sequence datasets.
-
-The study aims to explore sequence diversity, conserved and variable regions, evolutionary relationships, and relevant molecular characteristics of viral neuraminidase through computational and comparative analytical approaches.
-
-## Research Objectives
-
-- Retrieve and curate Influenza A virus neuraminidase sequences from publicly available databases.
-- Investigate nucleotide and amino acid sequence diversity.
-- Identify conserved and variable regions across selected NA sequences.
-- Explore phylogenetic relationships and evolutionary patterns.
-- Characterize relevant molecular and physicochemical properties of neuraminidase.
-- Perform additional computational analyses to investigate the biological characteristics of NA.
-
-## Research Scope
-
-The project encompasses the following research areas:
-
-- Viral Genomics
-- Comparative Sequence Analysis
-- Molecular Characterization
-- Phylogenetic Analysis
-- Evolutionary Biology
-- Protein Sequence Analysis
-- Computational Biology and Bioinformatics
-
-## Data Sources
-
-The research utilizes publicly accessible biological databases, including:
-
-- [NCBI Virus](https://www.ncbi.nlm.nih.gov/labs/virus/)
-- [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/)
-- [NCBI Protein](https://www.ncbi.nlm.nih.gov/protein/)
-
-**Target Organism:** Influenza A virus  
-**NCBI Taxonomy ID:** 11320  
-**Target Protein:** Neuraminidase (NA)
-
-## Computational Tools and Resources
-
-Bioinformatics tools, databases, and computational resources employed throughout the study will be documented as the research progresses.
-
-Software versions, analytical parameters, and relevant methodological details will be provided to facilitate reproducibility.
+This repository provides the reproducible bioinformatics pipeline, sequence curation scripts, curated metadata, multiple sequence alignment workflows, and structural residue numbering audits supporting our comparative evolutionary investigation of human influenza A(H1N1)pdm09 neuraminidase in Asia (2015–2025) alongside a year-matched global control dataset.
 
 ## Repository Structure
-
 ```text
 influenza-a-virus-neuraminidase/
-│
+├── README.md                              # Project overview, directory guide, and reproducibility instructions
+├── environment.yml                        # Conda environment specification
+├── run_all.sh                             # Master script to execute the completed analysis pipeline
+├── .gitignore                             # Git ignore rules for large/temporary intermediate files
 ├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── README.md
-│
+│   ├── README.md                          # Documentation of raw and processed sequence datasets
+│   ├── raw/                               # Raw sequence records directory
+│   └── processed/                         # Curated non-redundant datasets (N = 1,456)
+│       ├── final_cap20_meta.csv           # Complete metadata & accession list (Supplementary Table S1)
+│       ├── final_cap20_prot.fasta         # Curated full-length NA protein sequences (1,456)
+│       ├── final_cap20_nuc.fasta          # Curated full-length NA coding nucleotide sequences (1,456)
+│       └── final_cap20_year_table.csv     # Temporal distribution summary across 2015–2025
 ├── scripts/
-│
+│   ├── README.md                          # Execution order and description of data curation scripts
+│   └── *.py                               # Retrieval, quality control, deduplication & stratified subsampling scripts
 ├── analysis/
-│
-├── results/
-│   ├── figures/
-│   └── tables/
-│
-├── references/
-│
-├── docs/
-│
-├── README.md
-├── .gitignore
-├── CITATION.cff
-└── LICENSE
+│   ├── README.md                          # Step-by-step documentation of evolutionary & structural analyses
+│   ├── 01_mafft_and_consensus.sh          # Multiple sequence alignment (MAFFT v7.526) & consensus generation
+│   └── 02_numbering_audit_4B7R.py         # Pairwise structural alignment (PDB 4B7R) & N1/N2 coordinate audit
+└── results/
+    ├── consensus_prot_cap20.fasta         # Gapped majority-rule consensus sequence (493 alignment columns)
+    ├── consensus_prot_cap20_nogap.fasta   # Canonical ungapped consensus sequence (469 amino acids)
+    ├── figures/                           # Publication figures directory
+    └── tables/
+        └── numbering_audit_table.csv      # Cross-numbering conversion table (Supplementary Table S3)
 ```
 
-## Reproducibility and Data Availability
+## Completed Analytical Workflow
+1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
+   - Retrieved human A(H1N1)pdm09 NA coding sequences (2015–2025) from NCBI Virus.
+   - Filtered for complete coding sequences (1,380–1,500 nt), ≤1% ambiguous bases, and absence of premature stop codons or frameshifts, followed by isolate-level deduplication.
+   - Applied a country- and year-capped stratified sampling scheme (maximum 20 sequences per country per year), yielding a balanced dataset of **754 Asian** and **702 non-Asian** sequences (**total *N* = 1,456**).
+2. **Multiple Sequence Alignment & Consensus Construction (`analysis/01_mafft_and_consensus.sh`):**
+   - Aligned all 1,456 non-redundant NA protein sequences using **MAFFT (v7.526)** (`--auto`, FFT-NS-2 progressive alignment strategy), generating a 493-column alignment and a canonical **469-amino-acid** ungapped consensus sequence (`H1N1_NA_consensus`).
+3. **Structural Alignment & Residue Numbering Audit (`analysis/02_numbering_audit_4B7R.py`):**
+   - Performed global pairwise alignment between the 469-aa consensus NA sequence and Chain A of the reference crystal structure **PDB ID: 4B7R** (387 resolved residues, positions 83–469), confirming **96.64% sequence identity** (374/387 identical residues) and **100.00% coverage** across the crystallographic head domain (**82.52%** full-length coverage).
+   - Standardized all coordinates to canonical **N1 numbering**, validated conserved active-site and antiviral resistance benchmark residues (`E119`, `Q136`, `I223`, `S247`, `H275`, `R293`, `N295`), and exported a complete cross-numbering mapping table (`results/tables/numbering_audit_table.csv`).
 
-This repository is intended to provide transparent documentation of the datasets, computational workflows, analytical procedures, and results generated during the research.
+## Ongoing Revision Analyses
+- Codon-aware nucleotide alignment and global maximum-likelihood phylogeny (IQ-TREE)
+- Root-to-tip clock outlier detection (TreeTime) and recombination screening (HyPhy GARD)
+- Geographic migration reconstruction (TreeTime mugration) and ancestral state reconstruction
+- Phylogeny-aware regional enrichment, Shannon entropy, temporal rarefaction, N-linked glycosylation sequon profiling, biological tetramer SASA/RSA, season-matched WHO vaccine divergence, antiviral resistance screening, and reproducible antigenic scoring.
 
-Raw and processed data, analysis scripts, and relevant supplementary materials will be organized and documented as appropriate.
+## Reproducibility
+To reproduce the completed pipeline locally:
+```bash
+conda env create -f environment.yml
+conda activate na
+bash run_all.sh
+```
 
-Data sources and methodological details will be reported to support transparency and reproducibility.
-
-## Research Status
-
-**Research in progress.**
-
-This repository will be updated as the research project progresses.
-
-## Citation
-
-The citation details of the associated research manuscript will be added following publication.
-
-## Correspondence
-
-For research-related inquiries, please contact the corresponding author:
-
-**Dr. Farjana Islam**  
-Department of Biochemistry and Molecular Biology  
-Shahjalal University of Science and Technology (SUST)  
-Sylhet-3114, Bangladesh
-
-Email: farjana-bmb@sust.edu
-
----
-
-## Authors
-
-**Md. Shakawat Hossain** — First Author
-
-**Rubaiya Tasnim** — Second Author
-
-**Dr. Farjana Islam** — Corresponding Author
+## Authors & Correspondence
+- **Md. Shakawat Hossain** — First Author
+- **Rubaiya Tasnim** — Second Author
+- **Dr. Farjana Islam** — Corresponding Author (`farjana-bmb@sust.edu`)
 
 Department of Biochemistry and Molecular Biology  
 Shahjalal University of Science and Technology (SUST)  
