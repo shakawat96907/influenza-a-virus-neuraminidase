@@ -1,0 +1,7 @@
+accession,group,region,country,year,Collection_Date,Host,Isolate,Length,Submitters,reason
+OL831137,Asia,asia,India,2020,2020-04-30,Homo sapiens,H1N1p2,1409,"Banerjee,S., De,A., Kedia,N., Bhakta,K., Linfa,W., Bhattacharjee,B., Mondal,A.",not in QC-passed files (removed by QC or not downloaded)
+OL831162,Asia,asia,India,2020,2020-04-30,Homo sapiens,H1N1-P3,1409,"Banerjee,S., De,A., Kedia,N., Bhakta,K., Linfa,W., Bhattacharjee,B., Mondal,A.",not in QC-passed files (removed by QC or not downloaded)
+OL831184,Asia,asia,India,2020,2020-04-30,Homo sapiens,H1N1-P2,1409,"Banerjee,S., De,A., Kedia,N., Bhakta,K., Linfa,W., Bhattacharjee,B., Mondal,A.",not in QC-passed files (removed by QC or not downloaded)
+OR874336,control,africa,Kenya,2015,2015-08-12,Homo sapiens,A/Kenya/CDC-Nyeri/080/2015,1410,"Owuor,D.C.",not in QC-passed files (removed by QC or not downloaded)
+PZ046323,control,northamerica,Mexico,2020,2020-01-08,Homo sapiens,A/Mexico City/IBT_INER_37/2020,1421,"Alvarado,J., Arias,C., Becerril,E., Diaz,C., Dominguez,H., Espinosa,G., Gomez,B., Gonzalez,R., Grande,R., Herrera,A., Herrera,C., Marquez,M., Martinez,B., Martinez,G., Mejia,F., Mendoza,E., Molina,G., Mujica,M., Munoz,J.E., Nunez,J., Salas,A., Salinas,I., Sanchez,A., Santacruz,C., Santos,A., Uscanga,A., Zarate,A., Zarate,S., Taboada,B., Vazquez,J.",not in QC-passed files (removed by QC or not downloaded)
+OR074320,control,africa,Senegal,2021,2021-09-27,Homo sapiens,A/Senegal/MagalIR15/2021,1410,"Beye,M., Goumbala,N.",not in QC-passed files (removed by QC or not downloaded)

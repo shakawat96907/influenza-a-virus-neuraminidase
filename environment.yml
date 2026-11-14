@@ -1,0 +1,19 @@
+name: na
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.11
+  - mafft
+  - iqtree
+  - seqkit
+  - cd-hit
+  - hyphy
+  - pal2nal
+  - treetime
+  - biopython
+  - pandas
+  - statsmodels
+  - matplotlib
+  - seaborn
+prefix: /home/user_os/miniforge3/envs/na

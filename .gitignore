@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+results/4B7R.pdb
+results/aln_prot_cap20.fasta
+data/processed/*.zip
+data/processed/*cline_wrong*
