@@ -1,0 +1,3 @@
+Tree,Taxa,Model,Total_Length,Max_Terminal_Branch,UFBoot_ge_95,SHaLRT80_UFBoot95,Root
+Global Nucleotide ML Tree (Figure 1A),1449,GTR+F+I+R3,2.3841,0.0364,405/1295 (31.3%),295/1295 (22.8%),"KU322051 (2015, Italy)"
+Global Amino-Acid ML Tree (Figure 1B),1449,HIVW+I+R3,2.5885,0.0325,172/868 (19.8%),144/868 (16.6%),"KU322051 (2015, Italy)"

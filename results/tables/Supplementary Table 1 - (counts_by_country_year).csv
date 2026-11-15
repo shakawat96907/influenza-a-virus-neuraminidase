@@ -1,0 +1,45 @@
+Group_Label,region,country,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,Total
+Asian,asia,Bahrain,0,0,0,1,0,0,0,0,0,0,0,1
+Asian,asia,China,0,18,20,20,20,0,0,0,20,20,14,132
+Asian,asia,Hong Kong,0,0,0,0,0,0,0,0,15,3,9,27
+Asian,asia,India,20,0,20,8,17,0,0,20,0,0,0,85
+Asian,asia,Iran,20,20,0,2,1,0,0,0,0,14,0,57
+Asian,asia,Iraq,0,0,0,0,0,0,0,0,0,0,5,5
+Asian,asia,Israel,0,0,0,0,1,4,0,0,5,2,0,12
+Asian,asia,Japan,1,20,10,11,20,20,0,0,10,8,2,102
+Asian,asia,Kazakhstan,0,0,0,1,1,0,0,1,0,0,0,3
+Asian,asia,Kuwait,0,0,0,0,0,0,0,0,1,0,0,1
+Asian,asia,Pakistan,0,0,12,2,0,0,0,0,0,2,1,17
+Asian,asia,Qatar,0,0,0,0,0,0,0,0,1,0,0,1
+Asian,asia,Saudi Arabia,20,2,2,0,0,3,3,5,6,20,9,70
+Asian,asia,Singapore,0,0,0,0,1,0,0,0,0,0,0,1
+Asian,asia,South Korea,1,7,2,20,20,0,1,0,16,2,2,71
+Asian,asia,State of Palestine,3,0,0,0,0,0,0,0,0,0,0,3
+Asian,asia,Taiwan,20,20,2,11,20,0,0,0,0,0,0,73
+Asian,asia,Thailand,20,0,8,4,0,0,0,0,2,0,0,34
+Asian,asia,Turkey,0,0,5,8,19,9,0,7,1,4,1,54
+Asian,asia,Viet Nam,1,0,0,4,0,0,0,0,0,0,0,5
+Non-Asian,africa,Kenya,19,18,5,20,0,0,0,8,9,18,0,97
+Non-Asian,africa,Senegal,0,0,0,2,0,0,0,0,11,0,0,13
+Non-Asian,africa,South Africa,0,0,0,0,0,0,0,0,0,1,0,1
+Non-Asian,europe,Belgium,0,0,0,3,2,0,0,0,0,0,0,5
+Non-Asian,europe,Bulgaria,0,0,0,0,0,0,0,0,3,0,0,3
+Non-Asian,europe,Czech Republic,1,15,0,0,0,0,0,0,0,0,0,16
+Non-Asian,europe,Denmark,0,0,0,0,0,1,0,0,0,0,0,1
+Non-Asian,europe,France,0,0,0,1,0,0,0,0,1,18,12,32
+Non-Asian,europe,Germany,1,0,0,10,14,0,0,8,9,1,1,44
+Non-Asian,europe,Hungary,0,0,0,0,0,0,0,0,3,0,0,3
+Non-Asian,europe,Italy,5,0,0,5,12,0,0,0,2,0,2,26
+Non-Asian,europe,Russia,1,3,0,0,10,0,0,0,0,0,0,14
+Non-Asian,europe,United Kingdom,0,0,0,5,10,0,0,0,1,0,0,16
+Non-Asian,northamerica,Canada,0,0,0,0,0,0,0,0,0,0,1,1
+Non-Asian,northamerica,Guam,0,0,0,0,2,0,0,0,0,0,0,2
+Non-Asian,northamerica,Mexico,0,0,14,1,5,11,0,1,0,0,0,32
+Non-Asian,northamerica,Nicaragua,20,0,0,3,3,0,0,0,1,0,0,27
+Non-Asian,northamerica,USA,20,17,20,20,20,20,1,7,18,19,13,175
+Non-Asian,oceania,Australia,0,0,0,1,20,0,1,0,0,0,0,22
+Non-Asian,oceania,New Zealand,1,17,20,20,20,0,0,7,0,0,0,85
+Non-Asian,southamerica,Brazil,0,5,0,0,1,0,1,1,0,0,0,8
+Non-Asian,southamerica,Chile,0,1,0,1,1,0,0,1,19,12,14,49
+Non-Asian,southamerica,Colombia,6,11,7,0,0,0,0,0,0,0,0,24
+Non-Asian,southamerica,Peru,0,0,0,0,0,0,0,0,0,6,0,6

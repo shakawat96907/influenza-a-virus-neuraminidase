@@ -1,0 +1,8 @@
+Accession,Exclusion_Reason
+MK502498,Misannotated non-N1 subtype / extreme long branch (21.54% identity; branch=8.3057)
+OM679430,Swine-origin variant / pre-2009 spillover (76.12% identity; branch=0.1024)
+PV156074,Pre-2009 / variant spillover (80.81% identity; branch=0.2129)
+OM736137,Divergent non-pdm09 variant (86.14% identity)
+PP873819,Divergent non-pdm09 variant (87.21% identity)
+MN508986,Divergent variant / clock outlier (88.70% identity; branch=0.0625)
+MK226524,High-divergence clock outlier (90.19% identity; residual=+14.16 yr)
