@@ -6,7 +6,7 @@
 
 Influenza A virus is a major human respiratory pathogen characterized by continuous genetic and antigenic evolution. Neuraminidase (NA), one of its two major surface glycoproteins, plays an essential role in viral release, motility through respiratory mucus, and host-cell interactions, while serving as the primary target of neuraminidase inhibitor (NAI) antivirals.
 
-This repository provides the reproducible bioinformatics pipeline, sequence curation scripts, curated metadata, codon-aware phylogenetic reconstructions, molecular-clock outlier audits, and structural residue numbering audits supporting our comparative evolutionary investigation of human influenza A(H1N1)pdm09 neuraminidase in Asia (2015–2025) alongside a year-matched global control dataset.
+This repository provides the reproducible bioinformatics pipeline, sequence curation scripts, curated metadata, codon-aware phylogenetic reconstructions, molecular-clock outlier audits, geographic migration analyses, and structural residue numbering audits supporting our comparative evolutionary investigation of human influenza A(H1N1)pdm09 neuraminidase in Asia (2015–2025) alongside a year-matched global control dataset.
 
 ## Repository Structure
 
@@ -36,7 +36,8 @@ influenza-a-virus-neuraminidase/
 │   ├── 06_clock_and_recombination.py  # TreeTime root-to-tip clock regression & branch-length audit
 │   ├── 07_clean_outliers_and_gard.py  # Outlier exclusion (N = 1,449), re-alignment & HyPhy GARD
 │   ├── 08_export_manuscript_draft.py  # Consensus regeneration, 4B7R audit & manuscript summary tables
-│   └── 09_finalize_trees_and_fig1.py  # Clean tree topology comparison, clock fit & Figure 1A–B rendering
+│   ├── 09_finalize_trees_and_fig1.py  # Clean tree topology comparison, clock fit & Figure 1A–B rendering
+│   └── 10_treetime_mugration.py       # Discrete geographic mugration & Asia-enriched clade detection
 └── results/
     ├── aln_prot_clean.fasta           # Clean MAFFT protein alignment (1,449 sequences; 493 columns)
     ├── codon_aln_nuc_clean.fasta      # Clean codon-aware nucleotide alignment (1,449 sequences; 1,479 nt)
@@ -44,11 +45,12 @@ influenza-a-virus-neuraminidase/
     ├── consensus_prot_cap20_nogap.fasta # Canonical ungapped consensus sequence (469 amino acids)
     ├── trees/                         # Rooted & unrooted IQ-TREE Newick files and model logs
     ├── treetime_clock_clean/          # Clean TreeTime root-to-tip clock regression outputs (β = 3.25e-3)
+    ├── mugration/                     # TreeTime discrete geographic mugration models & annotated trees
     ├── figures/                       # High-resolution publication figures (Figure 1A–B, Fig S1)
-    └── tables/                        # Supplementary Tables 1–5 & outlier exclusion audit logs
+    └── tables/                        # Supplementary Tables 1–7 & outlier exclusion audit logs
 ```
 
-## Completed Analytical Workflow (`T1`–`T4`)
+## Completed Analytical Workflow (`T1`–`T5`)
 
 1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
    * Retrieved human A(H1N1)pdm09 NA coding sequences (2015–2025) from NCBI Virus.
@@ -62,10 +64,12 @@ influenza-a-virus-neuraminidase/
 4. **Codon-Aware Global Phylogenetics & Molecular-Clock Outlier Resolution (`analysis/03_codon_alignment.py` – `analysis/09_finalize_trees_and_fig1.py`):**
    * Constructed a codon-aware nucleotide alignment (`1,479` nt across `493` codons) via `pal2nal.pl` (v14) and inferred maximum-likelihood phylogenies using `IQ-TREE` (v3.1.4) with `1,000 UFBoot` and `1,000 SH-aLRT` replicates for both the global nucleotide dataset (`GTR+F+I+R3`; `N = 1,449`; **Figure 1A**) and the global amino-acid dataset (`HIVW+I+R3`; `871` unique taxa; **Figure 1B**).
    * Rooted phylogenies on the earliest 2015 reference isolate (`KU322051`, Italy) and verified molecular-clock coherence using `TreeTime` (v0.12.1), confirming linear substitution accumulation (`β = 3.25 × 10⁻³` substitutions/site/year; inferred root date `2012.0` [`2011.97`]; **Supplementary Figure S1**).
+5. **Discrete Geographic Ancestral State Reconstruction (`analysis/10_treetime_mugration.py`):**
+   * Reconstructed intercontinental migration pathways across six geographic regions (`Asia`, `North America`, `Europe`, `Africa`, `Oceania`, `South America`), identifying **338 inter-regional transitions** (**234 exports from Asia** and **49 introductions into Asia**; `Supplementary Table 6`) alongside **66 Asia-enriched monophyletic subclusters** (`≥80%` Asian representation; `Supplementary Table 7`).
 
-## Ongoing Revision Analyses (`T5`–`T18`)
+## Ongoing Revision Analyses (`T6`–`T18`)
 
-* Geographic migration reconstruction (`TreeTime mugration`) and ancestral state reconstruction across global regions (`T5`–`T6`)
+* Ancestral state reconstruction & phylogenetic trunk mutation tracking (`T6`)
 * Phylogeny-aware regional enrichment (`Fisher's exact test + BH FDR`) and within-year Shannon entropy / temporal rarefaction (`T7`–`T8`)
 * Site-specific selection analysis (`HyPhy MEME / FEL / FUBAR`) and co-occurring mutation / epistasis network (`T9`–`T10`)
 * Predicted N-linked glycosylation sequon profiling (`N-X-S/T`) and biological tetramer (`PDB 4B7R`) SASA/RSA structural analysis (`T11`–`T12`)
