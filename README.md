@@ -53,7 +53,7 @@ influenza-a-virus-neuraminidase/
     └── tables/                            # Main Tables 5–6, Supplementary Tables 1–8 & outlier audit logs
 ```
 
-## Completed Analytical Workflow (`T1`–`T6`)
+## Completed Analytical Workflow (`T1`–`T7`)
 
 1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
    * Retrieved human A(H1N1)pdm09 NA coding sequences (2015–2025) from NCBI Virus, filtered for complete coding sequences (1,380–1,500 nt), ≤1% ambiguous bases, intact reading frames, and deduplicated isolate names.
@@ -70,7 +70,10 @@ influenza-a-virus-neuraminidase/
 6. **Ancestral Sequence Reconstruction & Homoplasy Analysis (`analysis/11_ancestral_and_fig2.py`, `analysis/11b_clean_fig2_and_tables56.py`):**
    * Performed `TreeTime ancestral` reconstruction across the 1,449-taxon phylogeny to quantify phylogenetically independent `parent → child` substitution events across all 469 N1 sites, distinguishing clade-sweeping variants from recurrent homoplastic substitutions (**Figure 2A–C**, **Main Table 6**, `Supplementary Table 8`).
 
-## Ongoing Revision Analyses (`T7`–`T18`)
+7. **Phylogeny-Aware & Year-Stratified Regional Enrichment (`analysis/12_phylogeny_aware_enrichment.py`, `analysis/12b_fix_fig3.py`):**
+   * Evaluated regional enrichment across all 59 variants (≥1.0% global prevalence) using two-sided Fisher's exact tests (`BH FDR`), year-stratified Cochran–Mantel–Haenszel (`CMH`) tests, protein-deduplicated sensitivity analysis (`n = 718`), and clade-declustered phylogeny-pruned sensitivity analysis (`n = 538`) paired with `TreeTime` independent origins (**Figure 3A–B**, **Main Table 7**, `Supplementary Table 9`).
+
+## Ongoing Revision Analyses (`T8`–`T18`)
 
 * Phylogeny-aware regional enrichment (`Fisher's exact test + BH FDR` & independent origin comparison) and within-year Shannon entropy / temporal rarefaction (`T7`–`T8`)
 * Site-specific selection analysis (`HyPhy MEME / FEL / FUBAR`) and co-occurring mutation / epistasis network (`T9`–`T10`)
