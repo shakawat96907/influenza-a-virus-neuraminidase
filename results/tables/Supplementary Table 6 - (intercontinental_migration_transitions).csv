@@ -1,26 +1,26 @@
 From_Region,To_Region,Transition_Count
-"('Asia', 'North_America')","('Asia', 'North_America')",88
-"('Asia', 'Europe')","('Asia', 'Europe')",71
-"('Asia', 'Oceania')","('Asia', 'Oceania')",36
-"('North_America', 'Asia')","('North_America', 'Asia')",28
-"('Asia', 'Africa')","('Asia', 'Africa')",25
-"('North_America', 'South_America')","('North_America', 'South_America')",15
-"('Asia', 'South_America')","('Asia', 'South_America')",14
-"('North_America', 'Europe')","('North_America', 'Europe')",12
-"('Europe', 'Asia')","('Europe', 'Asia')",8
-"('Europe', 'North_America')","('Europe', 'North_America')",7
-"('Oceania', 'Asia')","('Oceania', 'Asia')",5
-"('South_America', 'Asia')","('South_America', 'Asia')",4
-"('South_America', 'North_America')","('South_America', 'North_America')",4
-"('Africa', 'Asia')","('Africa', 'Asia')",4
-"('Europe', 'South_America')","('Europe', 'South_America')",3
-"('North_America', 'Oceania')","('North_America', 'Oceania')",3
-"('Europe', 'Africa')","('Europe', 'Africa')",2
-"('Africa', 'Europe')","('Africa', 'Europe')",2
-"('South_America', 'Oceania')","('South_America', 'Oceania')",1
-"('Europe', 'Oceania')","('Europe', 'Oceania')",1
-"('Oceania', 'North_America')","('Oceania', 'North_America')",1
-"('Africa', 'North_America')","('Africa', 'North_America')",1
-"('North_America', 'Africa')","('North_America', 'Africa')",1
-"('Oceania', 'Europe')","('Oceania', 'Europe')",1
-"('Africa', 'South_America')","('Africa', 'South_America')",1
+Asia,North_America,88
+Asia,Europe,71
+Asia,Oceania,36
+North_America,Asia,28
+Asia,Africa,25
+North_America,South_America,15
+Asia,South_America,14
+North_America,Europe,12
+Europe,Asia,8
+Europe,North_America,7
+Oceania,Asia,5
+South_America,Asia,4
+South_America,North_America,4
+Africa,Asia,4
+Europe,South_America,3
+North_America,Oceania,3
+Europe,Africa,2
+Africa,Europe,2
+South_America,Oceania,1
+Europe,Oceania,1
+Oceania,North_America,1
+Africa,North_America,1
+North_America,Africa,1
+Oceania,Europe,1
+Africa,South_America,1
