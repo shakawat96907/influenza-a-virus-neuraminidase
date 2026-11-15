@@ -1,0 +1,470 @@
+N1_Position,Consensus_AA,Dominant_Variant,Global_Variant_Count,Global_Variant_Pct,Asian_Variant_Pct,NonAsian_Variant_Pct,Site_Independent_Origins,Dominant_Sub_Origins,Max_Descendant_Clade_Size,Evolutionary_Mode
+1,M,None,0,0.0,0.0,0.0,0,0,0,Invariant
+2,N,N2X,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+3,P,P3L,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+4,N,N4T,9,0.62,1.06,0.14,4,4,1,Recurrent / Homoplastic
+5,Q,None,0,0.0,0.0,0.0,0,0,0,Invariant
+6,K,K6W,3,0.21,0.4,0.0,2,1,1,Low-frequency / Sporadic
+7,I,None,0,0.0,0.0,0.0,0,0,0,Invariant
+8,I,I8M,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+9,T,T9I,7,0.48,0.13,0.85,3,1,1,Low-frequency / Sporadic
+10,I,I10V,2,0.14,0.27,0.0,1,1,1,Low-frequency / Sporadic
+11,G,G11V,3,0.21,0.27,0.14,1,1,1,Low-frequency / Sporadic
+12,S,S12L,10,0.69,0.4,1.0,5,4,3,Recurrent / Homoplastic
+13,I,I13V,165,11.39,13.53,8.97,101,69,1439,Trunk-sweeping & Recurrent
+14,C,C14X,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+15,M,M15I,11,0.76,0.8,0.71,4,4,1,Recurrent / Homoplastic
+16,T,T16A,6,0.41,0.0,0.85,15,1,3,Low-frequency / Sporadic
+17,I,I17T,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+18,G,G18R,2,0.14,0.13,0.14,2,1,1,Low-frequency / Sporadic
+19,M,M19T,446,30.78,26.79,34.76,424,18,51,Trunk-sweeping & Recurrent
+20,A,A20T,7,0.48,0.4,0.57,2,2,1,Low-frequency / Sporadic
+21,N,None,0,0.0,0.0,0.0,0,0,0,Invariant
+22,L,None,0,0.0,0.0,0.0,0,0,0,Invariant
+23,I,I23M,8,0.55,0.66,0.43,4,3,1,Recurrent / Homoplastic
+24,L,None,0,0.0,0.0,0.0,0,0,0,Invariant
+25,Q,Q25L,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+26,I,I26T,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+27,G,G27A,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+28,N,N28K,3,0.21,0.4,0.0,1,1,1,Low-frequency / Sporadic
+29,I,I29M,13,0.9,0.8,1.0,5,5,2,Recurrent / Homoplastic
+30,I,I30T,2,0.14,0.0,0.28,1,1,1,Low-frequency / Sporadic
+31,S,S31P,2,0.14,0.13,0.14,1,1,1,Low-frequency / Sporadic
+32,I,I32T,4,0.28,0.13,0.43,2,0,0,Low-frequency / Sporadic
+33,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+34,V,V34I,75,5.18,6.37,3.85,31,31,4,Recurrent / Homoplastic
+35,S,S35T,8,0.55,0.13,1.0,1,0,0,Low-frequency / Sporadic
+36,H,H36Q,3,0.21,0.13,0.28,3,1,1,Low-frequency / Sporadic
+37,S,S37T,11,0.76,0.13,1.42,5,4,3,Recurrent / Homoplastic
+38,I,I38X,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+39,Q,None,0,0.0,0.0,0.0,0,0,0,Invariant
+40,I,I40L,77,5.31,3.85,6.84,25,14,1,Recurrent / Homoplastic
+41,G,G41R,14,0.97,0.8,1.14,8,3,1,Recurrent / Homoplastic
+42,N,N42D,2,0.14,0.13,0.14,0,0,0,Low-frequency / Sporadic
+43,Q,Q43R,15,1.04,1.06,1.0,16,1,7,Low-frequency / Sporadic
+44,S,S44N,45,3.11,3.45,2.71,17,17,1,Recurrent / Homoplastic
+45,Q,Q45H,6,0.41,0.4,0.43,1,1,1,Low-frequency / Sporadic
+46,I,I46V,48,3.31,2.92,3.7,406,95,1133,Trunk-sweeping & Recurrent
+47,E,E47G,19,1.31,1.86,0.71,6,5,1,Recurrent / Homoplastic
+48,T,T48I,8,0.55,0.53,0.57,3,0,0,Low-frequency / Sporadic
+49,C,C49Y,5,0.35,0.53,0.14,1,0,0,Low-frequency / Sporadic
+50,N,N50D,29,2.0,2.52,1.42,13,6,4,Recurrent / Homoplastic
+51,Q,Q51K,709,48.93,50.93,46.3,355,13,51,Trunk-sweeping & Recurrent
+52,S,S52N,163,11.25,13.26,8.97,455,65,1032,Trunk-sweeping & Recurrent
+53,V,V53I,12,0.83,1.19,0.43,3,2,3,Low-frequency / Sporadic
+54,I,I54V,5,0.35,0.53,0.14,3,2,1,Low-frequency / Sporadic
+55,T,T55I,9,0.62,0.13,1.14,4,4,1,Recurrent / Homoplastic
+56,Y,Y56H,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+57,E,E57K,2,0.14,0.13,0.14,2,2,1,Low-frequency / Sporadic
+58,N,N58S,3,0.21,0.4,0.0,2,0,0,Low-frequency / Sporadic
+59,N,N59S,4,0.28,0.13,0.43,3,2,1,Low-frequency / Sporadic
+60,T,None,0,0.0,0.0,0.0,0,0,0,Invariant
+61,W,W61R,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+62,V,V62I,20,1.38,0.8,1.99,8,6,1,Recurrent / Homoplastic
+63,N,None,0,0.0,0.0,0.0,0,0,0,Invariant
+64,Q,Q64L,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+65,T,None,0,0.0,0.0,0.0,0,0,0,Invariant
+66,Y,Y66F,454,31.33,27.32,35.33,422,18,51,Trunk-sweeping & Recurrent
+67,V,V67I,44,3.04,5.17,0.71,21,20,4,Recurrent / Homoplastic
+68,N,None,0,0.0,0.0,0.0,0,0,0,Invariant
+69,I,None,0,0.0,0.0,0.0,0,0,0,Invariant
+70,S,S70N,19,1.31,0.93,1.71,19,9,2,Recurrent / Homoplastic
+71,N,N71S,9,0.62,1.06,0.14,16,4,51,Recurrent / Homoplastic
+72,T,T72I,92,6.35,3.85,8.97,74,45,39,Recurrent / Homoplastic
+73,N,N73S,14,0.97,1.06,0.85,36,16,1440,Trunk-sweeping & Recurrent
+74,S,S74F,763,52.66,50.93,53.99,360,307,1439,Trunk-sweeping & Recurrent
+75,A,A75V,10,0.69,0.93,0.43,4,4,1,Recurrent / Homoplastic
+76,A,A76T,8,0.55,0.4,0.71,3,1,1,Low-frequency / Sporadic
+77,R,R77G,472,32.57,35.94,28.63,227,208,1439,Trunk-sweeping & Recurrent
+78,Q,Q78P,3,0.21,0.4,0.0,2,1,1,Low-frequency / Sporadic
+79,S,S79P,21,1.45,1.19,1.71,20,4,3,Recurrent / Homoplastic
+80,V,V80M,27,1.86,0.8,2.99,10,5,2,Recurrent / Homoplastic
+81,A,A81V,483,33.33,37.67,28.35,229,210,1439,Trunk-sweeping & Recurrent
+82,S,S82P,30,2.07,1.19,2.99,16,14,1,Recurrent / Homoplastic
+83,V,V83M,21,1.45,0.93,1.99,4,1,1,Low-frequency / Sporadic
+84,K,K84N,3,0.21,0.0,0.43,1,0,0,Low-frequency / Sporadic
+85,L,L85I,28,1.93,0.4,3.56,14,12,8,Recurrent / Homoplastic
+86,A,A86T,10,0.69,0.53,0.85,3,2,1,Low-frequency / Sporadic
+87,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+88,N,N88D,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+89,S,S89T,3,0.21,0.13,0.28,0,0,0,Low-frequency / Sporadic
+90,S,S90P,4,0.28,0.4,0.14,2,2,1,Low-frequency / Sporadic
+91,L,None,0,0.0,0.0,0.0,0,0,0,Invariant
+92,C,None,0,0.0,0.0,0.0,0,0,0,Invariant
+93,P,P93H,35,2.42,1.19,3.7,14,9,1,Recurrent / Homoplastic
+94,V,V94G,2,0.14,0.27,0.0,1,1,1,Low-frequency / Sporadic
+95,S,S95N,10,0.69,0.13,1.28,2,2,1,Low-frequency / Sporadic
+96,G,G96S,8,0.55,1.06,0.0,4,4,2,Recurrent / Homoplastic
+97,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+98,A,A98V,20,1.38,0.53,2.28,27,11,3,Recurrent / Homoplastic
+99,I,I99V,10,0.69,0.8,0.57,5,5,2,Recurrent / Homoplastic
+100,Y,Y100N,7,0.48,0.66,0.28,4,2,1,Low-frequency / Sporadic
+101,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+102,K,K102Q,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+103,D,None,0,0.0,0.0,0.0,0,0,0,Invariant
+104,N,None,0,0.0,0.0,0.0,0,0,0,Invariant
+105,S,S105N,5,0.35,0.27,0.43,3,1,1,Low-frequency / Sporadic
+106,V,V106I,17,1.17,1.46,0.85,4,4,1,Recurrent / Homoplastic
+107,R,R107S,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+108,I,I108V,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+109,G,G109S,1,0.07,0.0,0.14,1,1,1,Low-frequency / Sporadic
+110,S,S110A,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+111,K,K111R,6,0.41,0.66,0.14,3,2,1,Low-frequency / Sporadic
+112,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+113,D,D113E,2,0.14,0.27,0.0,1,0,0,Low-frequency / Sporadic
+114,V,None,0,0.0,0.0,0.0,0,0,0,Invariant
+115,F,F115L,4,0.28,0.4,0.14,2,2,1,Low-frequency / Sporadic
+116,V,V116I,4,0.28,0.27,0.28,0,0,0,Low-frequency / Sporadic
+117,I,I117M,43,2.97,1.72,4.27,22,22,1439,Trunk-sweeping & Recurrent
+118,R,None,0,0.0,0.0,0.0,0,0,0,Invariant
+119,E,None,0,0.0,0.0,0.0,0,0,0,Invariant
+120,P,None,0,0.0,0.0,0.0,0,0,0,Invariant
+121,F,F121L,8,0.55,1.06,0.0,3,3,1,Recurrent / Homoplastic
+122,I,I122V,3,0.21,0.4,0.0,0,0,0,Low-frequency / Sporadic
+123,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+124,C,None,0,0.0,0.0,0.0,0,0,0,Invariant
+125,S,S125A,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+126,P,P126L,7,0.48,0.27,0.71,4,3,1,Recurrent / Homoplastic
+127,L,L127F,16,1.1,1.19,1.0,7,5,1,Recurrent / Homoplastic
+128,E,E128K,4,0.28,0.53,0.0,1,1,1,Low-frequency / Sporadic
+129,C,None,0,0.0,0.0,0.0,0,0,0,Invariant
+130,R,None,0,0.0,0.0,0.0,0,0,0,Invariant
+131,T,T131N,2,0.14,0.0,0.28,2,1,1,Low-frequency / Sporadic
+132,F,None,0,0.0,0.0,0.0,0,0,0,Invariant
+133,F,None,0,0.0,0.0,0.0,0,0,0,Invariant
+134,L,None,0,0.0,0.0,0.0,0,0,0,Invariant
+135,T,None,0,0.0,0.0,0.0,0,0,0,Invariant
+136,Q,None,0,0.0,0.0,0.0,0,0,0,Invariant
+137,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+138,A,A138S,3,0.21,0.13,0.28,1,0,0,Low-frequency / Sporadic
+139,L,None,0,0.0,0.0,0.0,0,0,0,Invariant
+140,L,L140V,2,0.14,0.0,0.28,0,0,0,Low-frequency / Sporadic
+141,N,N141S,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+142,D,None,0,0.0,0.0,0.0,0,0,0,Invariant
+143,K,K143R,4,0.28,0.53,0.0,1,0,0,Low-frequency / Sporadic
+144,H,None,0,0.0,0.0,0.0,0,0,0,Invariant
+145,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+146,N,None,0,0.0,0.0,0.0,0,0,0,Invariant
+147,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+148,T,None,0,0.0,0.0,0.0,0,0,0,Invariant
+149,I,I149V,5,0.35,0.0,0.71,0,0,0,Low-frequency / Sporadic
+150,K,K150R,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+151,D,D151E,2,0.14,0.27,0.0,1,0,0,Low-frequency / Sporadic
+152,R,None,0,0.0,0.0,0.0,0,0,0,Invariant
+153,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+154,P,P154S,5,0.35,0.66,0.0,3,3,1,Recurrent / Homoplastic
+155,Y,Y155H,5,0.35,0.27,0.43,2,2,1,Low-frequency / Sporadic
+156,R,None,0,0.0,0.0,0.0,0,0,0,Invariant
+157,T,T157A,1,0.07,0.0,0.14,1,1,1,Low-frequency / Sporadic
+158,L,L158P,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+159,M,None,0,0.0,0.0,0.0,0,0,0,Invariant
+160,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+161,C,C161S,4,0.28,0.27,0.28,2,2,1,Low-frequency / Sporadic
+162,P,None,0,0.0,0.0,0.0,0,0,0,Invariant
+163,I,I163V,3,0.21,0.13,0.28,0,0,0,Low-frequency / Sporadic
+164,G,G164S,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+165,E,E165K,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+166,V,V166A,12,0.83,0.4,1.28,16,1,3,Low-frequency / Sporadic
+167,P,P167F,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+168,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+169,P,None,0,0.0,0.0,0.0,0,0,0,Invariant
+170,Y,Y170H,3,0.21,0.4,0.0,0,0,0,Low-frequency / Sporadic
+171,N,N171T,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+172,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+173,R,R173K,3,0.21,0.0,0.43,1,1,1,Low-frequency / Sporadic
+174,F,None,0,0.0,0.0,0.0,0,0,0,Invariant
+175,E,None,0,0.0,0.0,0.0,0,0,0,Invariant
+176,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+177,V,None,0,0.0,0.0,0.0,0,0,0,Invariant
+178,A,None,0,0.0,0.0,0.0,0,0,0,Invariant
+179,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+180,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+181,A,None,0,0.0,0.0,0.0,0,0,0,Invariant
+182,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+183,A,None,0,0.0,0.0,0.0,0,0,0,Invariant
+184,C,None,0,0.0,0.0,0.0,0,0,0,Invariant
+185,H,None,0,0.0,0.0,0.0,0,0,0,Invariant
+186,D,None,0,0.0,0.0,0.0,0,0,0,Invariant
+187,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+188,T,T188I,450,31.06,31.7,30.06,213,208,1439,Trunk-sweeping & Recurrent
+189,N,N189S,7,0.48,0.53,0.43,1,0,0,Low-frequency / Sporadic
+190,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+191,L,None,0,0.0,0.0,0.0,0,0,0,Invariant
+192,T,None,0,0.0,0.0,0.0,0,0,0,Invariant
+193,I,I193V,1,0.07,0.0,0.14,1,1,1,Low-frequency / Sporadic
+194,G,G194W,3,0.21,0.4,0.0,1,1,1,Low-frequency / Sporadic
+195,I,I195V,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+196,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+197,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+198,P,P198S,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+199,D,D199N,5,0.35,0.4,0.28,1,1,1,Low-frequency / Sporadic
+200,S,S200N,388,26.78,23.87,29.63,423,26,51,Trunk-sweeping & Recurrent
+201,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+202,A,None,0,0.0,0.0,0.0,0,0,0,Invariant
+203,V,V203L,2,0.14,0.13,0.14,2,1,1,Low-frequency / Sporadic
+204,A,A204T,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+205,V,None,0,0.0,0.0,0.0,0,0,0,Invariant
+206,L,None,0,0.0,0.0,0.0,0,0,0,Invariant
+207,K,None,0,0.0,0.0,0.0,0,0,0,Invariant
+208,Y,None,0,0.0,0.0,0.0,0,0,0,Invariant
+209,N,N209S,3,0.21,0.13,0.28,1,0,0,Low-frequency / Sporadic
+210,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+211,I,I211V,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+212,I,I212K,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+213,T,T213I,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+214,D,None,0,0.0,0.0,0.0,0,0,0,Invariant
+215,T,T215I,3,0.21,0.27,0.14,2,1,1,Low-frequency / Sporadic
+216,I,I216V,8,0.55,0.66,0.43,1,1,1,Low-frequency / Sporadic
+217,K,K217R,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+218,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+219,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+220,R,R220K,10,0.69,0.27,1.14,4,3,1,Recurrent / Homoplastic
+221,N,N221K,3,0.21,0.13,0.28,0,0,0,Low-frequency / Sporadic
+222,N,N222K,467,32.23,27.72,36.75,427,12,51,Trunk-sweeping & Recurrent
+223,I,I223V,8,0.55,0.27,0.85,12,3,2,Recurrent / Homoplastic
+224,L,None,0,0.0,0.0,0.0,0,0,0,Invariant
+225,R,None,0,0.0,0.0,0.0,0,0,0,Invariant
+226,T,None,0,0.0,0.0,0.0,0,0,0,Invariant
+227,Q,None,0,0.0,0.0,0.0,0,0,0,Invariant
+228,E,E228V,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+229,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+230,E,None,0,0.0,0.0,0.0,0,0,0,Invariant
+231,C,None,0,0.0,0.0,0.0,0,0,0,Invariant
+232,A,A232V,13,0.9,1.19,0.57,2,1,1,Low-frequency / Sporadic
+233,C,None,0,0.0,0.0,0.0,0,0,0,Invariant
+234,V,V234I,34,2.35,3.05,1.57,261,78,1147,Trunk-sweeping & Recurrent
+235,N,N235D,9,0.62,0.4,0.85,2,2,2,Low-frequency / Sporadic
+236,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+237,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+238,C,None,0,0.0,0.0,0.0,0,0,0,Invariant
+239,F,F239Y,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+240,T,None,0,0.0,0.0,0.0,0,0,0,Invariant
+241,I,I241V,29,2.0,1.86,2.14,6,2,1,Low-frequency / Sporadic
+242,M,M242V,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+243,T,None,0,0.0,0.0,0.0,0,0,0,Invariant
+244,D,None,0,0.0,0.0,0.0,0,0,0,Invariant
+245,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+246,P,P246T,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+247,S,S247N,11,0.76,1.19,0.28,2,2,1,Low-frequency / Sporadic
+248,D,D248N,30,2.07,1.06,3.13,8,5,3,Recurrent / Homoplastic
+249,G,G249R,4,0.28,0.27,0.28,0,0,0,Low-frequency / Sporadic
+250,Q,None,0,0.0,0.0,0.0,0,0,0,Invariant
+251,A,A251S,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+252,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+253,Y,Y253N,5,0.35,0.66,0.0,1,1,1,Low-frequency / Sporadic
+254,K,None,0,0.0,0.0,0.0,0,0,0,Invariant
+255,I,None,0,0.0,0.0,0.0,0,0,0,Invariant
+256,F,F256L,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+257,R,R257K,54,3.73,4.11,3.28,52,25,7,Recurrent / Homoplastic
+258,I,I258T,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+259,E,E259Q,2,0.14,0.27,0.0,1,1,1,Low-frequency / Sporadic
+260,K,K260R,6,0.41,0.53,0.28,4,2,1,Low-frequency / Sporadic
+261,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+262,K,None,0,0.0,0.0,0.0,0,0,0,Invariant
+263,I,I263V,26,1.79,1.06,2.56,27,10,3,Recurrent / Homoplastic
+264,I,I264T,296,20.43,18.44,22.36,459,32,1032,Trunk-sweeping & Recurrent
+265,K,K265N,1,0.07,0.0,0.14,1,1,1,Low-frequency / Sporadic
+266,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+267,V,V267I,9,0.62,0.8,0.43,5,3,1,Recurrent / Homoplastic
+268,E,None,0,0.0,0.0,0.0,0,0,0,Invariant
+269,M,M269L,2,0.14,0.27,0.0,1,1,1,Low-frequency / Sporadic
+270,K,K270N,99,6.83,5.44,8.26,40,37,1439,Trunk-sweeping & Recurrent
+271,A,None,0,0.0,0.0,0.0,0,0,0,Invariant
+272,P,P272L,4,0.28,0.13,0.43,1,1,1,Low-frequency / Sporadic
+273,N,N273S,1,0.07,0.0,0.14,1,1,1,Low-frequency / Sporadic
+274,Y,Y274H,2,0.14,0.27,0.0,1,1,1,Low-frequency / Sporadic
+275,H,H275Y,14,0.97,1.33,0.57,6,6,1,Recurrent / Homoplastic
+276,Y,None,0,0.0,0.0,0.0,0,0,0,Invariant
+277,E,None,0,0.0,0.0,0.0,0,0,0,Invariant
+278,E,None,0,0.0,0.0,0.0,0,0,0,Invariant
+279,C,C279S,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+280,S,S280T,6,0.41,0.8,0.0,0,0,0,Low-frequency / Sporadic
+281,C,None,0,0.0,0.0,0.0,0,0,0,Invariant
+282,Y,None,0,0.0,0.0,0.0,0,0,0,Invariant
+283,P,None,0,0.0,0.0,0.0,0,0,0,Invariant
+284,D,D284E,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+285,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+286,S,S286G,12,0.83,0.27,1.42,0,0,0,Low-frequency / Sporadic
+287,E,E287K,6,0.41,0.27,0.57,1,0,0,Low-frequency / Sporadic
+288,I,I288V,28,1.93,0.4,3.56,16,13,6,Recurrent / Homoplastic
+289,T,T289I,7,0.48,0.4,0.57,5,3,1,Recurrent / Homoplastic
+290,C,C290S,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+291,V,V291K,2,0.14,0.27,0.0,1,1,1,Low-frequency / Sporadic
+292,C,C292X,4,0.28,0.53,0.0,2,0,0,Low-frequency / Sporadic
+293,R,None,0,0.0,0.0,0.0,0,0,0,Invariant
+294,D,D294E,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+295,N,None,0,0.0,0.0,0.0,0,0,0,Invariant
+296,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+297,H,H297Q,3,0.21,0.4,0.0,1,0,0,Low-frequency / Sporadic
+298,G,G298A,7,0.48,0.8,0.14,4,4,2,Recurrent / Homoplastic
+299,S,S299A,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+300,N,N300D,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+301,R,None,0,0.0,0.0,0.0,0,0,0,Invariant
+302,P,None,0,0.0,0.0,0.0,0,0,0,Invariant
+303,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+304,V,None,0,0.0,0.0,0.0,0,0,0,Invariant
+305,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+306,F,F306I,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+307,N,N307D,2,0.14,0.13,0.14,1,1,1,Low-frequency / Sporadic
+308,Q,Q308P,2,0.14,0.27,0.0,1,1,1,Low-frequency / Sporadic
+309,N,N309D,3,0.21,0.13,0.28,3,3,1,Recurrent / Homoplastic
+310,L,None,0,0.0,0.0,0.0,0,0,0,Invariant
+311,E,E311D,3,0.21,0.27,0.14,1,0,0,Low-frequency / Sporadic
+312,Y,None,0,0.0,0.0,0.0,0,0,0,Invariant
+313,Q,Q313R,13,0.9,0.0,1.85,5,5,4,Recurrent / Homoplastic
+314,M,M314I,151,10.42,11.94,8.69,57,54,1439,Trunk-sweeping & Recurrent
+315,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+316,Y,Y316P,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+317,I,I317V,1,0.07,0.0,0.14,1,1,1,Low-frequency / Sporadic
+318,C,None,0,0.0,0.0,0.0,0,0,0,Invariant
+319,S,S319R,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+320,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+321,V,V321I,39,2.69,3.32,1.99,13,13,2,Recurrent / Homoplastic
+322,F,F322L,11,0.76,0.4,1.14,14,3,2,Recurrent / Homoplastic
+323,G,G323R,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+324,D,None,0,0.0,0.0,0.0,0,0,0,Invariant
+325,N,None,0,0.0,0.0,0.0,0,0,0,Invariant
+326,P,None,0,0.0,0.0,0.0,0,0,0,Invariant
+327,R,None,0,0.0,0.0,0.0,0,0,0,Invariant
+328,P,P328S,3,0.21,0.27,0.14,1,1,1,Low-frequency / Sporadic
+329,N,N329Y,9,0.62,0.4,0.85,1,0,0,Low-frequency / Sporadic
+330,D,None,0,0.0,0.0,0.0,0,0,0,Invariant
+331,K,K331R,12,0.83,0.8,0.85,15,2,3,Low-frequency / Sporadic
+332,T,T332A,5,0.35,0.4,0.28,1,0,0,Low-frequency / Sporadic
+333,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+334,S,S334N,5,0.35,0.0,0.71,1,1,1,Low-frequency / Sporadic
+335,C,None,0,0.0,0.0,0.0,0,0,0,Invariant
+336,G,G336S,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+337,P,None,0,0.0,0.0,0.0,0,0,0,Invariant
+338,V,V338A,2,0.14,0.0,0.28,0,0,0,Low-frequency / Sporadic
+339,S,S339L,62,4.28,1.59,7.12,62,30,7,Recurrent / Homoplastic
+340,S,S340F,5,0.35,0.13,0.57,0,0,0,Low-frequency / Sporadic
+341,N,N341S,8,0.55,0.4,0.71,4,3,1,Recurrent / Homoplastic
+342,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+343,A,A343S,4,0.28,0.27,0.28,2,1,1,Low-frequency / Sporadic
+344,N,N344K,2,0.14,0.13,0.14,0,0,0,Low-frequency / Sporadic
+345,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+346,V,V346I,5,0.35,0.4,0.28,0,0,0,Low-frequency / Sporadic
+347,K,None,0,0.0,0.0,0.0,0,0,0,Invariant
+348,G,G348E,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+349,F,None,0,0.0,0.0,0.0,0,0,0,Invariant
+350,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+351,F,F351Y,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+352,K,K352R,2,0.14,0.27,0.0,2,1,1,Low-frequency / Sporadic
+353,Y,None,0,0.0,0.0,0.0,0,0,0,Invariant
+354,G,G354R,3,0.21,0.4,0.0,0,0,0,Low-frequency / Sporadic
+355,N,None,0,0.0,0.0,0.0,0,0,0,Invariant
+356,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+357,V,V357I,1,0.07,0.0,0.14,1,1,1,Low-frequency / Sporadic
+358,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+359,I,I359V,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+360,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+361,R,None,0,0.0,0.0,0.0,0,0,0,Invariant
+362,T,T362I,1,0.07,0.0,0.14,1,1,1,Low-frequency / Sporadic
+363,K,None,0,0.0,0.0,0.0,0,0,0,Invariant
+364,S,S364G,2,0.14,0.0,0.28,2,1,1,Low-frequency / Sporadic
+365,I,I365T,78,5.38,4.51,6.27,48,39,1439,Trunk-sweeping & Recurrent
+366,S,S366N,17,1.17,0.8,1.57,14,5,2,Recurrent / Homoplastic
+367,S,S367L,2,0.14,0.13,0.14,0,0,0,Low-frequency / Sporadic
+368,R,None,0,0.0,0.0,0.0,0,0,0,Invariant
+369,K,K369N,27,1.86,1.19,2.56,4,4,1,Recurrent / Homoplastic
+370,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+371,F,None,0,0.0,0.0,0.0,0,0,0,Invariant
+372,E,None,0,0.0,0.0,0.0,0,0,0,Invariant
+373,M,None,0,0.0,0.0,0.0,0,0,0,Invariant
+374,I,I374V,3,0.21,0.0,0.43,1,1,1,Low-frequency / Sporadic
+375,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+376,D,None,0,0.0,0.0,0.0,0,0,0,Invariant
+377,P,P377S,2,0.14,0.0,0.28,1,1,1,Low-frequency / Sporadic
+378,N,None,0,0.0,0.0,0.0,0,0,0,Invariant
+379,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+380,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+381,T,T381I,34,2.35,4.24,0.28,16,15,4,Recurrent / Homoplastic
+382,G,G382E,19,1.31,1.33,1.28,5,5,1,Recurrent / Homoplastic
+383,T,T383K,2,0.14,0.0,0.28,0,0,0,Low-frequency / Sporadic
+384,D,None,0,0.0,0.0,0.0,0,0,0,Invariant
+385,N,N385T,3,0.21,0.27,0.14,0,0,0,Low-frequency / Sporadic
+386,K,K386N,54,3.73,3.45,3.99,15,11,1,Recurrent / Homoplastic
+387,F,F387Y,4,0.28,0.4,0.14,0,0,0,Low-frequency / Sporadic
+388,S,S388T,2,0.14,0.27,0.0,2,1,1,Low-frequency / Sporadic
+389,I,I389K,645,44.51,43.24,45.44,380,15,51,Trunk-sweeping & Recurrent
+390,K,K390R,3,0.21,0.27,0.14,2,2,1,Low-frequency / Sporadic
+391,Q,Q391X,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+392,D,D392E,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+393,I,I393V,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+394,V,V394I,19,1.31,1.72,0.85,8,7,2,Recurrent / Homoplastic
+395,G,G395R,2,0.14,0.13,0.14,1,1,1,Low-frequency / Sporadic
+396,I,I396L,31,2.14,2.65,1.57,17,5,3,Recurrent / Homoplastic
+397,N,N397K,16,1.1,1.06,1.14,4,3,1,Recurrent / Homoplastic
+398,E,E398D,3,0.21,0.0,0.43,2,2,1,Low-frequency / Sporadic
+399,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+400,S,S400T,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+401,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+402,Y,None,0,0.0,0.0,0.0,0,0,0,Invariant
+403,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+404,G,G404R,7,0.48,0.93,0.0,2,2,1,Low-frequency / Sporadic
+405,S,S405N,2,0.14,0.13,0.14,2,2,1,Low-frequency / Sporadic
+406,F,None,0,0.0,0.0,0.0,0,0,0,Invariant
+407,V,None,0,0.0,0.0,0.0,0,0,0,Invariant
+408,Q,None,0,0.0,0.0,0.0,0,0,0,Invariant
+409,H,None,0,0.0,0.0,0.0,0,0,0,Invariant
+410,P,P410S,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+411,E,None,0,0.0,0.0,0.0,0,0,0,Invariant
+412,L,None,0,0.0,0.0,0.0,0,0,0,Invariant
+413,T,None,0,0.0,0.0,0.0,0,0,0,Invariant
+414,G,G414R,2,0.14,0.13,0.14,2,1,1,Low-frequency / Sporadic
+415,L,L415M,3,0.21,0.4,0.0,1,1,1,Low-frequency / Sporadic
+416,N,N416D,664,45.82,45.76,45.44,323,315,1439,Trunk-sweeping & Recurrent
+417,C,None,0,0.0,0.0,0.0,0,0,0,Invariant
+418,I,I418V,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+419,R,R419K,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+420,P,P420S,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+421,C,None,0,0.0,0.0,0.0,0,0,0,Invariant
+422,F,None,0,0.0,0.0,0.0,0,0,0,Invariant
+423,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+424,V,V424I,3,0.21,0.13,0.28,2,2,1,Low-frequency / Sporadic
+425,E,None,0,0.0,0.0,0.0,0,0,0,Invariant
+426,L,None,0,0.0,0.0,0.0,0,0,0,Invariant
+427,I,I427M,2,0.14,0.13,0.14,1,1,1,Low-frequency / Sporadic
+428,R,None,0,0.0,0.0,0.0,0,0,0,Invariant
+429,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+430,R,R430Q,3,0.21,0.13,0.28,0,0,0,Low-frequency / Sporadic
+431,P,P431S,1,0.07,0.0,0.14,1,1,1,Low-frequency / Sporadic
+432,E,E432K,48,3.31,3.32,3.28,12,11,1,Recurrent / Homoplastic
+433,E,None,0,0.0,0.0,0.0,0,0,0,Invariant
+434,N,N434S,8,0.55,0.4,0.71,1,1,1,Low-frequency / Sporadic
+435,T,T435A,3,0.21,0.13,0.28,2,1,1,Low-frequency / Sporadic
+436,I,I436V,53,3.66,2.52,4.84,24,23,30,Recurrent / Homoplastic
+437,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+438,T,T438A,4,0.28,0.4,0.14,3,3,1,Recurrent / Homoplastic
+439,S,S439T,1,0.07,0.0,0.14,1,1,1,Low-frequency / Sporadic
+440,G,G440R,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+441,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+442,S,S442I,1,0.07,0.13,0.0,1,1,1,Low-frequency / Sporadic
+443,I,I443V,5,0.35,0.27,0.43,3,2,1,Low-frequency / Sporadic
+444,S,S444T,1,0.07,0.0,0.14,1,1,1,Low-frequency / Sporadic
+445,F,F445L,2,0.14,0.27,0.0,0,0,0,Low-frequency / Sporadic
+446,C,C446F,1,0.07,0.13,0.0,0,0,0,Low-frequency / Sporadic
+447,G,None,0,0.0,0.0,0.0,0,0,0,Invariant
+448,V,V448I,3,0.21,0.27,0.14,1,1,1,Low-frequency / Sporadic
+449,D,D449N,446,30.78,33.02,28.06,208,201,1439,Trunk-sweeping & Recurrent
+450,S,S450G,37,2.55,0.53,4.7,25,11,6,Recurrent / Homoplastic
+451,D,D451G,23,1.59,1.72,1.42,9,5,1,Recurrent / Homoplastic
+452,T,T452I,694,47.9,48.94,46.3,351,15,51,Trunk-sweeping & Recurrent
+453,V,V453M,407,28.09,22.68,33.62,430,20,51,Trunk-sweeping & Recurrent
+454,G,G454D,15,1.04,0.66,1.42,5,2,1,Low-frequency / Sporadic
+455,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+456,S,None,0,0.0,0.0,0.0,0,0,0,Invariant
+457,W,None,0,0.0,0.0,0.0,0,0,0,Invariant
+458,P,P458S,3,0.21,0.4,0.0,2,2,1,Low-frequency / Sporadic
+459,D,None,0,0.0,0.0,0.0,0,0,0,Invariant
+460,G,G460T,3,0.21,0.4,0.0,0,0,0,Low-frequency / Sporadic
+461,A,A461S,3,0.21,0.0,0.43,0,0,0,Low-frequency / Sporadic
+462,E,E462D,3,0.21,0.4,0.0,0,0,0,Low-frequency / Sporadic
+463,L,None,0,0.0,0.0,0.0,0,0,0,Invariant
+464,P,None,0,0.0,0.0,0.0,0,0,0,Invariant
+465,F,None,0,0.0,0.0,0.0,0,0,0,Invariant
+466,T,T466I,9,0.62,0.4,0.85,5,3,1,Recurrent / Homoplastic
+467,I,I467V,21,1.45,0.8,2.14,13,12,2,Recurrent / Homoplastic
+468,D,D468G,1,0.07,0.0,0.14,0,0,0,Low-frequency / Sporadic
+469,K,K469N,380,26.22,20.29,32.34,447,43,394,Trunk-sweeping & Recurrent
