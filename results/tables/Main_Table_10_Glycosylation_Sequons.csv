@@ -1,0 +1,11 @@
+N1_Sequon_Pos,Dominant_Motif,Total_Count,Global_Pct,Asian_Pct,NonAsian_Pct,Pct_2015_2017,Pct_2018_2020,Pct_2021_2025,Pct_2023_2025,Temporal_Classification,Observed_Triplets
+42,"[('NQS', 1388)]",1403,96.83,96.4,97.28,92.56,99.8,98.27,97.95,Persistent (≥80% across all periods),NQS (1388); NQN (44); NRS (8); NHS (4)
+50,"[('NQS', 726)]",1257,86.75,84.0,89.7,97.38,83.88,78.35,76.41,High-frequency declining (≥80% to <80%),NQS (726); NKS (526); NKN (152); DKS (18)
+58,"[('NNT', 1442)]",1446,99.79,99.6,100.0,99.8,99.59,100.0,100.0,Persistent (≥80% across all periods),NNT (1442); NST (2); NKT (2); SNT (1)
+63,"[('NQT', 1447)]",1449,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Persistent (≥80% across all periods),NQT (1447); NLT (2)
+68,"[('NIS', 1430)]",1430,98.69,99.07,98.28,97.99,99.18,98.92,98.72,Persistent (≥80% across all periods),NIS (1430); NIN (18); NIG (1)
+70,"[('SNT', 1329)]",18,1.24,0.93,1.57,2.01,0.82,0.87,1.03,Low-frequency / Sporadic (<10%),SNT (1329); SNI (78); NNT (18); SNN (12)
+88,"[('NSS', 1441)]",1444,99.65,99.6,99.71,100.0,99.8,99.13,98.97,Persistent (≥80% across all periods),NSS (1441); NSP (4); NTS (3); DSS (1)
+146,"[('NGT', 1449)]",1449,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Persistent (≥80% across all periods),NGT (1449)
+235,"[('NGS', 1440)]",1440,99.38,99.6,99.14,99.8,100.0,98.27,98.72,Persistent (≥80% across all periods),NGS (1440); DGS (5); YGS (3); HGS (1)
+386,"[('KFS', 1389)]",47,3.24,2.93,3.58,6.44,0.41,2.81,3.33,Low-frequency / Sporadic (<10%),KFS (1389); NFS (47); SFS (4); KYS (4)

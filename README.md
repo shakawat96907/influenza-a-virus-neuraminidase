@@ -53,7 +53,7 @@ influenza-a-virus-neuraminidase/
     └── tables/                            # Main Tables 5–6, Supplementary Tables 1–8 & outlier audit logs
 ```
 
-## Completed Analytical Workflow (`T1`–`T9`)
+## Completed Analytical Workflow (`T1`–`T10`)
 
 1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
    * Retrieved human A(H1N1)pdm09 NA coding sequences (2015–2025) from NCBI Virus, filtered for complete coding sequences (1,380–1,500 nt), ≤1% ambiguous bases, intact reading frames, and deduplicated isolate names.
@@ -79,7 +79,10 @@ influenza-a-virus-neuraminidase/
 9. **Temporal Stratification & Equal-Size Rarefaction (`analysis/14_temporal_rarefaction_and_fig5.py`):**
    * Evaluated temporal diversity across 3-period, 4-period (isolating the `2021–2022` COVID-19 bottleneck), and annual (`2015–2025`) schemes using `1,000` random rarefaction iterations (`n = 225`, `n = 36`, `n = 20`) and minimum recurrence filtering (`≥2` sequences), confirming a robust post-2020 evolutionary rebound (**Figure 5A–C**, **Main Table 9**, `Supplementary Table 11`).
 
-## Ongoing Revision Analyses (`T10`–`T18`)
+10. **Predicted N-Linked Glycosylation Sequon Profiling (`analysis/15_glycosylation_and_fig6.py`, `analysis/15b_clean_fig6_table10.py`):**
+   * Scanned canonical `N-X-S/T` (`X ≠ P`) motifs across all 1,449 sequences (`2015–2025`), identifying 7 persistent core sequons (`≥80%` across all periods) and a progressive decline at `N50` (`97.38%` to `78.35%`) driven by `S52N` (**Figure 6A–B**, **Main Table 10**, `Supplementary Table 12`).
+
+## Ongoing Revision Analyses (`T11`–`T18`)
 
 * Phylogeny-aware regional enrichment (`Fisher's exact test + BH FDR` & independent origin comparison) and within-year Shannon entropy / temporal rarefaction (`T7`–`T8`)
 * Site-specific selection analysis (`HyPhy MEME / FEL / FUBAR`) and co-occurring mutation / epistasis network (`T9`–`T10`)
