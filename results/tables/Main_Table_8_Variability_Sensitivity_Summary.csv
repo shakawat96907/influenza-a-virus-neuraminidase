@@ -1,0 +1,4 @@
+Threshold_Scheme,Conserved_Sites,Variable_Sites,Hypervariable_Sites,Nested_Overlap_With_Baseline_HV
+Lenient (≤0.01 / ≥0.05),405,40,24,19/19 (100%)
+Baseline (≤0.02 / ≥0.10),426,24,19,19/19 (100%)
+Stringent (≤0.05 / ≥0.20),445,8,16,16/16 (100%)

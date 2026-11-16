@@ -53,7 +53,7 @@ influenza-a-virus-neuraminidase/
     └── tables/                            # Main Tables 5–6, Supplementary Tables 1–8 & outlier audit logs
 ```
 
-## Completed Analytical Workflow (`T1`–`T7`)
+## Completed Analytical Workflow (`T1`–`T8`)
 
 1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
    * Retrieved human A(H1N1)pdm09 NA coding sequences (2015–2025) from NCBI Virus, filtered for complete coding sequences (1,380–1,500 nt), ≤1% ambiguous bases, intact reading frames, and deduplicated isolate names.
@@ -73,7 +73,10 @@ influenza-a-virus-neuraminidase/
 7. **Phylogeny-Aware & Year-Stratified Regional Enrichment (`analysis/12_phylogeny_aware_enrichment.py`, `analysis/12b_fix_fig3.py`):**
    * Evaluated regional enrichment across all 59 variants (≥1.0% global prevalence) using two-sided Fisher's exact tests (`BH FDR`), year-stratified Cochran–Mantel–Haenszel (`CMH`) tests, protein-deduplicated sensitivity analysis (`n = 718`), and clade-declustered phylogeny-pruned sensitivity analysis (`n = 538`) paired with `TreeTime` independent origins (**Figure 3A–B**, **Main Table 7**, `Supplementary Table 9`).
 
-## Ongoing Revision Analyses (`T8`–`T18`)
+8. **Site-Wise Shannon Entropy & Cut-Off Sensitivity (`analysis/13_shannon_entropy_and_fig4.py`):**
+   * Computed information-theoretic Shannon entropy (`H`, bits) and `1 − consensus frequency` across all 469 N1 positions, confirming near-perfect rank concordance (`Spearman ρ = 0.9991`) and nested stability across lenient, baseline, and stringent variability thresholds (**Figure 4A–C**, **Main Table 8**, `Supplementary Table 10`).
+
+## Ongoing Revision Analyses (`T9`–`T18`)
 
 * Phylogeny-aware regional enrichment (`Fisher's exact test + BH FDR` & independent origin comparison) and within-year Shannon entropy / temporal rarefaction (`T7`–`T8`)
 * Site-specific selection analysis (`HyPhy MEME / FEL / FUBAR`) and co-occurring mutation / epistasis network (`T9`–`T10`)
