@@ -53,6 +53,9 @@ influenza-a-virus-neuraminidase/
     └── tables/                            # Main Tables 5–6, Supplementary Tables 1–8 & outlier audit logs
 ```
 
+### Latest Addition (T9)
+- `analysis/14_temporal_rarefaction_and_fig5.py`: Temporal stratification (3-period, 4-period, annual) & 1,000-iteration equal-size rarefaction (**Figure 5A–C**, **Main Table 9**, `Supplementary Table 11`).
+
 ## Completed Analytical Workflow (`T1`–`T9`)
 
 1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
