@@ -98,3 +98,7 @@ bash run_all.sh
 * **Md. Shakawat Hossain** — First Author
 * **Rubaiya Tasnim** — Second Author
 * **Dr. Farjana Islam** — Corresponding Author (`farjana-bmb@sust.edu`)
+
+* **Md. Shakawat Hossain** — First Author
+* **Rubaiya Tasnim** — Second Author
+* **Dr. Farjana Islam** — Corresponding Author (`farjana-bmb@sust.edu`)
