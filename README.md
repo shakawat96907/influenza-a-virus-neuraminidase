@@ -53,7 +53,7 @@ influenza-a-virus-neuraminidase/
     └── tables/                            # Main Tables 5–6, Supplementary Tables 1–8 & outlier audit logs
 ```
 
-## Completed Analytical Workflow (`T1`–`T8`)
+## Completed Analytical Workflow (`T1`–`T9`)
 
 1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
    * Retrieved human A(H1N1)pdm09 NA coding sequences (2015–2025) from NCBI Virus, filtered for complete coding sequences (1,380–1,500 nt), ≤1% ambiguous bases, intact reading frames, and deduplicated isolate names.

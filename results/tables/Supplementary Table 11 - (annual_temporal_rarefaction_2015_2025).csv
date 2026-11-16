@@ -1,0 +1,23 @@
+Year,Cohort,N,Obs_Sites_ge1,Obs_Sites_ge2,Obs_Sites_ge1pct,Mean_Diffs_Per_Seq,Rarefied_Target_N,Rarefied_Sites_ge1,Rarefied_95CI_Low,Rarefied_95CI_High,Note
+2015,Asia,106,90,53,53,9.46,20,41.0,29.0,53.0,Standard surveillance
+2015,Non-Asia,72,69,36,69,10.44,20,38.0,26.0,48.0,Standard surveillance
+2016,Asia,87,67,25,67,8.3,20,28.3,21.0,38.0,Standard surveillance
+2016,Non-Asia,87,82,45,82,9.18,20,41.3,23.0,58.0,Standard surveillance
+2017,Asia,79,72,29,72,5.43,20,30.4,22.0,40.0,Standard surveillance
+2017,Non-Asia,66,56,34,56,6.29,20,34.1,18.0,45.0,Standard surveillance
+2018,Asia,91,60,28,60,3.43,20,25.7,18.0,33.0,Standard surveillance
+2018,Non-Asia,91,55,21,55,3.26,20,20.5,14.0,27.0,Standard surveillance
+2019,Asia,120,58,31,31,3.74,20,22.4,15.0,30.0,Standard surveillance
+2019,Non-Asia,120,66,35,35,4.23,20,27.6,21.0,35.0,Standard surveillance
+2020,Asia,36,32,11,32,5.25,20,22.3,14.0,29.0,Standard surveillance
+2020,Non-Asia,32,31,12,31,6.28,20,23.9,19.0,28.0,Standard surveillance
+2021,Asia,3,12,7,12,8.0,3,12.0,12.0,12.0,COVID-19 low-surveillance year
+2021,Non-Asia,3,40,7,40,15.67,3,40.0,40.0,40.0,COVID-19 low-surveillance year
+2022,Asia,33,36,28,36,7.15,20,31.0,26.0,35.0,Standard surveillance
+2022,Non-Asia,33,59,23,59,11.03,20,45.2,25.0,57.0,Standard surveillance
+2023,Asia,77,60,36,60,9.9,20,32.7,25.0,42.0,Standard surveillance
+2023,Non-Asia,77,64,31,64,10.14,20,30.6,23.0,38.0,Standard surveillance
+2024,Asia,75,82,39,82,12.39,20,46.0,39.0,53.0,Standard surveillance
+2024,Non-Asia,75,72,32,72,11.25,20,34.2,27.0,42.0,Standard surveillance
+2025,Asia,43,53,22,53,12.02,20,34.8,28.0,41.0,Standard surveillance
+2025,Non-Asia,43,45,20,45,12.14,20,30.5,25.0,36.0,Standard surveillance

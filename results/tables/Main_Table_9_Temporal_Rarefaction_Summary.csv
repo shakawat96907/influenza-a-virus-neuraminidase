@@ -1,0 +1,15 @@
+Scheme,Period,Cohort,N,Obs_Sites_ge1,Obs_Sites_ge2,Obs_Sites_ge1pct,Rarefied_N,Rarefied_Sites_ge1_95CI,Rarefied_Sites_ge2_95CI,Mean_NonCons_Per_Seq,Statistical_Status
+3-Period Scheme,2015–2017,Asia,272,159,85,58,225,145.1 (136.0–153.0),75.1 (69.0–81.0),7.92,Powered
+3-Period Scheme,2015–2017,Non-Asia,225,123,77,55,225,123.0 (123.0–123.0),77.0 (77.0–77.0),8.74,Powered
+3-Period Scheme,2018–2020,Asia,247,111,58,40,225,106.1 (101.0–110.0),54.7 (50.0–58.0),3.85,Powered
+3-Period Scheme,2018–2020,Non-Asia,243,108,50,35,225,103.6 (99.0–107.0),47.7 (44.0–50.0),4.14,Powered
+3-Period Scheme,2021–2025,Asia,231,144,89,60,225,142.6 (139.0–144.0),87.5 (84.0–89.0),10.68,Powered
+3-Period Scheme,2021–2025,Non-Asia,231,136,92,63,225,134.9 (133.0–136.0),90.4 (80.0–92.0),11.07,Powered
+4-Period Scheme,2015–2017 (Pre-clade shift),Asia,272,159,85,58,36,53.7 (41.0–67.0),21.5 (15.0–30.0),7.92,Powered
+4-Period Scheme,2015–2017 (Pre-clade shift),Non-Asia,225,123,77,55,36,55.4 (41.0–69.0),28.9 (19.0–37.0),8.74,Powered
+4-Period Scheme,2018–2020 (Pre-pandemic),Asia,247,111,58,40,36,38.3 (28.0–50.0),14.4 (9.0–21.0),3.85,Powered
+4-Period Scheme,2018–2020 (Pre-pandemic),Non-Asia,243,108,50,35,36,39.3 (31.0–48.0),18.9 (15.0–23.0),4.14,Powered
+4-Period Scheme,2021–2022 (COVID-19 bottleneck),Asia,36,40,30,40,36,40.0 (40.0–40.0),30.0 (30.0–30.0),7.22,Descriptive (small N)
+4-Period Scheme,2021–2022 (COVID-19 bottleneck),Non-Asia,36,61,49,61,36,61.0 (61.0–61.0),49.0 (49.0–49.0),11.42,Descriptive (small N)
+4-Period Scheme,2023–2025 (Post-pandemic surge),Asia,195,127,73,73,36,59.5 (49.0–71.0),32.0 (21.0–39.0),11.32,Powered
+4-Period Scheme,2023–2025 (Post-pandemic surge),Non-Asia,195,118,59,59,36,48.4 (39.0–58.0),21.1 (17.0–26.0),11.01,Powered
