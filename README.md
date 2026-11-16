@@ -53,9 +53,6 @@ influenza-a-virus-neuraminidase/
     └── tables/                            # Main Tables 5–6, Supplementary Tables 1–8 & outlier audit logs
 ```
 
-### Latest Addition (T9)
-- `analysis/14_temporal_rarefaction_and_fig5.py`: Temporal stratification (3-period, 4-period, annual) & 1,000-iteration equal-size rarefaction (**Figure 5A–C**, **Main Table 9**, `Supplementary Table 11`).
-
 ## Completed Analytical Workflow (`T1`–`T9`)
 
 1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
@@ -79,7 +76,10 @@ influenza-a-virus-neuraminidase/
 8. **Site-Wise Shannon Entropy & Cut-Off Sensitivity (`analysis/13_shannon_entropy_and_fig4.py`):**
    * Computed information-theoretic Shannon entropy (`H`, bits) and `1 − consensus frequency` across all 469 N1 positions, confirming near-perfect rank concordance (`Spearman ρ = 0.9991`) and nested stability across lenient, baseline, and stringent variability thresholds (**Figure 4A–C**, **Main Table 8**, `Supplementary Table 10`).
 
-## Ongoing Revision Analyses (`T9`–`T18`)
+9. **Temporal Stratification & Equal-Size Rarefaction (`analysis/14_temporal_rarefaction_and_fig5.py`):**
+   * Evaluated temporal diversity across 3-period, 4-period (isolating the `2021–2022` COVID-19 bottleneck), and annual (`2015–2025`) schemes using `1,000` random rarefaction iterations (`n = 225`, `n = 36`, `n = 20`) and minimum recurrence filtering (`≥2` sequences), confirming a robust post-2020 evolutionary rebound (**Figure 5A–C**, **Main Table 9**, `Supplementary Table 11`).
+
+## Ongoing Revision Analyses (`T10`–`T18`)
 
 * Phylogeny-aware regional enrichment (`Fisher's exact test + BH FDR` & independent origin comparison) and within-year Shannon entropy / temporal rarefaction (`T7`–`T8`)
 * Site-specific selection analysis (`HyPhy MEME / FEL / FUBAR`) and co-occurring mutation / epistasis network (`T9`–`T10`)
