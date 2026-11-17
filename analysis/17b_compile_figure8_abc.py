@@ -98,9 +98,9 @@ def main():
     empty_y = list()
     leg_c = [
         Patch(facecolor="#21618C", edgecolor="none", label="Subunit A"),
-        Patch(facecolor="#D5D8DC", edgecolor="none", label="Subunits B–D"),
+        Patch(facecolor="#16A085", edgecolor="none", label="Subunits B–D (Teal/Purple/Cyan)"),
         Line2D(empty_x, empty_y, marker="o", color="w", markerfacecolor="#FF8C00", markersize=7, label="Head Variants (CPK)"),
-        Line2D(empty_x, empty_y, marker="s", color="w", markerfacecolor="#228B22", markersize=7, label="Catalytic Site (CPK)")
+        Line2D(empty_x, empty_y, marker="s", color="w", markerfacecolor="#C0392B", markersize=7, label="Catalytic Site (CPK)")
     ]
     ax3.legend(handles=leg_c, loc="lower left", bbox_to_anchor=(-0.02, 1.01), ncol=2, fontsize=7.4, frameon=False)
 
