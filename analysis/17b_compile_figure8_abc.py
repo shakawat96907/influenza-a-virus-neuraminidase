@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 from matplotlib.patches import Patch
 
-def trim_whitespace(im, pad=20):
+def trim_whitespace(im, pad=62):
     bg = Image.new(im.mode, im.size, (255, 255, 255))
     diff = ImageChops.difference(im, bg)
     bbox = diff.getbbox()
@@ -22,7 +22,7 @@ def trim_whitespace(im, pad=20):
 
 def main():
     df = pd.read_csv("results/tables/Supplementary Table 14 - (tetramer_vs_monomer_SASA_RSA_4B7R).csv")
-    im_3d = trim_whitespace(Image.open("results/structure/pymol_8C_raw.png").convert("RGB"), pad=25)
+    im_3d = trim_whitespace(Image.open("results/structure/pymol_8C_raw.png").convert("RGB"), pad=62)
 
     # Single horizontal row: 1 row x 3 columns (Panels A, B, C side-by-side)
     fig, (ax1, ax2, ax3) = plt.subplots(
@@ -49,7 +49,7 @@ def main():
 
     ax1.set_xlabel("Isolated Monomer SASA (Å², Chain A)", fontsize=9.5, fontweight="bold")
     ax1.set_ylabel("Biological Tetramer SASA (Å², 4B7R)", fontsize=9.5, fontweight="bold")
-    ax1.set_title("A   Monomer vs. Tetramer SASA (4B7R)", loc="left", fontsize=10.5, fontweight="bold", pad=28)
+    ax1.set_title("A   Monomer vs. Tetramer SASA (4B7R)", loc="left", fontsize=10.5, fontweight="bold", pad=62)
     ax1.set_xlim(-5, 225)
     ax1.set_ylim(-5, 225)
     ax1.legend(handles=[s1, s2], loc="lower left", bbox_to_anchor=(-0.02, 1.01), ncol=2, fontsize=7.5, frameon=False)
@@ -81,7 +81,7 @@ def main():
 
     ax2.set_xlabel("Canonical N1 Head-Domain Position (83–469)", fontsize=9.5, fontweight="bold")
     ax2.set_ylabel("Tetramer Relative Solvent Accessibility (RSA)", fontsize=9.5, fontweight="bold")
-    ax2.set_title("B   Biological Tetramer RSA Exposure Profile", loc="left", fontsize=10.5, fontweight="bold", pad=28)
+    ax2.set_title("B   Biological Tetramer RSA Exposure Profile", loc="left", fontsize=10.5, fontweight="bold", pad=62)
     ax2.set_xlim(78, 475)
     ax2.set_ylim(-0.04, 1.05)
     ax2.legend(handles=[b3, b2, b1], loc="lower left", bbox_to_anchor=(-0.02, 1.01), ncol=3, fontsize=7.3, frameon=False)
@@ -92,7 +92,7 @@ def main():
     # Panel C: PyMOL 3D Biological Homotetramer
     ax3.imshow(im_3d)
     ax3.axis("off")
-    ax3.set_title("C   3D Homotetramer Architecture (PDB 4B7R)", loc="left", fontsize=10.5, fontweight="bold", pad=28)
+    ax3.set_title("C   3D Homotetramer Architecture (PDB 4B7R)", loc="left", fontsize=10.5, fontweight="bold", pad=62)
 
     empty_x = list()
     empty_y = list()
@@ -104,7 +104,7 @@ def main():
     ]
     ax3.legend(handles=leg_c, loc="lower left", bbox_to_anchor=(-0.02, 1.01), ncol=2, fontsize=7.4, frameon=False)
 
-    plt.subplots_adjust(left=0.045, right=0.985, top=0.83, bottom=0.13)
+    plt.subplots_adjust(left=0.045, right=0.985, top=0.74, bottom=0.13)
     fig.savefig("results/figures/Figure8_Composite_Tetramer_Structure_1000dpi.tiff", dpi=1000, format="tiff", pil_kwargs={"compression": "tiff_lzw"})
     fig.savefig("results/figures/Figure8_Composite_Tetramer_Structure_preview.png", dpi=300, format="png")
     plt.close(fig)
