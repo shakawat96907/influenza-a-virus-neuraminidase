@@ -1,0 +1,7 @@
+Season_Tag,WHO_Label,Verified_Accession,NCBI_Organism,NCBI_Description,Length_AA
+2009_Legacy,Prior Single Reference (QFQ15359.1),QFQ15359.1,Influenza A virus,neuraminidase [Influenza A virus],469
+2015_2016,A/California/04/2009 (2015–2016 WHO),ACP41107.1,Influenza A virus (A/California/04/2009(H1N1)),neuraminidase [Influenza A virus (A/California/04/2009(H1N1))],469
+2017_2019,A/Michigan/45/2015 (2017–2019 WHO),QBL89780.1,Influenza A virus,neuraminidase [Influenza A virus],469
+2020,"A/Brisbane/02/2018-clade (OQ718990, 2020 WHO)",OQ718990,Influenza A virus,A/Brisbane/02/2018-clade reference (469 aa),469
+2021_2022,A/Victoria/2570/2019 (2021–2022 WHO),9TQ8_D,Influenza A virus (A/(H1N1)),"Chain D, Neuraminidase",469
+2023_2025,A/Victoria/4897/2022 (2023–2025 WHO),YCB21549.1,Influenza A virus,neuraminidase [Influenza A virus],469
