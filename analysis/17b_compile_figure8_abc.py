@@ -97,8 +97,8 @@ def main():
     empty_x = list()
     empty_y = list()
     leg_c = [
-        Patch(facecolor="#21618C", edgecolor="none", label="Subunit A"),
-        Patch(facecolor="#16A085", edgecolor="none", label="Subunits B–D (Teal/Purple/Cyan)"),
+        Patch(facecolor="#1C6BC7", edgecolor="none", label="Subunit A"),
+        Patch(facecolor="#17A589", edgecolor="none", label="Subunits B–D (Teal/Coral/Gold)"),
         Line2D(empty_x, empty_y, marker="o", color="w", markerfacecolor="#FF8C00", markersize=7, label="Head Variants (CPK)"),
         Line2D(empty_x, empty_y, marker="s", color="w", markerfacecolor="#C0392B", markersize=7, label="Catalytic Site (CPK)")
     ]
