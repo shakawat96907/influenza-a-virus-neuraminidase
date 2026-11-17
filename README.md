@@ -53,7 +53,7 @@ influenza-a-virus-neuraminidase/
     └── tables/                            # Main Tables 5–6, Supplementary Tables 1–8 & outlier audit logs
 ```
 
-## Completed Analytical Workflow (`T1`–`T10`)
+## Completed Analytical Workflow (`T1`–`T15`)
 
 1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
    * Retrieved human A(H1N1)pdm09 NA coding sequences (2015–2025) from NCBI Virus, filtered for complete coding sequences (1,380–1,500 nt), ≤1% ambiguous bases, intact reading frames, and deduplicated isolate names.
@@ -82,15 +82,20 @@ influenza-a-virus-neuraminidase/
 10. **Predicted N-Linked Glycosylation Sequon Profiling (`analysis/15_glycosylation_and_fig6.py`, `analysis/15b_clean_fig6_table10.py`):**
    * Scanned canonical `N-X-S/T` (`X ≠ P`) motifs across all 1,449 sequences (`2015–2025`), identifying 7 persistent core sequons (`≥80%` across all periods) and a progressive decline at `N50` (`97.38%` to `78.35%`) driven by `S52N` (**Figure 6A–B**, **Main Table 10**, `Supplementary Table 12`).
 
+11. **Site-Specific Evolutionary Selection Pressure (`analysis/16_selection_and_fig7.py`):**
+   * Executed codon-level HyPhy `FEL`, `MEME`, and `FUBAR` analyses across `1,449` frame-matched coding sequences, confirming pervasive purifying selection (`mean dN/dS = 0.258`) and identifying `6` diversifying sites (`p < 0.05` / `PP ≥ 0.90`, including `N200S` and `V264I`) alongside `4` episodic selection sites (**Figure 7A–C**, **Main Table 11**, `Supplementary Table 13`).
+
 12. **Biological Homotetramer SASA/RSA & 3D Structural Mapping (`analysis/17_tetramer_sasa_and_fig8.py`, `analysis/17b_compile_figure8_abc.py`):**
    * Computed monomer vs. biological homotetramer (`PDB 4B7R`) `SASA` and normalized `RSA` (`Tien et al., 2013`), identifying 59 interfacial residues (`ΔSASA ≥ 10 Å²`, including `V453` and `T452`) and compiling single-row Figure 8A–C with PyMOL 3D stick/sphere element-colored views (**Figure 8A–C**, **Main Table 12**, `Supplementary Table 14`).
 
-## Ongoing Revision Analyses (`T11`–`T18`)
+13. **Season-Matched WHO Vaccine Divergence Profiling (`analysis/18_season_matched_vaccine_fig9.py`, `analysis/18b_render_fig9_fig10_1000dpi.py`):**
+   * Audited `QFQ15359.1` (non-pdm09 historical H1N1) and evaluated percentage divergence from season-matched WHO A(H1N1)pdm09 vaccine virus NA sequences (`2015–2025`), eliminating all `257` legacy `≥50%` artifacts and mapping the `16` top divergent head residues (`≥15%`) onto the 3D homotetramer (**Figures 9 & 10**, **Main Table 13**, `Supplementary Table 15`).
 
-* Phylogeny-aware regional enrichment (`Fisher's exact test + BH FDR` & independent origin comparison) and within-year Shannon entropy / temporal rarefaction (`T7`–`T8`)
-* Site-specific selection analysis (`HyPhy MEME / FEL / FUBAR`) and co-occurring mutation / epistasis network (`T9`–`T10`)
-* Predicted N-linked glycosylation sequon profiling (`N-X-S/T`) and biological tetramer (`PDB 4B7R`) SASA/RSA structural analysis (`T11`–`T12`)
-* Season-matched WHO vaccine divergence (`2015–2025`), antiviral resistance screening, reproducible antigenic scoring, and Zenodo DOI archival release (`T13`–`T18`)
+## Ongoing Revision Analyses (`T16`–`T18`)
+
+* Co-occurring non-consensus variants, linkage/epistasis network, and multi-strain haplotype profiling (`T12`–`T13`)
+* Neuraminidase inhibitor (`NAI`) resistance screening (`Screened vs. Detected`) and epidemiological/phylogenetic audit of `H275Y` and `I223` variants (**Figure 11**, **Main Table 14**, `Supplementary Table 16`; `T16`)
+* Reproducible multi-evidence antigenic hotspot scoring and final manuscript/Zenodo DOI release (`T17`–`T18`)
 
 ## Reproducibility
 
