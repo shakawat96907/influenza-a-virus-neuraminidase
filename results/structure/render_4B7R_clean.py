@@ -11,7 +11,7 @@ cmd.set("cartoon_smooth_loops", 1)
 # Vibrant 4-subunit coloring for a lively biological homotetramer
 cmd.color("marine", "chain A")
 cmd.color("deepteal", "chain B")
-cmd.color("mediumpurple", "chain C")
+cmd.color("violetpurple", "chain C")
 cmd.color("palecyan", "chain D")
 cmd.set("cartoon_transparency", 0.18, "not chain A")
 
