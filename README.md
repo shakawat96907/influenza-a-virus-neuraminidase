@@ -82,6 +82,9 @@ influenza-a-virus-neuraminidase/
 10. **Predicted N-Linked Glycosylation Sequon Profiling (`analysis/15_glycosylation_and_fig6.py`, `analysis/15b_clean_fig6_table10.py`):**
    * Scanned canonical `N-X-S/T` (`X ≠ P`) motifs across all 1,449 sequences (`2015–2025`), identifying 7 persistent core sequons (`≥80%` across all periods) and a progressive decline at `N50` (`97.38%` to `78.35%`) driven by `S52N` (**Figure 6A–B**, **Main Table 10**, `Supplementary Table 12`).
 
+12. **Biological Homotetramer SASA/RSA & 3D Structural Mapping (`analysis/17_tetramer_sasa_and_fig8.py`, `analysis/17b_compile_figure8_abc.py`):**
+   * Computed monomer vs. biological homotetramer (`PDB 4B7R`) `SASA` and normalized `RSA` (`Tien et al., 2013`), identifying 59 interfacial residues (`ΔSASA ≥ 10 Å²`, including `V453` and `T452`) and compiling single-row Figure 8A–C with PyMOL 3D stick/sphere element-colored views (**Figure 8A–C**, **Main Table 12**, `Supplementary Table 14`).
+
 ## Ongoing Revision Analyses (`T11`–`T18`)
 
 * Phylogeny-aware regional enrichment (`Fisher's exact test + BH FDR` & independent origin comparison) and within-year Shannon entropy / temporal rarefaction (`T7`–`T8`)

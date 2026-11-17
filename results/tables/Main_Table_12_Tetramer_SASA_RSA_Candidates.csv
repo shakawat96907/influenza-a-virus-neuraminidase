@@ -1,0 +1,22 @@
+N1_Position,Residue_4B7R,AA3,MaxASA_Tien2013,Monomer_SASA_A2,Tetramer_SASA_A2,Delta_SASA_Buried,Monomer_RSA,Tetramer_RSA,Interface_Buried,Tetramer_Exposure_Class,Role
+118,R118,ARG,274.0,31.65,31.65,0.0,0.1155,0.1155,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+151,D151,ASP,193.0,77.41,77.41,0.0,0.4011,0.4011,No,Highly surface-exposed (RSA ≥ 0.25),Catalytic / Active-Site
+152,R152,ARG,274.0,68.72,68.72,0.0,0.2508,0.2508,No,Highly surface-exposed (RSA ≥ 0.25),Catalytic / Active-Site
+200,N200,ASN,195.0,107.1,107.1,0.0,0.5492,0.5492,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+222,N222,ASN,195.0,57.09,57.09,0.0,0.2927,0.2927,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+225,R225,ARG,274.0,31.88,31.88,0.0,0.1163,0.1163,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+264,V264,VAL,174.0,73.07,73.07,0.0,0.4199,0.4199,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+270,N270,ASN,195.0,111.16,111.16,0.0,0.57,0.57,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+275,H275,HIS,224.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Catalytic / Active-Site
+277,E277,GLU,223.0,11.26,11.26,0.0,0.0505,0.0505,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+293,R293,ARG,274.0,29.0,29.0,0.0,0.1059,0.1059,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+339,S339,SER,155.0,92.65,92.65,0.0,0.5978,0.5978,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+368,R368,ARG,274.0,66.17,66.17,0.0,0.2415,0.2415,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+382,G382,GLY,104.0,15.7,15.7,0.0,0.151,0.151,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+389,I389,ILE,197.0,54.34,54.34,0.0,0.2759,0.2759,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+402,Y402,TYR,263.0,13.93,13.93,0.0,0.053,0.053,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+416,D416,ASP,193.0,128.69,128.69,0.0,0.6668,0.6668,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+449,N449,ASN,195.0,109.94,109.94,0.0,0.5638,0.5638,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+452,T452,THR,172.0,56.74,31.41,25.32,0.3299,0.1826,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+453,V453,VAL,174.0,94.9,21.24,73.67,0.5454,0.1221,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+469,K469,LYS,236.0,177.83,170.18,7.66,0.7535,0.7211,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain

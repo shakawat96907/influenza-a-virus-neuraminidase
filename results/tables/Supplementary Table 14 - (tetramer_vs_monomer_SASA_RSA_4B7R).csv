@@ -1,0 +1,388 @@
+N1_Position,Residue_4B7R,AA3,MaxASA_Tien2013,Monomer_SASA_A2,Tetramer_SASA_A2,Delta_SASA_Buried,Monomer_RSA,Tetramer_RSA,Interface_Buried,Tetramer_Exposure_Class,Role
+83,V83,VAL,174.0,132.06,132.06,0.0,0.759,0.759,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+84,K84,LYS,236.0,87.81,87.81,0.0,0.3721,0.3721,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+85,L85,LEU,201.0,4.83,4.83,0.0,0.024,0.024,No,Buried / Interfacial (RSA < 0.05),Head Domain
+86,A86,ALA,129.0,40.65,40.65,0.0,0.3151,0.3151,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+87,G87,GLY,104.0,4.49,4.49,0.0,0.0432,0.0432,No,Buried / Interfacial (RSA < 0.05),Head Domain
+88,N88,ASN,195.0,97.33,97.33,0.0,0.4991,0.4991,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+89,S89,SER,155.0,23.88,23.88,0.0,0.1541,0.1541,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+90,S90,SER,155.0,59.05,59.05,0.0,0.381,0.381,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+91,L91,LEU,201.0,7.52,7.52,0.0,0.0374,0.0374,No,Buried / Interfacial (RSA < 0.05),Head Domain
+92,C92,CYS,167.0,12.31,12.31,0.0,0.0737,0.0737,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+93,P93,PRO,159.0,86.81,86.81,0.0,0.546,0.546,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+94,V94,VAL,174.0,18.53,18.53,0.0,0.1065,0.1065,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+95,S95,SER,155.0,52.56,52.56,0.0,0.3391,0.3391,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+96,G96,GLY,104.0,1.21,1.21,0.0,0.0116,0.0116,No,Buried / Interfacial (RSA < 0.05),Head Domain
+97,W97,TRP,285.0,3.21,3.21,0.0,0.0113,0.0113,No,Buried / Interfacial (RSA < 0.05),Head Domain
+98,A98,ALA,129.0,34.89,2.42,32.47,0.2704,0.0187,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+99,I99,ILE,197.0,73.34,10.41,62.92,0.3723,0.0529,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+100,Y100,TYR,263.0,104.68,9.92,94.77,0.398,0.0377,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+101,S101,SER,155.0,13.01,3.35,9.66,0.0839,0.0216,No,Buried / Interfacial (RSA < 0.05),Head Domain
+102,K102,LYS,236.0,58.61,1.07,57.54,0.2484,0.0045,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+103,D103,ASP,193.0,12.86,12.86,0.0,0.0666,0.0666,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+104,N104,ASN,195.0,52.79,5.58,47.21,0.2707,0.0286,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+105,S105,SER,155.0,2.42,2.42,0.0,0.0156,0.0156,No,Buried / Interfacial (RSA < 0.05),Head Domain
+106,V106,VAL,174.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+107,R107,ARG,274.0,131.91,16.38,115.52,0.4814,0.0598,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+108,I108,ILE,197.0,81.71,1.21,80.5,0.4148,0.0061,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+109,G109,GLY,104.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+110,S110,SER,155.0,56.53,17.14,39.39,0.3647,0.1106,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+111,K111,LYS,236.0,192.13,38.26,153.87,0.8141,0.1621,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+112,G112,GLY,104.0,26.07,0.0,26.07,0.2506,0.0,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+113,D113,ASP,193.0,59.27,10.71,48.55,0.3071,0.0555,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+114,V114,VAL,174.0,1.21,0.0,1.21,0.0069,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+115,F115,PHE,240.0,26.43,7.11,19.32,0.1101,0.0296,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+116,V116,VAL,174.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+117,I117,ILE,197.0,8.45,8.45,0.0,0.0429,0.0429,No,Buried / Interfacial (RSA < 0.05),Head Domain
+118,R118,ARG,274.0,31.65,31.65,0.0,0.1155,0.1155,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+119,E119,GLU,223.0,14.47,14.47,0.0,0.0649,0.0649,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+120,P120,PRO,159.0,6.04,6.04,0.0,0.038,0.038,No,Buried / Interfacial (RSA < 0.05),Head Domain
+121,F121,PHE,240.0,1.21,1.21,0.0,0.005,0.005,No,Buried / Interfacial (RSA < 0.05),Head Domain
+122,I122,ILE,197.0,3.62,3.62,0.0,0.0184,0.0184,No,Buried / Interfacial (RSA < 0.05),Head Domain
+123,S123,SER,155.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+124,C124,CYS,167.0,9.78,9.78,0.0,0.0586,0.0586,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+125,S125,SER,155.0,9.64,9.64,0.0,0.0622,0.0622,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+126,P126,PRO,159.0,26.82,26.82,0.0,0.1687,0.1687,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+127,L127,LEU,201.0,161.36,161.36,0.0,0.8028,0.8028,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+128,E128,GLU,223.0,65.14,65.14,0.0,0.2921,0.2921,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+129,C129,CYS,167.0,16.99,16.99,0.0,0.1017,0.1017,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+130,R130,ARG,274.0,17.5,17.5,0.0,0.0639,0.0639,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+131,T131,THR,172.0,10.6,10.6,0.0,0.0616,0.0616,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+132,F132,PHE,240.0,1.21,1.21,0.0,0.005,0.005,No,Buried / Interfacial (RSA < 0.05),Head Domain
+133,F133,PHE,240.0,1.21,1.21,0.0,0.005,0.005,No,Buried / Interfacial (RSA < 0.05),Head Domain
+134,L134,LEU,201.0,1.21,1.21,0.0,0.006,0.006,No,Buried / Interfacial (RSA < 0.05),Head Domain
+135,T135,THR,172.0,1.07,1.07,0.0,0.0062,0.0062,No,Buried / Interfacial (RSA < 0.05),Head Domain
+136,Q136,GLN,225.0,18.28,12.92,5.36,0.0812,0.0574,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+137,G137,GLY,104.0,49.05,0.0,49.05,0.4716,0.0,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+138,A138,ALA,129.0,5.92,0.0,5.92,0.0459,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+139,L139,LEU,201.0,50.49,0.0,50.49,0.2512,0.0,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+140,L140,LEU,201.0,9.78,1.21,8.57,0.0487,0.006,No,Buried / Interfacial (RSA < 0.05),Head Domain
+141,N141,ASN,195.0,38.56,27.31,11.26,0.1978,0.14,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+142,D142,ASP,193.0,61.5,10.85,50.65,0.3187,0.0562,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+143,K143,LYS,236.0,141.2,79.45,61.74,0.5983,0.3367,Yes (Interface),Highly surface-exposed (RSA ≥ 0.25),Head Domain
+144,H144,HIS,224.0,117.1,11.12,105.98,0.5228,0.0497,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+145,S145,SER,155.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+146,N146,ASN,195.0,100.57,100.57,0.0,0.5157,0.5157,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+147,G147,GLY,104.0,38.49,38.49,0.0,0.3701,0.3701,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+148,T148,THR,172.0,12.6,12.6,0.0,0.0733,0.0733,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+149,I149,ILE,197.0,88.94,88.94,0.0,0.4515,0.4515,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+150,K150,LYS,236.0,125.48,125.48,0.0,0.5317,0.5317,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+151,D151,ASP,193.0,77.41,77.41,0.0,0.4011,0.4011,No,Highly surface-exposed (RSA ≥ 0.25),Catalytic / Active-Site
+152,R152,ARG,274.0,68.72,68.72,0.0,0.2508,0.2508,No,Highly surface-exposed (RSA ≥ 0.25),Catalytic / Active-Site
+153,S153,SER,155.0,17.71,14.08,3.62,0.1142,0.0909,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+154,P154,PRO,159.0,98.72,15.7,83.02,0.6209,0.0987,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+155,Y155,TYR,263.0,150.32,45.31,105.01,0.5716,0.1723,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+156,R156,ARG,274.0,3.28,3.28,0.0,0.012,0.012,No,Buried / Interfacial (RSA < 0.05),Head Domain
+157,T157,THR,172.0,26.82,5.36,21.46,0.1559,0.0311,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+158,L158,LEU,201.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+159,M159,MET,224.0,20.93,10.06,10.87,0.0934,0.0449,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+160,S160,SER,155.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+161,C161,CYS,167.0,1.29,1.29,0.0,0.0077,0.0077,No,Buried / Interfacial (RSA < 0.05),Head Domain
+162,P162,PRO,159.0,41.06,41.06,0.0,0.2582,0.2582,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+163,I163,ILE,197.0,44.92,29.65,15.27,0.228,0.1505,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+164,G164,GLY,104.0,28.86,7.68,21.17,0.2775,0.0739,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+165,E165,GLU,223.0,76.13,24.78,51.35,0.3414,0.1111,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+166,V166,VAL,174.0,32.15,5.7,26.45,0.1848,0.0327,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+167,P167,PRO,159.0,3.62,3.62,0.0,0.0228,0.0228,No,Buried / Interfacial (RSA < 0.05),Head Domain
+168,S168,SER,155.0,8.04,0.0,8.04,0.0519,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+169,P169,PRO,159.0,54.56,2.28,52.28,0.3432,0.0143,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+170,Y170,TYR,263.0,175.39,21.7,153.69,0.6669,0.0825,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+171,N171,ASN,195.0,47.4,30.84,16.56,0.2431,0.1581,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+172,S172,SER,155.0,24.92,4.56,20.36,0.1607,0.0294,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+173,R173,ARG,274.0,84.39,75.94,8.45,0.308,0.2772,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+174,F174,PHE,240.0,113.07,23.23,89.84,0.4711,0.0968,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+175,E175,GLU,223.0,18.21,18.21,0.0,0.0817,0.0817,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+176,S176,SER,155.0,2.14,0.0,2.14,0.0138,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+177,V177,VAL,174.0,69.27,0.0,69.27,0.3981,0.0,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+178,A178,ALA,129.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+179,W179,TRP,285.0,12.22,11.12,1.09,0.0429,0.039,No,Buried / Interfacial (RSA < 0.05),Catalytic / Active-Site
+180,S180,SER,155.0,1.21,1.21,0.0,0.0078,0.0078,No,Buried / Interfacial (RSA < 0.05),Catalytic / Active-Site
+181,A181,ALA,129.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+182,S182,SER,155.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+183,A183,ALA,129.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+184,C184,CYS,167.0,3.62,3.62,0.0,0.0217,0.0217,No,Buried / Interfacial (RSA < 0.05),Head Domain
+185,H185,HIS,224.0,19.94,19.94,0.0,0.089,0.089,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+186,D186,ASP,193.0,5.38,5.38,0.0,0.0279,0.0279,No,Buried / Interfacial (RSA < 0.05),Head Domain
+187,G187,GLY,104.0,9.64,9.64,0.0,0.0927,0.0927,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+188,I188,ILE,197.0,89.19,89.19,0.0,0.4528,0.4528,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+189,N189,ASN,195.0,41.27,41.27,0.0,0.2117,0.2117,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+190,W190,TRP,285.0,30.44,30.44,0.0,0.1068,0.1068,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+191,L191,LEU,201.0,2.42,2.42,0.0,0.012,0.012,No,Buried / Interfacial (RSA < 0.05),Head Domain
+192,T192,THR,172.0,4.56,4.56,0.0,0.0265,0.0265,No,Buried / Interfacial (RSA < 0.05),Head Domain
+193,I193,ILE,197.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+194,G194,GLY,104.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+195,I195,ILE,197.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+196,S196,SER,155.0,29.49,5.77,23.73,0.1903,0.0372,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+197,G197,GLY,104.0,34.57,0.0,34.57,0.3324,0.0,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+198,P198,PRO,159.0,78.38,26.57,51.81,0.493,0.1671,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+199,D199,ASP,193.0,64.84,64.84,0.0,0.336,0.336,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+200,N200,ASN,195.0,107.1,107.1,0.0,0.5492,0.5492,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+201,G201,GLY,104.0,31.63,19.85,11.79,0.3042,0.1909,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+202,A202,ALA,129.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+203,V203,VAL,174.0,50.31,10.46,39.85,0.2891,0.0601,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+204,A204,ALA,129.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+205,V205,VAL,174.0,33.81,6.04,27.78,0.1943,0.0347,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+206,L206,LEU,201.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+207,K207,LYS,236.0,30.33,6.79,23.54,0.1285,0.0288,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+208,Y208,TYR,263.0,31.65,31.65,0.0,0.1204,0.1204,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+209,N209,ASN,195.0,101.76,93.01,8.75,0.5218,0.477,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+210,G210,GLY,104.0,53.06,33.77,19.29,0.5102,0.3247,Yes (Interface),Highly surface-exposed (RSA ≥ 0.25),Head Domain
+211,I211,ILE,197.0,108.69,14.49,94.2,0.5517,0.0736,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+212,I212,ILE,197.0,103.07,7.5,95.57,0.5232,0.0381,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+213,T213,THR,172.0,30.17,30.17,0.0,0.1754,0.1754,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+214,D214,ASP,193.0,42.47,30.41,12.06,0.22,0.1576,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+215,T215,THR,172.0,79.78,9.78,70.0,0.4638,0.0569,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+216,I216,ILE,197.0,32.61,28.98,3.62,0.1655,0.1471,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+217,K217,LYS,236.0,146.71,113.24,33.47,0.6217,0.4798,Yes (Interface),Highly surface-exposed (RSA ≥ 0.25),Head Domain
+218,S218,SER,155.0,6.45,6.45,0.0,0.0416,0.0416,No,Buried / Interfacial (RSA < 0.05),Head Domain
+219,W219,TRP,285.0,53.35,53.35,0.0,0.1872,0.1872,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+220,R220,ARG,274.0,127.03,127.03,0.0,0.4636,0.4636,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+221,N221,ASN,195.0,94.39,94.39,0.0,0.484,0.484,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+222,N222,ASN,195.0,57.09,57.09,0.0,0.2927,0.2927,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+223,I223,ILE,197.0,37.44,37.44,0.0,0.19,0.19,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+224,L224,LEU,201.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+225,R225,ARG,274.0,31.88,31.88,0.0,0.1163,0.1163,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+226,T226,THR,172.0,6.84,6.84,0.0,0.0398,0.0398,No,Buried / Interfacial (RSA < 0.05),Head Domain
+227,Q227,GLN,225.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+228,E228,GLU,223.0,12.86,12.86,0.0,0.0577,0.0577,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+229,S229,SER,155.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+230,E230,GLU,223.0,7.5,7.5,0.0,0.0336,0.0336,No,Buried / Interfacial (RSA < 0.05),Head Domain
+231,C231,CYS,167.0,4.42,4.42,0.0,0.0265,0.0265,No,Buried / Interfacial (RSA < 0.05),Head Domain
+232,A232,ALA,129.0,2.42,2.42,0.0,0.0187,0.0187,No,Buried / Interfacial (RSA < 0.05),Head Domain
+233,C233,CYS,167.0,4.68,4.68,0.0,0.028,0.028,No,Buried / Interfacial (RSA < 0.05),Head Domain
+234,V234,VAL,174.0,1.21,1.21,0.0,0.0069,0.0069,No,Buried / Interfacial (RSA < 0.05),Head Domain
+235,N235,ASN,195.0,81.26,81.26,0.0,0.4167,0.4167,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+236,G236,GLY,104.0,17.03,17.03,0.0,0.1637,0.1637,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+237,S237,SER,155.0,10.71,10.71,0.0,0.0691,0.0691,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+238,C238,CYS,167.0,3.86,3.86,0.0,0.0231,0.0231,No,Buried / Interfacial (RSA < 0.05),Head Domain
+239,F239,PHE,240.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+240,T240,THR,172.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+241,V241,VAL,174.0,3.21,3.21,0.0,0.0185,0.0185,No,Buried / Interfacial (RSA < 0.05),Head Domain
+242,M242,MET,224.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+243,T243,THR,172.0,4.29,4.29,0.0,0.0249,0.0249,No,Buried / Interfacial (RSA < 0.05),Head Domain
+244,D244,ASP,193.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+245,G245,GLY,104.0,3.49,3.49,0.0,0.0335,0.0335,No,Buried / Interfacial (RSA < 0.05),Head Domain
+246,P246,PRO,159.0,44.68,44.68,0.0,0.281,0.281,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+247,S247,SER,155.0,55.3,55.3,0.0,0.3567,0.3567,No,Highly surface-exposed (RSA ≥ 0.25),Catalytic / Active-Site
+248,N248,ASN,195.0,118.57,118.57,0.0,0.608,0.608,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+249,G249,GLY,104.0,12.08,12.08,0.0,0.1161,0.1161,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+250,Q250,GLN,225.0,83.54,83.54,0.0,0.3713,0.3713,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+251,A251,ALA,129.0,12.06,12.06,0.0,0.0935,0.0935,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+252,S252,SER,155.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+253,Y253,TYR,263.0,2.42,2.42,0.0,0.0092,0.0092,No,Buried / Interfacial (RSA < 0.05),Head Domain
+254,K254,LYS,236.0,45.41,45.41,0.0,0.1924,0.1924,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+255,I255,ILE,197.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+256,F256,PHE,240.0,1.21,1.21,0.0,0.005,0.005,No,Buried / Interfacial (RSA < 0.05),Head Domain
+257,R257,ARG,274.0,44.66,44.66,0.0,0.163,0.163,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+258,I258,ILE,197.0,4.56,4.56,0.0,0.0231,0.0231,No,Buried / Interfacial (RSA < 0.05),Head Domain
+259,E259,GLU,223.0,68.2,68.2,0.0,0.3058,0.3058,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+260,K260,LYS,236.0,132.7,132.7,0.0,0.5623,0.5623,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+261,G261,GLY,104.0,1.09,1.09,0.0,0.0105,0.0105,No,Buried / Interfacial (RSA < 0.05),Head Domain
+262,K262,LYS,236.0,98.07,92.6,5.47,0.4155,0.3924,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+263,I263,ILE,197.0,43.97,43.97,0.0,0.2232,0.2232,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+264,V264,VAL,174.0,73.07,73.07,0.0,0.4199,0.4199,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+265,K265,LYS,236.0,76.4,76.4,0.0,0.3237,0.3237,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+266,S266,SER,155.0,60.07,60.07,0.0,0.3875,0.3875,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+267,V267,VAL,174.0,35.02,35.02,0.0,0.2013,0.2013,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+268,E268,GLU,223.0,83.12,83.12,0.0,0.3728,0.3728,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+269,M269,MET,224.0,8.57,8.57,0.0,0.0383,0.0383,No,Buried / Interfacial (RSA < 0.05),Head Domain
+270,N270,ASN,195.0,111.16,111.16,0.0,0.57,0.57,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+271,A271,ALA,129.0,4.37,4.37,0.0,0.0339,0.0339,No,Buried / Interfacial (RSA < 0.05),Head Domain
+272,P272,PRO,159.0,84.54,84.54,0.0,0.5317,0.5317,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+273,N273,ASN,195.0,82.56,82.56,0.0,0.4234,0.4234,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+274,Y274,TYR,263.0,42.89,42.89,0.0,0.1631,0.1631,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+275,H275,HIS,224.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Catalytic / Active-Site
+276,Y276,TYR,263.0,1.21,1.21,0.0,0.0046,0.0046,No,Buried / Interfacial (RSA < 0.05),Head Domain
+277,E277,GLU,223.0,11.26,11.26,0.0,0.0505,0.0505,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+278,E278,GLU,223.0,33.12,33.12,0.0,0.1485,0.1485,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+279,C279,CYS,167.0,3.67,3.67,0.0,0.022,0.022,No,Buried / Interfacial (RSA < 0.05),Head Domain
+280,S280,SER,155.0,1.07,1.07,0.0,0.0069,0.0069,No,Buried / Interfacial (RSA < 0.05),Head Domain
+281,C281,CYS,167.0,1.09,1.09,0.0,0.0065,0.0065,No,Buried / Interfacial (RSA < 0.05),Head Domain
+282,Y282,TYR,263.0,2.28,2.28,0.0,0.0087,0.0087,No,Buried / Interfacial (RSA < 0.05),Head Domain
+283,P283,PRO,159.0,1.21,1.21,0.0,0.0076,0.0076,No,Buried / Interfacial (RSA < 0.05),Head Domain
+284,D284,ASP,193.0,33.49,33.49,0.0,0.1735,0.1735,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+285,S285,SER,155.0,60.72,60.72,0.0,0.3917,0.3917,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+286,S286,SER,155.0,34.58,34.58,0.0,0.2231,0.2231,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+287,E287,GLU,223.0,97.4,97.4,0.0,0.4368,0.4368,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+288,I288,ILE,197.0,2.28,2.28,0.0,0.0116,0.0116,No,Buried / Interfacial (RSA < 0.05),Head Domain
+289,T289,THR,172.0,12.86,12.86,0.0,0.0748,0.0748,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+290,C290,CYS,167.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+291,V291,VAL,174.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+292,C292,CYS,167.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+293,R293,ARG,274.0,29.0,29.0,0.0,0.1059,0.1059,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+294,D294,ASP,193.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+295,N295,ASN,195.0,17.64,17.64,0.0,0.0904,0.0904,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+296,W296,TRP,285.0,64.3,64.3,0.0,0.2256,0.2256,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+297,H297,HIS,224.0,38.64,38.64,0.0,0.1725,0.1725,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+298,G298,GLY,104.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+299,S299,SER,155.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+300,N300,ASN,195.0,1.21,1.21,0.0,0.0062,0.0062,No,Buried / Interfacial (RSA < 0.05),Head Domain
+301,R301,ARG,274.0,6.68,6.68,0.0,0.0244,0.0244,No,Buried / Interfacial (RSA < 0.05),Head Domain
+302,P302,PRO,159.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+303,W303,TRP,285.0,33.7,33.7,0.0,0.1182,0.1182,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+304,V304,VAL,174.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+305,S305,SER,155.0,28.83,28.83,0.0,0.186,0.186,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+306,F306,PHE,240.0,1.21,1.21,0.0,0.005,0.005,No,Buried / Interfacial (RSA < 0.05),Head Domain
+307,N307,ASN,195.0,38.32,38.32,0.0,0.1965,0.1965,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+308,Q308,GLN,225.0,63.51,63.51,0.0,0.2823,0.2823,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+309,N309,ASN,195.0,86.26,86.26,0.0,0.4423,0.4423,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+310,L310,LEU,201.0,3.21,3.21,0.0,0.016,0.016,No,Buried / Interfacial (RSA < 0.05),Head Domain
+311,E311,GLU,223.0,115.13,115.13,0.0,0.5163,0.5163,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+312,Y312,TYR,263.0,70.84,70.84,0.0,0.2693,0.2693,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+313,Q313,GLN,225.0,125.29,125.29,0.0,0.5568,0.5568,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+314,I314,ILE,197.0,48.98,48.98,0.0,0.2486,0.2486,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+315,G315,GLY,104.0,4.83,4.83,0.0,0.0464,0.0464,No,Buried / Interfacial (RSA < 0.05),Head Domain
+316,Y316,TYR,263.0,3.21,3.21,0.0,0.0122,0.0122,No,Buried / Interfacial (RSA < 0.05),Head Domain
+317,I317,ILE,197.0,8.45,8.45,0.0,0.0429,0.0429,No,Buried / Interfacial (RSA < 0.05),Head Domain
+318,C318,CYS,167.0,5.15,5.15,0.0,0.0308,0.0308,No,Buried / Interfacial (RSA < 0.05),Head Domain
+319,S319,SER,155.0,1.07,1.07,0.0,0.0069,0.0069,No,Buried / Interfacial (RSA < 0.05),Head Domain
+320,G320,GLY,104.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+321,I321,ILE,197.0,2.14,2.14,0.0,0.0109,0.0109,No,Buried / Interfacial (RSA < 0.05),Head Domain
+322,F322,PHE,240.0,3.62,3.62,0.0,0.0151,0.0151,No,Buried / Interfacial (RSA < 0.05),Head Domain
+323,G323,GLY,104.0,9.16,9.16,0.0,0.0881,0.0881,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+324,D324,ASP,193.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+325,N325,ASN,195.0,4.29,4.29,0.0,0.022,0.022,No,Buried / Interfacial (RSA < 0.05),Head Domain
+326,P326,PRO,159.0,31.4,31.4,0.0,0.1975,0.1975,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+327,R327,ARG,274.0,7.57,7.57,0.0,0.0276,0.0276,No,Buried / Interfacial (RSA < 0.05),Head Domain
+328,P328,PRO,159.0,9.66,9.66,0.0,0.0608,0.0608,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+329,N329,ASN,195.0,103.48,103.48,0.0,0.5307,0.5307,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+330,D330,ASP,193.0,54.75,54.75,0.0,0.2837,0.2837,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+331,K331,LYS,236.0,110.1,110.1,0.0,0.4665,0.4665,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+332,T332,THR,172.0,99.53,99.53,0.0,0.5787,0.5787,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+333,G333,GLY,104.0,18.35,18.35,0.0,0.1765,0.1765,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+334,S334,SER,155.0,43.58,43.58,0.0,0.2812,0.2812,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+335,C335,CYS,167.0,72.19,72.19,0.0,0.4323,0.4323,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+336,G336,GLY,104.0,22.37,22.37,0.0,0.2151,0.2151,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+337,P337,PRO,159.0,41.96,41.96,0.0,0.2639,0.2639,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+338,V338,VAL,174.0,19.32,19.32,0.0,0.111,0.111,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+339,S339,SER,155.0,92.65,92.65,0.0,0.5978,0.5978,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+340,S340,SER,155.0,45.88,45.88,0.0,0.296,0.296,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+341,N341,ASN,195.0,84.35,84.35,0.0,0.4326,0.4326,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+342,G342,GLY,104.0,2.19,2.19,0.0,0.021,0.021,No,Buried / Interfacial (RSA < 0.05),Head Domain
+343,A343,ALA,129.0,52.5,52.5,0.0,0.407,0.407,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+344,N344,ASN,195.0,100.36,100.36,0.0,0.5147,0.5147,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+345,G345,GLY,104.0,4.29,4.29,0.0,0.0412,0.0412,No,Buried / Interfacial (RSA < 0.05),Head Domain
+346,V346,VAL,174.0,4.83,4.83,0.0,0.0278,0.0278,No,Buried / Interfacial (RSA < 0.05),Head Domain
+347,K347,LYS,236.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+348,G348,GLY,104.0,2.42,2.42,0.0,0.0232,0.0232,No,Buried / Interfacial (RSA < 0.05),Head Domain
+349,F349,PHE,240.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+350,S350,SER,155.0,3.21,3.21,0.0,0.0207,0.0207,No,Buried / Interfacial (RSA < 0.05),Head Domain
+351,F351,PHE,240.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+352,K352,LYS,236.0,62.55,62.55,0.0,0.265,0.265,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+353,Y353,TYR,263.0,56.74,56.74,0.0,0.2157,0.2157,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+354,G354,GLY,104.0,46.91,46.91,0.0,0.4511,0.4511,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+355,N355,ASN,195.0,90.14,90.14,0.0,0.4623,0.4623,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+356,G356,GLY,104.0,1.09,1.09,0.0,0.0105,0.0105,No,Buried / Interfacial (RSA < 0.05),Head Domain
+357,V357,VAL,174.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+358,W358,TRP,285.0,4.6,4.6,0.0,0.0161,0.0161,No,Buried / Interfacial (RSA < 0.05),Head Domain
+359,I359,ILE,197.0,4.83,4.83,0.0,0.0245,0.0245,No,Buried / Interfacial (RSA < 0.05),Head Domain
+360,G360,GLY,104.0,1.07,1.07,0.0,0.0103,0.0103,No,Buried / Interfacial (RSA < 0.05),Head Domain
+361,R361,ARG,274.0,16.75,16.75,0.0,0.0611,0.0611,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+362,T362,THR,172.0,3.39,3.39,0.0,0.0197,0.0197,No,Buried / Interfacial (RSA < 0.05),Head Domain
+363,K363,LYS,236.0,43.41,43.41,0.0,0.184,0.184,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+364,S364,SER,155.0,16.89,16.89,0.0,0.109,0.109,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+365,I365,ILE,197.0,61.09,61.09,0.0,0.3101,0.3101,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+366,S366,SER,155.0,95.02,95.02,0.0,0.6131,0.6131,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+367,S367,SER,155.0,24.66,24.66,0.0,0.1591,0.1591,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+368,R368,ARG,274.0,66.17,66.17,0.0,0.2415,0.2415,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+369,N369,ASN,195.0,18.91,18.91,0.0,0.097,0.097,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+370,G370,GLY,104.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+371,F371,PHE,240.0,1.21,1.21,0.0,0.005,0.005,No,Buried / Interfacial (RSA < 0.05),Head Domain
+372,E372,GLU,223.0,5.36,5.36,0.0,0.024,0.024,No,Buried / Interfacial (RSA < 0.05),Head Domain
+373,M373,MET,224.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+374,I374,ILE,197.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+375,W375,TRP,285.0,55.5,55.5,0.0,0.1948,0.1948,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+376,D376,ASP,193.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+377,P377,PRO,159.0,72.56,72.56,0.0,0.4563,0.4563,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+378,N378,ASN,195.0,60.49,60.49,0.0,0.3102,0.3102,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+379,G379,GLY,104.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+380,W380,TRP,285.0,7.95,7.95,0.0,0.0279,0.0279,No,Buried / Interfacial (RSA < 0.05),Head Domain
+381,T381,THR,172.0,75.89,75.89,0.0,0.4412,0.4412,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+382,G382,GLY,104.0,15.7,15.7,0.0,0.151,0.151,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+383,T383,THR,172.0,51.15,51.15,0.0,0.2974,0.2974,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+384,D384,ASP,193.0,55.01,55.01,0.0,0.2851,0.2851,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+385,N385,ASN,195.0,58.37,58.37,0.0,0.2993,0.2993,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+386,N386,ASN,195.0,106.35,106.35,0.0,0.5454,0.5454,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+387,F387,PHE,240.0,93.09,93.09,0.0,0.3879,0.3879,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+388,S388,SER,155.0,76.15,76.15,0.0,0.4913,0.4913,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+389,I389,ILE,197.0,54.34,54.34,0.0,0.2759,0.2759,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+390,K390,LYS,236.0,100.31,100.31,0.0,0.4251,0.4251,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+391,Q391,GLN,225.0,13.01,13.01,0.0,0.0578,0.0578,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+392,D392,ASP,193.0,67.45,67.45,0.0,0.3495,0.3495,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+393,I393,ILE,197.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+394,V394,VAL,174.0,1.21,1.21,0.0,0.0069,0.0069,No,Buried / Interfacial (RSA < 0.05),Head Domain
+395,G395,GLY,104.0,20.53,20.53,0.0,0.1974,0.1974,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+396,I396,ILE,197.0,91.74,91.74,0.0,0.4657,0.4657,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+397,N397,ASN,195.0,140.75,140.75,0.0,0.7218,0.7218,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+398,E398,GLU,223.0,71.53,67.25,4.29,0.3208,0.3016,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+399,W399,TRP,285.0,65.28,65.28,0.0,0.229,0.229,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+400,S400,SER,155.0,1.07,1.07,0.0,0.0069,0.0069,No,Buried / Interfacial (RSA < 0.05),Head Domain
+401,G401,GLY,104.0,1.07,1.07,0.0,0.0103,0.0103,No,Buried / Interfacial (RSA < 0.05),Head Domain
+402,Y402,TYR,263.0,13.93,13.93,0.0,0.053,0.053,No,Moderately exposed (0.05 ≤ RSA < 0.25),Catalytic / Active-Site
+403,S403,SER,155.0,2.14,2.14,0.0,0.0138,0.0138,No,Buried / Interfacial (RSA < 0.05),Head Domain
+404,G404,GLY,104.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+405,S405,SER,155.0,2.28,2.28,0.0,0.0147,0.0147,No,Buried / Interfacial (RSA < 0.05),Head Domain
+406,F406,PHE,240.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+407,V407,VAL,174.0,3.49,3.49,0.0,0.02,0.02,No,Buried / Interfacial (RSA < 0.05),Head Domain
+408,Q408,GLN,225.0,7.52,0.0,7.52,0.0334,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+409,H409,HIS,224.0,15.01,15.01,0.0,0.067,0.067,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+410,P410,PRO,159.0,36.35,36.35,0.0,0.2286,0.2286,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+411,E411,GLU,223.0,65.94,65.94,0.0,0.2957,0.2957,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+412,L412,LEU,201.0,55.66,32.32,23.34,0.2769,0.1608,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+413,T413,THR,172.0,46.64,30.14,16.5,0.2711,0.1752,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+414,G414,GLY,104.0,65.05,65.05,0.0,0.6255,0.6255,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+415,L415,LEU,201.0,72.44,59.16,13.28,0.3604,0.2943,Yes (Interface),Highly surface-exposed (RSA ≥ 0.25),Head Domain
+416,D416,ASP,193.0,128.69,128.69,0.0,0.6668,0.6668,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+417,C417,CYS,167.0,17.62,17.62,0.0,0.1055,0.1055,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+418,I418,ILE,197.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+419,R419,ARG,274.0,59.05,18.59,40.46,0.2155,0.0679,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+420,P420,PRO,159.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+421,C421,CYS,167.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+422,F422,PHE,240.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+423,W423,TRP,285.0,4.83,4.83,0.0,0.0169,0.0169,No,Buried / Interfacial (RSA < 0.05),Head Domain
+424,V424,VAL,174.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+425,E425,GLU,223.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+426,L426,LEU,201.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+427,I427,ILE,197.0,23.34,23.34,0.0,0.1185,0.1185,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+428,R428,ARG,274.0,17.61,17.61,0.0,0.0643,0.0643,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+429,G429,GLY,104.0,3.21,3.21,0.0,0.0309,0.0309,No,Buried / Interfacial (RSA < 0.05),Head Domain
+430,R430,ARG,274.0,87.54,87.54,0.0,0.3195,0.3195,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+431,P431,PRO,159.0,94.02,94.02,0.0,0.5913,0.5913,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+432,K432,LYS,236.0,122.62,122.62,0.0,0.5196,0.5196,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+433,E433,GLU,223.0,26.01,26.01,0.0,0.1166,0.1166,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+434,N434,ASN,195.0,130.43,130.43,0.0,0.6689,0.6689,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+435,T435,THR,172.0,6.84,6.84,0.0,0.0398,0.0398,No,Buried / Interfacial (RSA < 0.05),Head Domain
+436,I436,ILE,197.0,44.14,44.14,0.0,0.224,0.224,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+437,W437,TRP,285.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+438,T438,THR,172.0,7.11,7.11,0.0,0.0413,0.0413,No,Buried / Interfacial (RSA < 0.05),Head Domain
+439,S439,SER,155.0,1.07,1.07,0.0,0.0069,0.0069,No,Buried / Interfacial (RSA < 0.05),Head Domain
+440,G440,GLY,104.0,1.07,1.07,0.0,0.0103,0.0103,No,Buried / Interfacial (RSA < 0.05),Head Domain
+441,S441,SER,155.0,2.42,2.42,0.0,0.0156,0.0156,No,Buried / Interfacial (RSA < 0.05),Head Domain
+442,S442,SER,155.0,5.49,5.49,0.0,0.0354,0.0354,No,Buried / Interfacial (RSA < 0.05),Head Domain
+443,I443,ILE,197.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+444,S444,SER,155.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+445,F445,PHE,240.0,0.0,0.0,0.0,0.0,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+446,C446,CYS,167.0,8.53,1.29,7.25,0.0511,0.0077,No,Buried / Interfacial (RSA < 0.05),Head Domain
+447,G447,GLY,104.0,2.14,2.14,0.0,0.0206,0.0206,No,Buried / Interfacial (RSA < 0.05),Head Domain
+448,V448,VAL,174.0,25.36,10.87,14.49,0.1457,0.0625,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+449,N449,ASN,195.0,109.94,109.94,0.0,0.5638,0.5638,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+450,S450,SER,155.0,74.71,35.03,39.68,0.482,0.226,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+451,D451,ASP,193.0,151.22,89.63,61.58,0.7835,0.4644,Yes (Interface),Highly surface-exposed (RSA ≥ 0.25),Head Domain
+452,T452,THR,172.0,56.74,31.41,25.32,0.3299,0.1826,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+453,V453,VAL,174.0,94.9,21.24,73.67,0.5454,0.1221,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+454,G454,GLY,104.0,30.88,27.67,3.21,0.2969,0.266,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+455,W455,TRP,285.0,169.59,63.14,106.45,0.5951,0.2215,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+456,S456,SER,155.0,36.74,30.31,6.43,0.237,0.1955,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+457,W457,TRP,285.0,42.33,7.25,35.09,0.1485,0.0254,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+458,P458,PRO,159.0,33.27,4.83,28.44,0.2092,0.0304,Yes (Interface),Buried / Interfacial (RSA < 0.05),Head Domain
+459,D459,ASP,193.0,3.37,2.3,1.07,0.0175,0.0119,No,Buried / Interfacial (RSA < 0.05),Head Domain
+460,G460,GLY,104.0,28.32,11.69,16.63,0.2723,0.1124,Yes (Interface),Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+461,A461,ALA,129.0,9.92,7.5,2.42,0.0769,0.0581,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+462,E462,GLU,223.0,154.51,116.59,37.92,0.6929,0.5228,Yes (Interface),Highly surface-exposed (RSA ≥ 0.25),Head Domain
+463,L463,LEU,201.0,40.35,39.14,1.21,0.2007,0.1947,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+464,P464,PRO,159.0,56.74,49.24,7.5,0.3569,0.3097,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+465,F465,PHE,240.0,9.66,0.0,9.66,0.0403,0.0,No,Buried / Interfacial (RSA < 0.05),Head Domain
+466,T466,THR,172.0,108.64,107.55,1.09,0.6316,0.6253,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
+467,I467,ILE,197.0,48.81,48.81,0.0,0.2478,0.2478,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+468,D468,ASP,193.0,34.42,34.42,0.0,0.1784,0.1784,No,Moderately exposed (0.05 ≤ RSA < 0.25),Head Domain
+469,K469,LYS,236.0,177.83,170.18,7.66,0.7535,0.7211,No,Highly surface-exposed (RSA ≥ 0.25),Head Domain
