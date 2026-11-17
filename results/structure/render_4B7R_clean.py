@@ -55,12 +55,13 @@ cmd.set("dash_color", "gray30")
 for resi, text, dist_out, nudge in landmarks:
     coords = cmd.get_coords(f"chain A and resi {resi} and name CA", 1)
     if coords is not None and len(coords) > 0:
-        x, y, z = float(coords), float(coords), float(coords)
+        x, y, z = coords.flatten().tolist()
         dx, dy, dz = x - cx, y - cy, z - cz
         norm = math.sqrt(dx*dx + dy*dy + dz*dz) or 1.0
-        px = x + (dx / norm) * dist_out + nudge
-        py = y + (dy / norm) * dist_out + nudge
-        pz = z + (dz / norm) * dist_out + nudge
+        nx, ny, nz = nudge
+        px = x + (dx / norm) * dist_out + nx
+        py = y + (dy / norm) * dist_out + ny
+        pz = z + (dz / norm) * dist_out + nz
         pname = f"lbl_{resi}"
         dname = f"line_{resi}"
         cmd.pseudoatom(pname, pos=[px, py, pz])
