@@ -112,8 +112,6 @@ influenza-a-virus-neuraminidase/
 
 ## Ongoing Revision Analyses (`T18`)
 
-* Co-occurring non-consensus variants, linkage/epistasis network, and multi-strain haplotype profiling (`T12`–`T13`)
-* Neuraminidase inhibitor (`NAI`) resistance screening (`Screened vs. Detected`) and epidemiological/phylogenetic audit of `H275Y` and `I223` variants (**Figure 11**, **Main Table 14**, `Supplementary Table 16`; `T16`)
 * Reproducible multi-evidence antigenic hotspot scoring and final manuscript/Zenodo DOI release (`T18`)
 
 ## Reproducibility
