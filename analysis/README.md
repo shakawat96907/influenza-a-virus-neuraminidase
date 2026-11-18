@@ -23,3 +23,4 @@
 21. `18_season_matched_vaccine_fig9.py` — Season-matched WHO A(H1N1)pdm09 vaccine virus divergence profiling (`2015–2025`) and `QFQ15359.1` GenBank provenance audit (`Main Table 13`, `Supplementary Table 15`).
 22. `18b_render_fig9_fig10_1000dpi.py` — `1000 DPI` `Figure 9A–B` and PyMOL 3D homotetramer `Figure 10` (`CPK` element-colored vaccine-divergent landmarks) rendering.
 23. `19_nai_resistance_and_fig11.py` — Canonical N1 neuraminidase inhibitor (`NAI`) resistance screening (`Screened vs. Detected`), residue `223` disaggregation (`I223V` vs. `I223R/K/T`), and global phylogenetic clustering audit (`Figure 11A–B`, `Main Table 14`, `Supplementary Table 16`).
+23. `20_haplotype_cooccurrence_fig12.py` — Per-isolate multi-variant haplotype reconstruction, greedy set-cover (`≥90%` Asian coverage), and pairwise Phi/Jaccard co-occurrence network (**Figure 12A–B**, **Main Table 15**, `Supplementary Table 17`).

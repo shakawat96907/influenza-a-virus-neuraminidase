@@ -50,7 +50,8 @@ influenza-a-virus-neuraminidase/
 │   ├── 17b_compile_figure8_abc.py             # Single-row composite Figure 8A–C & 4-subunit PyMOL 3D rendering
 │   ├── 18_season_matched_vaccine_fig9.py       # Season-matched WHO vaccine divergence (2015–2025; Main Table 13)
 │   ├── 18b_render_fig9_fig10_1000dpi.py       # 1000 DPI Figure 9 & PyMOL 3D homotetramer Figure 10 rendering
-│   └── 19_nai_resistance_and_fig11.py         # Canonical NAI resistance screening & H275Y/I223 audit (Figure 11, Table 14)
+│   ├── 19_nai_resistance_and_fig11.py         # Canonical NAI resistance screening & H275Y/I223 audit (Figure 11, Table 14)
+│   └── 20_haplotype_cooccurrence_fig12.py     # Multi-variant haplotype greedy set-cover & co-occurrence network (Figure 12, Table 15)
 └── results/
     ├── aln_prot_clean.fasta               # Clean MAFFT protein alignment (1,449 sequences; 493 columns)
     ├── codon_aln_nuc_clean.fasta          # Clean codon-aware nucleotide alignment (1,449 sequences; 1,479 nt)
@@ -64,7 +65,7 @@ influenza-a-virus-neuraminidase/
     └── tables/                            # Main Tables 5–6, Supplementary Tables 1–8 & outlier audit logs
 ```
 
-## Completed Analytical Workflow (`T1`–`T16`)
+## Completed Analytical Workflow (`T1`–`T17`)
 
 1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
    * Retrieved human A(H1N1)pdm09 NA coding sequences (2015–2025) from NCBI Virus, filtered for complete coding sequences (1,380–1,500 nt), ≤1% ambiguous bases, intact reading frames, and deduplicated isolate names.
@@ -106,11 +107,14 @@ influenza-a-virus-neuraminidase/
 14. **Neuraminidase Inhibitor (`NAI`) Resistance Screening & Phylogenetic Audit (`analysis/19_nai_resistance_and_fig11.py`):**
    * Screened 16 canonical N1 resistance substitutions (`Screened vs. Detected`), disaggregated position `223` (`I223V` detected `n = 8`; `I223R/K/T` = `0`), and audited all `14` `H275Y` isolates across country, year, and global phylogeny (`11` independent phylogenetic origins; **Figure 11A–B**, **Main Table 14**, `Supplementary Table 16`).
 
-## Ongoing Revision Analyses (`T17`–`T18`)
+15. **Multi-Variant Haplotype Greedy Set-Cover & Co-Occurrence Network (`analysis/20_haplotype_cooccurrence_fig12.py`):**
+   * Reconstructed per-isolate haplotypes across Asia-enriched and clade-sweep variants (`n = 750`), showing that `0/750` isolates carry all 7 Asia-enriched mutations simultaneously (`5` strains needed for `≥90%` coverage) due to segregation into two mutually exclusive temporal clades (**Figure 12A–B**, **Main Table 15**, `Supplementary Table 17`).
+
+## Ongoing Revision Analyses (`T18`)
 
 * Co-occurring non-consensus variants, linkage/epistasis network, and multi-strain haplotype profiling (`T12`–`T13`)
 * Neuraminidase inhibitor (`NAI`) resistance screening (`Screened vs. Detected`) and epidemiological/phylogenetic audit of `H275Y` and `I223` variants (**Figure 11**, **Main Table 14**, `Supplementary Table 16`; `T16`)
-* Reproducible multi-evidence antigenic hotspot scoring and final manuscript/Zenodo DOI release (`T17`–`T18`)
+* Reproducible multi-evidence antigenic hotspot scoring and final manuscript/Zenodo DOI release (`T18`)
 
 ## Reproducibility
 
