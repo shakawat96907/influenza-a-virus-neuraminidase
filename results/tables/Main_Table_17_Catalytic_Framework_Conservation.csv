@@ -1,0 +1,21 @@
+N1_Position,Canonical_AA,Functional_Role,Global_Conservation_Pct,Asian_Conservation_Pct,NonAsian_Conservation_Pct,Minor_Variants_Observed
+118,R,Catalytic Triad (Direct Sialic Acid Contact),100.0,100.0,100.0,None (100% invariant)
+151,D,Catalytic Triad (Proton Donor / Transition State),99.862,99.733,100.0,"E, N"
+152,R,Catalytic Triad (Acetamido Binding),100.0,100.0,100.0,None (100% invariant)
+225,R,Catalytic Triad (Glycerol Side-Chain Binding),100.0,100.0,100.0,None (100% invariant)
+277,E,Catalytic Triad (Stabilizes R293),100.0,100.0,100.0,None (100% invariant)
+293,R,Catalytic Triad (Carboxylate Binding),100.0,100.0,100.0,None (100% invariant)
+368,R,Catalytic Triad (Carboxylate Binding),100.0,100.0,100.0,None (100% invariant)
+402,Y,Catalytic Triad (Nucleophilic / Transition State),100.0,100.0,100.0,None (100% invariant)
+119,E,Framework Support (Stabilizes R118 / NAI Binding),100.0,100.0,100.0,None (100% invariant)
+156,R,Framework Support (Stabilizes D151),100.0,100.0,100.0,None (100% invariant)
+179,W,Framework Support (Hydrophobic Pocket Wall),100.0,100.0,100.0,None (100% invariant)
+180,S,Framework Support (Acetamido Pocket),100.0,100.0,100.0,None (100% invariant)
+199,D,Framework Support (Stabilizes R152),99.655,99.6,99.714,N
+223,I,Framework Support (Hydrophobic Floor / NAI Marker),99.448,99.733,99.142,V
+228,E,Framework Support (Stabilizes R225),99.931,99.867,100.0,V
+247,S,Framework Support (Pocket Rim / NAI Marker),99.241,98.8,99.714,"I, N"
+275,H,Framework Support (Positions E277 / Primary NAI Marker),99.034,98.667,99.428,Y
+278,E,Framework Support (Stabilizes H275 / E277),100.0,100.0,100.0,None (100% invariant)
+295,N,Framework Support (Stabilizes R293 / NAI Marker),100.0,100.0,100.0,None (100% invariant)
+425,E,Framework Support (Active-Site Structural Core),100.0,100.0,100.0,None (100% invariant)

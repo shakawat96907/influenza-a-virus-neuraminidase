@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or curated dataset, please cite it as below."
+title: "Molecular Evolution and Antigenic Variation of Influenza A(H1N1)pdm09 Neuraminidase in Asia, 2015–2025"
+authors:
+  - family-names: "Hossain"
+    given-names: "Md. Shakawat"
+    affiliation: "Department of Biochemistry and Molecular Biology, Shahjalal University of Science and Technology (SUST), Sylhet-3114, Bangladesh"
+  - family-names: "Tasnim"
+    given-names: "Rubaiya"
+    affiliation: "Department of Biochemistry and Molecular Biology, Shahjalal University of Science and Technology (SUST), Sylhet-3114, Bangladesh"
+  - family-names: "Islam"
+    given-names: "Farjana"
+    email: "farjana-bmb@sust.edu"
+    affiliation: "Department of Biochemistry and Molecular Biology, Shahjalal University of Science and Technology (SUST), Sylhet-3114, Bangladesh"
+version: "2.0.0"
+date-released: "2026-11-18"
+license: "MIT"
+repository-code: "https://github.com"

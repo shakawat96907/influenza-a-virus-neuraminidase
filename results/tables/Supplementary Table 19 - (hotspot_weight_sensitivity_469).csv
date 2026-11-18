@@ -1,0 +1,470 @@
+N1_Position,Consensus_AA,Evidence_Classification,Verified_PDB_Complexes,Source_DOIs,Tetramer_RSA,SeasonMatched_VacDiv_Global_Pct,SeasonMatched_VacDiv_Asia_Pct,Entropy_Bits,Score_RSA_2,Score_Epitope_3,Score_Vaccine_2,Score_Entropy_2,Score_Selection_1,Total_Hotspot_Score_10,Priority_Tier,Equal_Weight_Score_10,Score_Diff_Weighted_vs_Equal
+1,M,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+2,N,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+3,P,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+4,N,Buried / Non-Antigenic Core,,,0.0,0.62,1.07,0.0576,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+5,Q,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+6,K,Buried / Non-Antigenic Core,,,0.0,0.21,0.4,0.0247,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+7,I,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+8,I,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+9,T,Buried / Non-Antigenic Core,,,0.0,0.48,0.13,0.0508,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+10,I,Buried / Non-Antigenic Core,,,0.0,0.14,0.27,0.0165,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+11,G,Buried / Non-Antigenic Core,,,0.0,0.14,0.13,0.0165,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+12,S,Buried / Non-Antigenic Core,,,0.0,0.69,0.4,0.0674,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+13,I,Buried / Non-Antigenic Core,,,0.0,25.19,23.87,0.5279,0.0,0.0,2.0,2.0,0.0,4.0,Candidate Site (3.0–7.4),4.0,0.0
+14,C,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0083,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+15,M,Buried / Non-Antigenic Core,,,0.0,0.76,0.8,0.0644,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+16,T,Buried / Non-Antigenic Core,,,0.0,0.41,0.0,0.0414,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+17,I,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+18,G,Buried / Non-Antigenic Core,,,0.0,0.14,0.13,0.0165,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+19,M,Buried / Non-Antigenic Core,,,0.0,5.38,6.8,0.9335,0.0,0.0,0.5,2.0,0.0,2.5,Low / Background (<3.0),2.5,0.0
+20,A,Buried / Non-Antigenic Core,,,0.0,0.48,0.4,0.0489,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+21,N,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+22,L,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+23,I,Buried / Non-Antigenic Core,,,0.0,0.55,0.67,0.0546,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+24,L,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+25,Q,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+26,I,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+27,G,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+28,N,Buried / Non-Antigenic Core,,,0.0,0.21,0.4,0.0247,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+29,I,Buried / Non-Antigenic Core,,,0.0,0.9,0.8,0.0739,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+30,I,Buried / Non-Antigenic Core,,,0.0,0.14,0.0,0.0165,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+31,S,Buried / Non-Antigenic Core,,,0.0,0.14,0.13,0.0165,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+32,I,Buried / Non-Antigenic Core,,,0.0,0.28,0.13,0.0316,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+33,W,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+34,V,Buried / Non-Antigenic Core,,,0.0,22.84,23.6,0.2938,0.0,0.0,2.0,1.0,0.0,3.0,Candidate Site (3.0–7.4),3.0,0.0
+35,S,Buried / Non-Antigenic Core,,,0.0,0.55,0.13,0.0571,0.0,0.0,0.0,0.5,1.0,1.5,Low / Background (<3.0),2.5,-1.0
+36,H,Buried / Non-Antigenic Core,,,0.0,0.21,0.13,0.0247,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+37,S,Buried / Non-Antigenic Core,,,0.0,0.76,0.13,0.0753,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+38,I,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0083,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+39,Q,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+40,I,Buried / Non-Antigenic Core,,,0.0,25.47,26.93,0.3735,0.0,0.0,2.0,1.0,1.0,4.0,Candidate Site (3.0–7.4),5.0,-1.0
+41,G,Buried / Non-Antigenic Core,,,0.0,0.97,0.8,0.0924,0.0,0.0,0.0,0.5,1.0,1.5,Low / Background (<3.0),2.5,-1.0
+42,N,Buried / Non-Antigenic Core,,,0.0,0.14,0.13,0.0165,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+43,Q,Buried / Non-Antigenic Core,,,0.0,1.04,1.07,0.1001,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+44,S,Buried / Non-Antigenic Core,,,0.0,22.98,24.4,0.1997,0.0,0.0,2.0,1.0,1.0,4.0,Candidate Site (3.0–7.4),5.0,-1.0
+45,Q,Buried / Non-Antigenic Core,,,0.0,0.41,0.4,0.0448,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+46,I,Buried / Non-Antigenic Core,,,0.0,3.31,2.93,0.2258,0.0,0.0,0.5,1.0,0.0,1.5,Low / Background (<3.0),1.5,0.0
+47,E,Buried / Non-Antigenic Core,,,0.0,1.31,1.87,0.1071,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+48,T,Buried / Non-Antigenic Core,,,0.0,0.55,0.53,0.0579,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+49,C,Buried / Non-Antigenic Core,,,0.0,0.35,0.53,0.0379,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+50,N,Buried / Non-Antigenic Core,,,0.0,2.0,2.53,0.172,0.0,0.0,0.5,1.0,1.0,2.5,Low / Background (<3.0),3.5,-1.0
+51,Q,Buried / Non-Antigenic Core,,,0.0,19.46,24.4,1.043,0.0,0.0,1.0,2.0,0.0,3.0,Candidate Site (3.0–7.4),3.0,0.0
+52,S,Buried / Non-Antigenic Core,,,0.0,11.25,13.33,0.5421,0.0,0.0,1.0,2.0,1.0,4.0,Candidate Site (3.0–7.4),5.0,-1.0
+53,V,Buried / Non-Antigenic Core,,,0.0,0.83,1.2,0.0726,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+54,I,Buried / Non-Antigenic Core,,,0.0,0.35,0.53,0.0365,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+55,T,Buried / Non-Antigenic Core,,,0.0,0.62,0.13,0.0592,0.0,0.0,0.0,0.5,1.0,1.5,Low / Background (<3.0),2.5,-1.0
+56,Y,Buried / Non-Antigenic Core,,,0.0,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+57,E,Buried / Non-Antigenic Core,,,0.0,0.14,0.13,0.0151,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+58,N,Buried / Non-Antigenic Core,,,0.0,0.21,0.4,0.0247,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+59,N,Buried / Non-Antigenic Core,,,0.0,0.28,0.13,0.0302,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+60,T,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+61,W,Buried / Non-Antigenic Core,,,0.0,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+62,V,Buried / Non-Antigenic Core,,,0.0,1.38,0.8,0.1115,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+63,N,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+64,Q,Buried / Non-Antigenic Core,,,0.0,0.14,0.27,0.0151,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+65,T,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+66,Y,Buried / Non-Antigenic Core,,,0.0,3.93,5.33,0.9019,0.0,0.0,0.5,2.0,0.0,2.5,Low / Background (<3.0),2.5,0.0
+67,V,Buried / Non-Antigenic Core,,,0.0,3.04,5.2,0.201,0.0,0.0,0.5,1.0,1.0,2.5,Low / Background (<3.0),3.5,-1.0
+68,N,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+69,I,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+70,S,Buried / Non-Antigenic Core,,,0.0,1.31,0.93,0.1047,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+71,N,Buried / Non-Antigenic Core,,,0.0,0.62,1.07,0.0629,0.0,0.0,0.0,0.5,1.0,1.5,Low / Background (<3.0),2.5,-1.0
+72,T,Buried / Non-Antigenic Core,,,0.0,6.28,3.87,0.3793,0.0,0.0,0.5,1.0,0.0,1.5,Low / Background (<3.0),1.5,0.0
+73,N,Buried / Non-Antigenic Core,,,0.0,0.97,1.07,0.0821,0.0,0.0,0.0,0.5,1.0,1.5,Low / Background (<3.0),2.5,-1.0
+74,S,Buried / Non-Antigenic Core,,,0.0,24.71,29.87,1.2959,0.0,0.0,2.0,2.0,1.0,5.0,Candidate Site (3.0–7.4),6.0,-1.0
+75,A,Buried / Non-Antigenic Core,,,0.0,27.19,26.93,0.0595,0.0,0.0,2.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+76,A,Buried / Non-Antigenic Core,,,0.0,0.55,0.4,0.058,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+77,R,Buried / Non-Antigenic Core,,,0.0,35.89,36.4,1.0245,0.0,0.0,2.0,2.0,0.0,4.0,Candidate Site (3.0–7.4),4.0,0.0
+78,Q,Buried / Non-Antigenic Core,,,0.0,0.21,0.4,0.0233,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+79,S,Buried / Non-Antigenic Core,,,0.0,1.45,1.2,0.1226,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+80,V,Buried / Non-Antigenic Core,,,0.0,1.86,0.8,0.1517,0.0,0.0,0.0,1.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+81,A,Buried / Non-Antigenic Core,,,0.0,35.2,35.47,0.969,0.0,0.0,2.0,2.0,0.0,4.0,Candidate Site (3.0–7.4),4.0,0.0
+82,S,Buried / Non-Antigenic Core,,,0.0,2.07,1.2,0.1497,0.0,0.0,0.5,0.5,0.0,1.0,Low / Background (<3.0),1.0,0.0
+83,V,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.759,1.45,0.93,0.1303,2.0,0.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+84,K,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3721,0.21,0.0,0.0233,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+85,L,Buried / Non-Antigenic Core,,,0.024,1.93,0.4,0.1419,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+86,A,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3151,0.69,0.53,0.0627,2.0,0.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+87,G,Buried / Non-Antigenic Core,,,0.0432,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+88,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4991,0.07,0.0,0.0082,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+89,S,Buried / Non-Antigenic Core,,,0.1541,0.21,0.13,0.0214,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+90,S,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.381,0.28,0.4,0.0274,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+91,L,Buried / Non-Antigenic Core,,,0.0374,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+92,C,Buried / Non-Antigenic Core,,,0.0737,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+93,P,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.546,2.42,1.2,0.1911,2.0,0.0,0.5,1.0,0.0,3.5,Candidate Site (3.0–7.4),3.5,0.0
+94,V,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP],10.1128/JVI.01779-14,0.1065,0.14,0.27,0.0151,1.0,2.0,0.0,0.0,0.0,3.0,Candidate Site (3.0–7.4),2.33,0.67
+95,S,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP],10.1128/JVI.01779-14,0.3391,0.62,0.13,0.0635,2.0,2.0,0.0,0.5,0.0,4.5,Candidate Site (3.0–7.4),3.83,0.67
+96,G,Buried / Non-Antigenic Core,,,0.0116,0.55,1.07,0.0494,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+97,W,Buried / Non-Antigenic Core,,,0.0113,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+98,A,Buried / Non-Antigenic Core,,,0.0187,1.38,0.53,0.1051,0.0,0.0,0.0,0.5,1.0,1.5,Low / Background (<3.0),2.5,-1.0
+99,I,Buried / Non-Antigenic Core,,,0.0529,0.69,0.8,0.0644,1.0,0.0,0.0,0.5,0.0,1.5,Low / Background (<3.0),1.5,0.0
+100,Y,Buried / Non-Antigenic Core,,,0.0377,0.48,0.67,0.0483,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+101,S,Buried / Non-Antigenic Core,,,0.0216,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+102,K,Buried / Non-Antigenic Core,,,0.0045,0.14,0.27,0.0151,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+103,D,Buried / Non-Antigenic Core,,,0.0666,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+104,N,Buried / Non-Antigenic Core,,,0.0286,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+105,S,Buried / Non-Antigenic Core,,,0.0156,0.35,0.27,0.0379,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+106,V,Buried / Non-Antigenic Core,,,0.0,1.17,1.47,0.0921,0.0,0.0,0.0,0.5,1.0,1.5,Low / Background (<3.0),2.5,-1.0
+107,R,Buried / Non-Antigenic Core,,,0.0598,0.14,0.27,0.0151,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+108,I,Buried / Non-Antigenic Core,,,0.0061,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+109,G,Buried / Non-Antigenic Core,,,0.0,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+110,S,Buried / Non-Antigenic Core,,,0.1106,0.14,0.27,0.0151,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+111,K,Buried / Non-Antigenic Core,,,0.1621,0.41,0.67,0.0414,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+112,G,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+113,D,Buried / Non-Antigenic Core,,,0.0555,0.14,0.27,0.0165,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+114,V,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+115,F,Buried / Non-Antigenic Core,,,0.0296,0.28,0.4,0.0274,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+116,V,Buried / Non-Antigenic Core,,,0.0,0.28,0.27,0.0274,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+117,I,Buried / Non-Antigenic Core,,,0.0429,2.97,1.73,0.1928,0.0,0.0,0.5,1.0,0.0,1.5,Low / Background (<3.0),1.5,0.0
+118,R,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.1155,0.0,0.0,-0.0,1.0,2.0,0.0,0.0,1.0,4.0,Candidate Site (3.0–7.4),4.33,-0.33
+119,E,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.0649,0.0,0.0,-0.0,1.0,2.0,0.0,0.0,1.0,4.0,Candidate Site (3.0–7.4),4.33,-0.33
+120,P,Buried / Non-Antigenic Core,,,0.038,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+121,F,Buried / Non-Antigenic Core,,,0.005,0.55,1.07,0.0494,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+122,I,Buried / Non-Antigenic Core,,,0.0184,0.21,0.4,0.0233,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+123,S,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+124,C,Buried / Non-Antigenic Core,,,0.0586,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+125,S,Buried / Non-Antigenic Core,,,0.0622,0.14,0.27,0.0151,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+126,P,Buried / Non-Antigenic Core,,,0.1687,0.48,0.27,0.0497,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+127,L,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.8028,1.1,1.2,0.1007,2.0,0.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+128,E,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2921,0.28,0.53,0.0274,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+129,C,Buried / Non-Antigenic Core,,,0.1017,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+130,R,Buried / Non-Antigenic Core,,,0.0639,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+131,T,Buried / Non-Antigenic Core,,,0.0616,0.14,0.0,0.0165,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+132,F,Buried / Non-Antigenic Core,,,0.005,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+133,F,Buried / Non-Antigenic Core,,,0.005,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+134,L,Buried / Non-Antigenic Core,,,0.006,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+135,T,Buried / Non-Antigenic Core,,,0.0062,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+136,Q,Buried / Non-Antigenic Core,,,0.0574,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+137,G,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+138,A,Buried / Non-Antigenic Core,,,0.0,0.21,0.13,0.0233,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+139,L,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+140,L,Buried / Non-Antigenic Core,,,0.006,0.14,0.0,0.0151,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+141,N,Buried / Non-Antigenic Core,,,0.14,0.07,0.0,0.0082,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+142,D,Buried / Non-Antigenic Core,,,0.0562,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+143,K,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3367,0.28,0.53,0.0297,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+144,H,Buried / Non-Antigenic Core,,,0.0497,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+145,S,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+146,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.5157,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+147,G,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3701,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+148,T,Buried / Non-Antigenic Core,,,0.0733,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+149,I,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4515,0.35,0.0,0.0357,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+150,K,Experimentally Verified PDB mAb Footprint,mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41586-023-06136-y,0.5317,0.07,0.13,0.0082,2.0,2.0,0.0,0.0,0.0,4.0,Candidate Site (3.0–7.4),3.33,0.67
+151,D,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.4011,0.14,0.27,0.0165,2.0,2.0,0.0,0.0,0.0,4.0,Candidate Site (3.0–7.4),3.33,0.67
+152,R,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.2508,0.0,0.0,-0.0,2.0,2.0,0.0,0.0,1.0,5.0,Candidate Site (3.0–7.4),5.33,-0.33
+153,S,Buried / Non-Antigenic Core,,,0.0909,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+154,P,Buried / Non-Antigenic Core,,,0.0987,0.35,0.67,0.0332,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+155,Y,Buried / Non-Antigenic Core,,,0.1723,0.35,0.27,0.0332,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+156,R,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.012,0.0,0.0,-0.0,0.0,2.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),1.33,0.67
+157,T,Buried / Non-Antigenic Core,,,0.0311,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+158,L,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+159,M,Buried / Non-Antigenic Core,,,0.0449,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+160,S,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+161,C,Buried / Non-Antigenic Core,,,0.0077,0.28,0.27,0.0274,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+162,P,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2582,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+163,I,Buried / Non-Antigenic Core,,,0.1505,0.21,0.13,0.0233,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+164,G,Buried / Non-Antigenic Core,,,0.0739,0.07,0.13,0.0082,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+165,E,Buried / Non-Antigenic Core,,,0.1111,0.07,0.13,0.0082,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+166,V,Buried / Non-Antigenic Core,,,0.0327,0.83,0.4,0.0775,0.0,0.0,0.0,0.5,1.0,1.5,Low / Background (<3.0),2.5,-1.0
+167,P,Buried / Non-Antigenic Core,,,0.0228,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+168,S,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+169,P,Buried / Non-Antigenic Core,,,0.0143,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+170,Y,Buried / Non-Antigenic Core,,,0.0825,0.21,0.4,0.0214,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+171,N,Buried / Non-Antigenic Core,,,0.1581,0.07,0.0,0.0082,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+172,S,Buried / Non-Antigenic Core,,,0.0294,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+173,R,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2772,0.21,0.0,0.0214,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+174,F,Buried / Non-Antigenic Core,,,0.0968,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+175,E,Buried / Non-Antigenic Core,,,0.0817,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+176,S,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+177,V,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+178,A,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+179,W,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.039,0.0,0.0,-0.0,0.0,2.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),1.33,0.67
+180,S,Buried / Non-Antigenic Core,,,0.0078,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+181,A,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+182,S,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+183,A,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+184,C,Buried / Non-Antigenic Core,,,0.0217,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+185,H,Buried / Non-Antigenic Core,,,0.089,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+186,D,Buried / Non-Antigenic Core,,,0.0279,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+187,G,Buried / Non-Antigenic Core,,,0.0927,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+188,T,Experimentally Verified PDB mAb Footprint,mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW],10.1038/s41564-019-0464-z,0.4528,35.06,36.93,0.915,2.0,2.0,2.0,2.0,0.0,8.0,High-Priority Hotspot (≥7.5),7.33,0.67
+189,N,Buried / Non-Antigenic Core,,,0.2117,0.48,0.53,0.0483,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+190,W,Buried / Non-Antigenic Core,,,0.1068,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+191,L,Buried / Non-Antigenic Core,,,0.012,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+192,T,Buried / Non-Antigenic Core,,,0.0265,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+193,I,Buried / Non-Antigenic Core,,,0.0,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+194,G,Buried / Non-Antigenic Core,,,0.0,0.21,0.4,0.0214,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+195,I,Buried / Non-Antigenic Core,,,0.0,0.14,0.27,0.0151,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+196,S,Buried / Non-Antigenic Core,,,0.0372,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+197,G,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+198,P,Buried / Non-Antigenic Core,,,0.1671,0.07,0.0,0.0082,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+199,D,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP]; mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW]; mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41564-019-0464-z; 10.1038/s41586-023-06136-y; 10.1128/JVI.01779-14,0.336,0.35,0.4,0.0332,2.0,3.0,0.0,0.0,0.0,5.0,Candidate Site (3.0–7.4),4.0,1.0
+200,S,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP]; mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW]; mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41564-019-0464-z; 10.1038/s41586-023-06136-y; 10.1128/JVI.01779-14,0.5492,27.67,30.13,0.8521,2.0,3.0,2.0,2.0,0.0,9.0,High-Priority Hotspot (≥7.5),8.0,1.0
+201,G,Buried / Non-Antigenic Core,,,0.1909,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+202,A,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+203,V,Buried / Non-Antigenic Core,,,0.0601,0.14,0.13,0.0165,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+204,A,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+205,V,Buried / Non-Antigenic Core,,,0.0347,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+206,L,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+207,K,Buried / Non-Antigenic Core,,,0.0288,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+208,Y,Buried / Non-Antigenic Core,,,0.1204,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+209,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.477,0.21,0.13,0.0233,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+210,G,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3247,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+211,I,Buried / Non-Antigenic Core,,,0.0736,0.07,0.0,0.0082,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+212,I,Buried / Non-Antigenic Core,,,0.0381,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+213,T,Buried / Non-Antigenic Core,,,0.1754,0.07,0.0,0.0082,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+214,D,Buried / Non-Antigenic Core,,,0.1576,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+215,T,Buried / Non-Antigenic Core,,,0.0569,0.21,0.27,0.0233,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+216,I,Buried / Non-Antigenic Core,,,0.1471,0.55,0.67,0.0494,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+217,K,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4798,0.07,0.13,0.0082,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+218,S,Buried / Non-Antigenic Core,,,0.0416,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+219,W,Buried / Non-Antigenic Core,,,0.1872,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+220,R,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4636,0.69,0.27,0.0627,2.0,0.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+221,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.484,0.21,0.13,0.0233,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+222,N,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP]; mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW]; mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41564-019-0464-z; 10.1038/s41586-023-06136-y; 10.1128/JVI.01779-14,0.2927,5.04,5.6,0.9731,2.0,3.0,0.5,2.0,0.0,7.5,High-Priority Hotspot (≥7.5),6.5,1.0
+223,I,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.19,0.55,0.27,0.0494,1.0,2.0,0.0,0.0,0.0,3.0,Candidate Site (3.0–7.4),2.33,0.67
+224,L,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+225,R,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.1163,0.0,0.0,-0.0,1.0,2.0,0.0,0.0,1.0,4.0,Candidate Site (3.0–7.4),4.33,-0.33
+226,T,Buried / Non-Antigenic Core,,,0.0398,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+227,Q,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+228,E,Buried / Non-Antigenic Core,,,0.0577,0.07,0.13,0.0082,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+229,S,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+230,E,Buried / Non-Antigenic Core,,,0.0336,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+231,C,Buried / Non-Antigenic Core,,,0.0265,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+232,A,Buried / Non-Antigenic Core,,,0.0187,0.9,1.2,0.0774,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+233,C,Buried / Non-Antigenic Core,,,0.028,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+234,V,Buried / Non-Antigenic Core,,,0.0069,2.35,3.07,0.1605,0.0,0.0,0.5,1.0,0.0,1.5,Low / Background (<3.0),1.5,0.0
+235,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4167,0.62,0.4,0.0629,2.0,0.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+236,G,Buried / Non-Antigenic Core,,,0.1637,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+237,S,Buried / Non-Antigenic Core,,,0.0691,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+238,C,Buried / Non-Antigenic Core,,,0.0231,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+239,F,Buried / Non-Antigenic Core,,,0.0,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+240,T,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+241,I,Experimentally Verified PDB mAb Footprint,mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW],10.1038/s41564-019-0464-z,0.0185,24.78,26.8,0.1688,0.0,2.0,2.0,1.0,0.0,5.0,Candidate Site (3.0–7.4),4.33,0.67
+242,M,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+243,T,Buried / Non-Antigenic Core,,,0.0249,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+244,D,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+245,G,Buried / Non-Antigenic Core,,,0.0335,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+246,P,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.281,0.07,0.0,0.0082,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+247,S,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.3567,0.76,1.2,0.0708,2.0,2.0,0.0,0.5,0.0,4.5,Candidate Site (3.0–7.4),3.83,0.67
+248,D,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP]; mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW]; mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41564-019-0464-z; 10.1038/s41586-023-06136-y; 10.1128/JVI.01779-14,0.608,23.19,24.67,0.1497,2.0,3.0,2.0,0.5,0.0,7.5,High-Priority Hotspot (≥7.5),6.5,1.0
+249,G,Buried / Non-Antigenic Core,,,0.1161,0.28,0.27,0.0297,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+250,Q,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP],10.1128/JVI.01779-14,0.3713,0.0,0.0,-0.0,2.0,2.0,0.0,0.0,1.0,5.0,Candidate Site (3.0–7.4),5.33,-0.33
+251,A,Buried / Non-Antigenic Core,,,0.0935,0.07,0.13,0.0082,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+252,S,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+253,Y,Buried / Non-Antigenic Core,,,0.0092,0.35,0.67,0.0332,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+254,K,Buried / Non-Antigenic Core,,,0.1924,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+255,I,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+256,F,Buried / Non-Antigenic Core,,,0.005,0.14,0.27,0.0151,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+257,R,Buried / Non-Antigenic Core,,,0.163,3.73,4.13,0.2346,1.0,0.0,0.5,1.0,0.0,2.5,Low / Background (<3.0),2.5,0.0
+258,I,Buried / Non-Antigenic Core,,,0.0231,0.14,0.27,0.0151,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+259,E,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3058,0.14,0.27,0.0165,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+260,K,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.5623,0.41,0.53,0.0429,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+261,G,Buried / Non-Antigenic Core,,,0.0105,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+262,K,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3924,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+263,I,Buried / Non-Antigenic Core,,,0.2232,1.79,1.07,0.1449,1.0,0.0,0.0,0.5,0.0,1.5,Low / Background (<3.0),1.5,0.0
+264,I,Experimentally Verified PDB mAb Footprint,mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW],10.1038/s41564-019-0464-z,0.4199,34.16,37.6,0.9224,2.0,2.0,2.0,2.0,1.0,9.0,High-Priority Hotspot (≥7.5),9.33,-0.33
+265,K,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3237,0.07,0.0,0.0082,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+266,S,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3875,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+267,V,Buried / Non-Antigenic Core,,,0.2013,0.62,0.8,0.0631,1.0,0.0,0.0,0.5,1.0,2.5,Low / Background (<3.0),3.5,-1.0
+268,E,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3728,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+269,M,Buried / Non-Antigenic Core,,,0.0383,0.14,0.27,0.0165,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+270,K,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP]; mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW],10.1038/s41564-019-0464-z; 10.1128/JVI.01779-14,0.57,20.91,24.93,0.3846,2.0,3.0,2.0,1.0,0.0,8.0,High-Priority Hotspot (≥7.5),7.0,1.0
+271,A,Buried / Non-Antigenic Core,,,0.0339,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+272,P,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.5317,0.21,0.13,0.0247,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+273,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4234,0.07,0.0,0.0082,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+274,Y,Buried / Non-Antigenic Core,,,0.1631,0.14,0.27,0.0165,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+275,H,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.0,0.97,1.33,0.0785,0.0,2.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),1.83,0.67
+276,Y,Buried / Non-Antigenic Core,,,0.0046,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+277,E,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.0505,0.0,0.0,-0.0,1.0,2.0,0.0,0.0,1.0,4.0,Candidate Site (3.0–7.4),4.33,-0.33
+278,E,Buried / Non-Antigenic Core,,,0.1485,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+279,C,Buried / Non-Antigenic Core,,,0.022,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+280,S,Buried / Non-Antigenic Core,,,0.0069,0.41,0.8,0.0414,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+281,C,Buried / Non-Antigenic Core,,,0.0065,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+282,Y,Buried / Non-Antigenic Core,,,0.0087,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+283,P,Buried / Non-Antigenic Core,,,0.0076,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+284,D,Buried / Non-Antigenic Core,,,0.1735,0.07,0.0,0.0082,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+285,S,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3917,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+286,S,Buried / Non-Antigenic Core,,,0.2231,0.83,0.27,0.0726,1.0,0.0,0.0,0.5,0.0,1.5,Low / Background (<3.0),1.5,0.0
+287,E,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4368,0.35,0.27,0.0379,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+288,I,Buried / Non-Antigenic Core,,,0.0116,1.93,0.4,0.1504,0.0,0.0,0.0,1.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+289,T,Buried / Non-Antigenic Core,,,0.0748,0.48,0.4,0.0497,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+290,C,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+291,V,Buried / Non-Antigenic Core,,,0.0,0.14,0.27,0.0165,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+292,C,Buried / Non-Antigenic Core,,,0.0,0.14,0.27,0.0165,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+293,R,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.1059,0.0,0.0,-0.0,1.0,2.0,0.0,0.0,1.0,4.0,Candidate Site (3.0–7.4),4.33,-0.33
+294,D,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+295,N,Buried / Non-Antigenic Core,,,0.0904,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+296,W,Buried / Non-Antigenic Core,,,0.2256,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+297,H,Buried / Non-Antigenic Core,,,0.1725,0.21,0.4,0.0233,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+298,G,Buried / Non-Antigenic Core,,,0.0,0.48,0.8,0.0441,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+299,S,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+300,N,Buried / Non-Antigenic Core,,,0.0062,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+301,R,Buried / Non-Antigenic Core,,,0.0244,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+302,P,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+303,W,Buried / Non-Antigenic Core,,,0.1182,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+304,V,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+305,S,Buried / Non-Antigenic Core,,,0.186,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+306,F,Buried / Non-Antigenic Core,,,0.005,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+307,N,Buried / Non-Antigenic Core,,,0.1965,0.14,0.13,0.0151,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+308,Q,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2823,0.14,0.27,0.0165,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+309,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4423,0.21,0.13,0.0214,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+310,L,Buried / Non-Antigenic Core,,,0.016,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+311,E,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.5163,0.21,0.27,0.0233,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+312,Y,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2693,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+313,Q,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.5568,0.9,0.0,0.0774,2.0,0.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+314,M,Experimentally Verified PDB mAb Footprint,mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW],10.1038/s41564-019-0464-z,0.2486,20.91,20.67,0.5009,1.0,2.0,2.0,2.0,0.0,7.0,Candidate Site (3.0–7.4),6.33,0.67
+315,G,Buried / Non-Antigenic Core,,,0.0464,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+316,Y,Buried / Non-Antigenic Core,,,0.0122,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+317,I,Buried / Non-Antigenic Core,,,0.0429,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+318,C,Buried / Non-Antigenic Core,,,0.0308,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+319,S,Buried / Non-Antigenic Core,,,0.0069,0.14,0.27,0.0151,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+320,G,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+321,V,Experimentally Verified PDB mAb Footprint,mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW],10.1038/s41564-019-0464-z,0.0109,24.64,27.47,0.1787,0.0,2.0,2.0,1.0,0.0,5.0,Candidate Site (3.0–7.4),4.33,0.67
+322,F,Buried / Non-Antigenic Core,,,0.0151,0.76,0.4,0.0644,0.0,0.0,0.0,0.5,0.0,0.5,Low / Background (<3.0),0.5,0.0
+323,G,Buried / Non-Antigenic Core,,,0.0881,0.14,0.27,0.0151,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+324,D,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+325,N,Buried / Non-Antigenic Core,,,0.022,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+326,P,Buried / Non-Antigenic Core,,,0.1975,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+327,R,Buried / Non-Antigenic Core,,,0.0276,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+328,P,Buried / Non-Antigenic Core,,,0.0608,0.21,0.27,0.0214,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+329,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.5307,0.62,0.4,0.0659,2.0,0.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+330,D,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2837,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+331,K,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4665,0.83,0.8,0.0778,2.0,0.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+332,T,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.5787,0.35,0.4,0.0357,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+333,G,Buried / Non-Antigenic Core,,,0.1765,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+334,S,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2812,0.35,0.0,0.0332,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+335,C,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4323,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+336,G,Buried / Non-Antigenic Core,,,0.2151,0.07,0.0,0.0082,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+337,P,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2639,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+338,V,Buried / Non-Antigenic Core,,,0.111,0.07,0.0,0.0083,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+339,S,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP]; mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW]; mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41564-019-0464-z; 10.1038/s41586-023-06136-y; 10.1128/JVI.01779-14,0.5978,4.28,1.6,0.26,2.0,3.0,0.5,1.0,1.0,7.5,High-Priority Hotspot (≥7.5),7.5,0.0
+340,S,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.296,0.35,0.13,0.0384,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+341,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4326,0.55,0.4,0.0538,2.0,0.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+342,G,Buried / Non-Antigenic Core,,,0.021,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+343,A,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.407,0.28,0.27,0.0316,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+344,N,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP]; mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW],10.1038/s41564-019-0464-z; 10.1128/JVI.01779-14,0.5147,0.14,0.13,0.0151,2.0,3.0,0.0,0.0,0.0,5.0,Candidate Site (3.0–7.4),4.0,1.0
+345,G,Buried / Non-Antigenic Core,,,0.0412,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+346,V,Buried / Non-Antigenic Core,,,0.0278,0.35,0.4,0.0332,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+347,K,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+348,G,Buried / Non-Antigenic Core,,,0.0232,0.14,0.27,0.0151,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+349,F,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+350,S,Buried / Non-Antigenic Core,,,0.0207,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+351,F,Buried / Non-Antigenic Core,,,0.0,0.14,0.27,0.0151,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+352,K,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.265,0.14,0.27,0.0165,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+353,Y,Buried / Non-Antigenic Core,,,0.2157,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+354,G,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4511,0.14,0.27,0.0151,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+355,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4623,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+356,G,Buried / Non-Antigenic Core,,,0.0105,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+357,V,Buried / Non-Antigenic Core,,,0.0,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+358,W,Buried / Non-Antigenic Core,,,0.0161,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+359,I,Buried / Non-Antigenic Core,,,0.0245,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+360,G,Buried / Non-Antigenic Core,,,0.0103,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+361,R,Buried / Non-Antigenic Core,,,0.0611,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+362,T,Buried / Non-Antigenic Core,,,0.0197,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+363,K,Buried / Non-Antigenic Core,,,0.184,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+364,S,Buried / Non-Antigenic Core,,,0.109,0.14,0.0,0.0165,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+365,I,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3101,5.38,4.53,0.3024,2.0,0.0,0.5,1.0,0.0,3.5,Candidate Site (3.0–7.4),3.5,0.0
+366,S,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.6131,1.17,0.8,0.1057,2.0,0.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+367,S,Buried / Non-Antigenic Core,,,0.1591,0.14,0.13,0.0151,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+368,R,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.2415,0.0,0.0,-0.0,1.0,2.0,0.0,0.0,1.0,4.0,Candidate Site (3.0–7.4),4.33,-0.33
+369,K,Experimentally Verified PDB mAb Footprint,mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW]; mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41564-019-0464-z; 10.1038/s41586-023-06136-y,0.097,23.4,24.8,0.1408,1.0,3.0,2.0,0.5,0.0,6.5,Candidate Site (3.0–7.4),5.5,1.0
+370,G,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+371,F,Buried / Non-Antigenic Core,,,0.005,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+372,E,Buried / Non-Antigenic Core,,,0.024,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+373,M,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+374,I,Buried / Non-Antigenic Core,,,0.0,0.21,0.0,0.0214,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+375,W,Buried / Non-Antigenic Core,,,0.1948,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+376,D,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+377,P,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4563,0.14,0.0,0.0151,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+378,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3102,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+379,G,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+380,W,Buried / Non-Antigenic Core,,,0.0279,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+381,T,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4412,2.35,4.27,0.1725,2.0,0.0,0.5,1.0,0.0,3.5,Candidate Site (3.0–7.4),3.5,0.0
+382,G,Buried / Non-Antigenic Core,,,0.151,1.31,1.33,0.1008,1.0,0.0,0.0,0.5,0.0,1.5,Low / Background (<3.0),1.5,0.0
+383,T,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2974,0.14,0.0,0.0151,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+384,D,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2851,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+385,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2993,0.14,0.13,0.0165,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+386,K,Experimentally Verified PDB mAb Footprint,mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW]; mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41564-019-0464-z; 10.1038/s41586-023-06136-y,0.5454,23.88,26.8,0.2584,2.0,3.0,2.0,1.0,0.0,8.0,High-Priority Hotspot (≥7.5),7.0,1.0
+387,F,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3879,0.28,0.4,0.0274,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+388,S,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4913,0.14,0.27,0.0165,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+389,I,Experimentally Verified PDB mAb Footprint,mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW]; mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41564-019-0464-z; 10.1038/s41586-023-06136-y,0.2759,15.11,16.93,1.0824,2.0,3.0,1.0,2.0,0.0,8.0,High-Priority Hotspot (≥7.5),7.0,1.0
+390,K,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4251,0.21,0.27,0.0214,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+391,Q,Buried / Non-Antigenic Core,,,0.0578,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+392,D,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3495,0.07,0.13,0.0082,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+393,I,Buried / Non-Antigenic Core,,,0.0,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+394,V,Buried / Non-Antigenic Core,,,0.0069,1.31,1.73,0.1109,0.0,0.0,0.0,0.5,1.0,1.5,Low / Background (<3.0),2.5,-1.0
+395,G,Buried / Non-Antigenic Core,,,0.1974,0.14,0.13,0.0165,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+396,I,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.4657,2.14,2.67,0.1854,2.0,0.0,0.5,1.0,0.0,3.5,Candidate Site (3.0–7.4),3.5,0.0
+397,N,Experimentally Verified PDB mAb Footprint,mAb 3C10-3 / 1000-3B06 (Lateral/Head) [PDB 6N6B / 6PZW],10.1038/s41564-019-0464-z,0.7218,27.54,26.67,0.1033,2.0,2.0,2.0,0.5,0.0,6.5,Candidate Site (3.0–7.4),5.83,0.67
+398,E,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3016,0.21,0.0,0.0214,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+399,W,Buried / Non-Antigenic Core,,,0.229,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+400,S,Buried / Non-Antigenic Core,,,0.0069,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+401,G,Buried / Non-Antigenic Core,,,0.0103,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+402,Y,Experimentally Verified PDB mAb Footprint,mAb 1G01 (Active-Site Broad) [PDB 6Q23],10.1126/science.aay0678,0.053,0.0,0.0,-0.0,1.0,2.0,0.0,0.0,1.0,4.0,Candidate Site (3.0–7.4),4.33,-0.33
+403,S,Buried / Non-Antigenic Core,,,0.0138,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+404,G,Buried / Non-Antigenic Core,,,0.0,0.48,0.93,0.0441,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+405,S,Buried / Non-Antigenic Core,,,0.0147,0.14,0.13,0.0151,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+406,F,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+407,V,Buried / Non-Antigenic Core,,,0.02,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+408,Q,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+409,H,Buried / Non-Antigenic Core,,,0.067,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+410,P,Buried / Non-Antigenic Core,,,0.2286,0.07,0.13,0.0082,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+411,E,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2957,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+412,L,Buried / Non-Antigenic Core,,,0.1608,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+413,T,Buried / Non-Antigenic Core,,,0.1752,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+414,G,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.6255,0.14,0.13,0.0165,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+415,L,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.2943,0.21,0.4,0.0214,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+416,N,Experimentally Verified PDB mAb Footprint,mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41586-023-06136-y,0.6668,25.12,27.87,1.0295,2.0,2.0,2.0,2.0,0.0,8.0,High-Priority Hotspot (≥7.5),7.33,0.67
+417,C,Buried / Non-Antigenic Core,,,0.1055,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+418,I,Buried / Non-Antigenic Core,,,0.0,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+419,R,Buried / Non-Antigenic Core,,,0.0679,0.07,0.13,0.0082,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+420,P,Buried / Non-Antigenic Core,,,0.0,0.14,0.27,0.0151,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+421,C,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+422,F,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+423,W,Buried / Non-Antigenic Core,,,0.0169,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+424,V,Buried / Non-Antigenic Core,,,0.0,0.21,0.13,0.0214,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+425,E,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+426,L,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+427,I,Buried / Non-Antigenic Core,,,0.1185,0.14,0.13,0.0165,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+428,R,Buried / Non-Antigenic Core,,,0.0643,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+429,G,Buried / Non-Antigenic Core,,,0.0309,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+430,R,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3195,0.21,0.13,0.0214,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+431,P,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.5913,0.07,0.0,0.0082,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+432,E,Experimentally Verified PDB mAb Footprint,mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41586-023-06136-y,0.5196,24.5,27.47,0.2147,2.0,2.0,2.0,1.0,0.0,7.0,Candidate Site (3.0–7.4),6.33,0.67
+433,E,Buried / Non-Antigenic Core,,,0.1166,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+434,N,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.6689,0.55,0.4,0.0538,2.0,0.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+435,T,Buried / Non-Antigenic Core,,,0.0398,0.14,0.13,0.0165,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+436,I,Buried / Non-Antigenic Core,,,0.224,3.66,2.53,0.2264,1.0,0.0,0.5,1.0,0.0,2.5,Low / Background (<3.0),2.5,0.0
+437,W,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+438,T,Buried / Non-Antigenic Core,,,0.0413,0.28,0.4,0.0274,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+439,S,Buried / Non-Antigenic Core,,,0.0069,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+440,G,Buried / Non-Antigenic Core,,,0.0103,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+441,S,Buried / Non-Antigenic Core,,,0.0156,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+442,S,Buried / Non-Antigenic Core,,,0.0354,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+443,I,Buried / Non-Antigenic Core,,,0.0,0.35,0.27,0.0384,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+444,S,Buried / Non-Antigenic Core,,,0.0,0.07,0.0,0.0082,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+445,F,Buried / Non-Antigenic Core,,,0.0,0.14,0.27,0.0151,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+446,C,Buried / Non-Antigenic Core,,,0.0077,0.07,0.13,0.0082,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+447,G,Buried / Non-Antigenic Core,,,0.0206,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+448,V,Buried / Non-Antigenic Core,,,0.0625,0.21,0.27,0.0214,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+449,D,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP]; mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41586-023-06136-y; 10.1128/JVI.01779-14,0.5638,35.96,35.73,0.9085,2.0,3.0,2.0,2.0,0.0,9.0,High-Priority Hotspot (≥7.5),8.0,1.0
+450,S,Buried / Non-Antigenic Core,,,0.226,2.55,0.53,0.1952,1.0,0.0,0.5,1.0,0.0,2.5,Low / Background (<3.0),2.5,0.0
+451,D,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP],10.1128/JVI.01779-14,0.4644,1.59,1.73,0.1443,2.0,2.0,0.0,0.5,0.0,4.5,Candidate Site (3.0–7.4),3.83,0.67
+452,T,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP]; mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41586-023-06136-y; 10.1128/JVI.01779-14,0.1826,19.94,25.47,1.033,1.0,3.0,1.0,2.0,0.0,7.0,Candidate Site (3.0–7.4),6.0,1.0
+453,V,Experimentally Verified PDB mAb Footprint,mAb CD6 (Quaternary Bridge) [PDB 4QNP],10.1128/JVI.01779-14,0.1221,5.38,4.8,0.9487,1.0,2.0,0.5,2.0,0.0,5.5,Candidate Site (3.0–7.4),4.83,0.67
+454,G,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.266,1.04,0.67,0.0934,2.0,0.0,0.0,0.5,1.0,3.5,Candidate Site (3.0–7.4),4.5,-1.0
+455,W,Buried / Non-Antigenic Core,,,0.2215,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+456,S,Buried / Non-Antigenic Core,,,0.1955,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+457,W,Buried / Non-Antigenic Core,,,0.0254,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+458,P,Buried / Non-Antigenic Core,,,0.0304,0.21,0.4,0.0214,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+459,D,Buried / Non-Antigenic Core,,,0.0119,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low / Background (<3.0),0.0,0.0
+460,G,Buried / Non-Antigenic Core,,,0.1124,0.21,0.4,0.0214,1.0,0.0,0.0,0.0,1.0,2.0,Low / Background (<3.0),3.0,-1.0
+461,A,Buried / Non-Antigenic Core,,,0.0581,0.21,0.0,0.0214,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+462,E,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.5228,0.21,0.4,0.0214,2.0,0.0,0.0,0.0,0.0,2.0,Low / Background (<3.0),2.0,0.0
+463,L,Buried / Non-Antigenic Core,,,0.1947,0.0,0.0,-0.0,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+464,P,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.3097,0.0,0.0,-0.0,2.0,0.0,0.0,0.0,1.0,3.0,Candidate Site (3.0–7.4),4.0,-1.0
+465,F,Buried / Non-Antigenic Core,,,0.0,0.0,0.0,-0.0,0.0,0.0,0.0,0.0,1.0,1.0,Low / Background (<3.0),2.0,-1.0
+466,T,Computationally Predicted Surface Candidate (RSA ≥ 0.25),,,0.6253,0.62,0.4,0.0606,2.0,0.0,0.0,0.5,0.0,2.5,Low / Background (<3.0),2.5,0.0
+467,I,Buried / Non-Antigenic Core,,,0.2478,1.45,0.8,0.1172,1.0,0.0,0.0,0.5,0.0,1.5,Low / Background (<3.0),1.5,0.0
+468,D,Buried / Non-Antigenic Core,,,0.1784,0.07,0.0,0.0082,1.0,0.0,0.0,0.0,0.0,1.0,Low / Background (<3.0),1.0,0.0
+469,K,Experimentally Verified PDB mAb Footprint,mAb N1-C4 / FNI17 (C-Terminal/Lateral) [PDB 7U4E / 8G3O],10.1038/s41586-023-06136-y,0.7211,6.42,7.2,0.8619,2.0,2.0,0.5,2.0,1.0,7.5,High-Priority Hotspot (≥7.5),7.83,-0.33
