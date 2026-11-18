@@ -28,6 +28,7 @@ influenza-a-virus-neuraminidase/
 ├── README.md                          # Execution order and description of data curation scripts
 │   └── *.py                               # Retrieval, quality control, deduplication & stratified subsampling
 ├── analysis/
+│   ├── 00_data_curation/                    # Step 0 (T1): NCBI Virus retrieval, QC, deduplication & stratified subsampling
 ├── README.md                          # Step-by-step documentation of evolutionary & structural analyses
 │   ├── 01_mafft_and_consensus.sh          # Multiple sequence alignment (MAFFT v7.526) & consensus generation
 │   ├── 02_numbering_audit_4B7R.py         # Pairwise structural alignment (PDB 4B7R) & N1/N2 coordinate audit
@@ -70,7 +71,7 @@ influenza-a-virus-neuraminidase/
 
 ## Completed Analytical Workflow (`T1`–`T18`)
 
-1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
+1. **Dataset Curation & Stratified Subsampling (`analysis/00_data_curation/`):**
    * Retrieved human A(H1N1)pdm09 NA coding sequences (2015–2025) from NCBI Virus, filtered for complete coding sequences (1,380–1,500 nt), ≤1% ambiguous bases, intact reading frames, and deduplicated isolate names.
    * Applied country- and year-capped stratified sampling (≤20 sequences/country/year) and excluded seven non-pdm09/variant spillover or misannotated long-branch outliers (`Supplementary Table 2`), yielding **750 Asian** and **699 non-Asian** sequences (**total *N* = 1,449**).
 2. **Multiple Sequence Alignment & Consensus Construction (`analysis/01_mafft_and_consensus.sh`, `analysis/08_export_manuscript_draft.py`):**

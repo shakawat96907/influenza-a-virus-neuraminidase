@@ -1,5 +1,6 @@
 ## Core Bioinformatics & Evolutionary Analysis Pipeline
 
+0. `00_data_curation/` — Step 0 (`T1`): NCBI Virus sequence retrieval, CDS translation/QC filtering, isolate deduplication, and country-year stratified subsampling (`analysis/00_data_curation/README.md`).
 1. `01_mafft_and_consensus.sh` — Multiple sequence alignment (`MAFFT v7.526 --auto`) and generation of gapped (`493`-column) and canonical ungapped (`469`-aa) consensus sequences.
 2. `02_numbering_audit_4B7R.py` — Global pairwise alignment against crystal structure `PDB ID: 4B7R` (`Chain A`; `96.64%` sequence identity) and cross-numbering standardization (`MAFFT` alignment, canonical N1, `PDB 4B7R`, and classical N2 numbering; `Supplementary Table 3`).
 3. `03_codon_alignment.py` — Conversion of protein alignments into frame-matched codon-aware nucleotide alignments (`1,479 nt` across `493` codons) using `PAL2NAL v14`.
