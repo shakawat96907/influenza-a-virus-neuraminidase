@@ -39,7 +39,18 @@ influenza-a-virus-neuraminidase/
 │   ├── 09_finalize_trees_and_fig1.py      # Clean tree topology comparison, clock fit & Figure 1A–B rendering
 │   ├── 10_treetime_mugration.py           # Discrete geographic mugration & Asia-enriched clade detection
 │   ├── 11_ancestral_and_fig2.py           # TreeTime ancestral sequence reconstruction & homoplasy audit
-│   └── 11b_clean_fig2_and_tables56.py     # Main Tables 5–6 export & publication Figure 2A–C rendering
+│   ├── 11b_clean_fig2_and_tables56.py     # Main Tables 5–6 export & publication Figure 2A–C rendering
+│   ├── 12_phylogeny_aware_enrichment.py       # Regional enrichment (Fisher, CMH, clade-declustered; Table 7)
+│   ├── 12b_fix_fig3.py                        # 1000 DPI Figure 3A–B rendering with phylogeny-aware overlays
+│   ├── 13_shannon_entropy_and_fig4.py         # Shannon entropy & 3-tier variability sensitivity (Figure 4, Table 8)
+│   ├── 14_temporal_dynamics_and_fig5.py       # 4-period temporal dynamics & rarefaction (Figure 5, Table 9)
+│   ├── 15_glycosylation_and_fig6.py           # Predicted N-linked glycosylation sequon profiling (Figure 6, Table 10)
+│   ├── 16_selection_and_fig7.py               # Codon-level HyPhy FEL, MEME & FUBAR selection (Figure 7, Table 11)
+│   ├── 17_tetramer_sasa_and_fig8.py           # Biological tetramer (4B7R) SASA & normalized RSA (Main Table 12)
+│   ├── 17b_compile_figure8_abc.py             # Single-row composite Figure 8A–C & 4-subunit PyMOL 3D rendering
+│   ├── 18_season_matched_vaccine_fig9.py       # Season-matched WHO vaccine divergence (2015–2025; Main Table 13)
+│   ├── 18b_render_fig9_fig10_1000dpi.py       # 1000 DPI Figure 9 & PyMOL 3D homotetramer Figure 10 rendering
+│   └── 19_nai_resistance_and_fig11.py         # Canonical NAI resistance screening & H275Y/I223 audit (Figure 11, Table 14)
 └── results/
     ├── aln_prot_clean.fasta               # Clean MAFFT protein alignment (1,449 sequences; 493 columns)
     ├── codon_aln_nuc_clean.fasta          # Clean codon-aware nucleotide alignment (1,449 sequences; 1,479 nt)
