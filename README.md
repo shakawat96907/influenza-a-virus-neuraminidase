@@ -16,11 +16,8 @@ influenza-a-virus-neuraminidase/
 ├── run_all.sh                               # End-to-end master reproduction script (Scripts 01–22)
 ├── README.md                              # Project overview, directory guide, and reproducibility instructions
 ├── environment.yml                        # Conda environment specification
-├── run_all.sh                             # Master script to execute the completed analysis pipeline
 ├── .gitignore                             # Git ignore rules for large/temporary intermediate files
 ├── data/
-│   ├── CITATION.cff                             # Citation metadata for automated Zenodo DOI archiving
-├── run_all.sh                               # End-to-end master reproduction script (Scripts 01–22)
 ├── README.md                          # Documentation of raw and processed sequence datasets
 │   ├── raw/                               # Raw sequence records directory
 │   └── processed/                         # Curated non-redundant datasets (N = 1,449)
@@ -28,13 +25,9 @@ influenza-a-virus-neuraminidase/
 │       ├── final_clean_prot.fasta         # Curated full-length NA protein sequences (1,449)
 │       └── final_clean_nuc.fasta          # Curated frame-matched NA coding nucleotide sequences (1,449)
 ├── scripts/
-│   ├── CITATION.cff                             # Citation metadata for automated Zenodo DOI archiving
-├── run_all.sh                               # End-to-end master reproduction script (Scripts 01–22)
 ├── README.md                          # Execution order and description of data curation scripts
 │   └── *.py                               # Retrieval, quality control, deduplication & stratified subsampling
 ├── analysis/
-│   ├── CITATION.cff                             # Citation metadata for automated Zenodo DOI archiving
-├── run_all.sh                               # End-to-end master reproduction script (Scripts 01–22)
 ├── README.md                          # Step-by-step documentation of evolutionary & structural analyses
 │   ├── 01_mafft_and_consensus.sh          # Multiple sequence alignment (MAFFT v7.526) & consensus generation
 │   ├── 02_numbering_audit_4B7R.py         # Pairwise structural alignment (PDB 4B7R) & N1/N2 coordinate audit
@@ -59,7 +52,9 @@ influenza-a-virus-neuraminidase/
 │   ├── 18_season_matched_vaccine_fig9.py       # Season-matched WHO vaccine divergence (2015–2025; Main Table 13)
 │   ├── 18b_render_fig9_fig10_1000dpi.py       # 1000 DPI Figure 9 & PyMOL 3D homotetramer Figure 10 rendering
 │   ├── 19_nai_resistance_and_fig11.py         # Canonical NAI resistance screening & H275Y/I223 audit (Figure 11, Table 14)
-│   └── 20_haplotype_cooccurrence_fig12.py     # Multi-variant haplotype greedy set-cover & co-occurrence network (Figure 12, Table 15)
+│   ├── 20_haplotype_cooccurrence_fig12.py     # Multi-variant haplotype greedy set-cover & co-occurrence network (Figure 12, Table 15)
+│   ├── 21_epitope_hotspot_scoring_fig13.py    # IEDB/PDB antibody footprint mapping & reproducible hotspot scoring (Figure 13, Table 16)
+│   └── 22_weight_sensitivity_catalytic_final.py # Hotspot weight sensitivity & catalytic active-site conservation (Table 17, Supp Fig S2)
 └── results/
     ├── aln_prot_clean.fasta               # Clean MAFFT protein alignment (1,449 sequences; 493 columns)
     ├── codon_aln_nuc_clean.fasta          # Clean codon-aware nucleotide alignment (1,449 sequences; 1,479 nt)
@@ -73,7 +68,7 @@ influenza-a-virus-neuraminidase/
     └── tables/                            # Main Tables 5–6, Supplementary Tables 1–8 & outlier audit logs
 ```
 
-## Completed Analytical Workflow (`T1`–`T17`)
+## Completed Analytical Workflow (`T1`–`T18`)
 
 1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
    * Retrieved human A(H1N1)pdm09 NA coding sequences (2015–2025) from NCBI Virus, filtered for complete coding sequences (1,380–1,500 nt), ≤1% ambiguous bases, intact reading frames, and deduplicated isolate names.
@@ -118,9 +113,8 @@ influenza-a-virus-neuraminidase/
 15. **Multi-Variant Haplotype Greedy Set-Cover & Co-Occurrence Network (`analysis/20_haplotype_cooccurrence_fig12.py`):**
    * Reconstructed per-isolate haplotypes across Asia-enriched and clade-sweep variants (`n = 750`), showing that `0/750` isolates carry all 7 Asia-enriched mutations simultaneously (`5` strains needed for `≥90%` coverage) due to segregation into two mutually exclusive temporal clades (**Figure 12A–B**, **Main Table 15**, `Supplementary Table 17`).
 
-## Ongoing Revision Analyses (`T18`)
-
-* Reproducible multi-evidence antigenic hotspot scoring and final manuscript/Zenodo DOI release (`T18`)
+16. **Experimentally Verified Epitope Footprint Cross-Mapping & Reproducible Hotspot Scoring (`analysis/21_epitope_hotspot_scoring_fig13.py`):**
+   * Cross-referenced all `469` canonical N1 residues against curated X-ray crystal structure antibody footprints (`PDB 4QNP`, `6Q23`, `6N6B`, `6PZW`, `7U4E`, `8G3O`; with permanent `DOIs`) and `IEDB` epitopes, separating verified antibody contacts (`n = 41`) from predicted surface candidates (`RSA ≥ 0.25`; `n = 73`) and computing a deterministic `10`-point multi-evidence antigenic hotspot score (**Figure 13A–B**, **Main Table 16**, `Supplementary Tables 18 & 18b`).
 
 17. **Hotspot Weight Sensitivity & Canonical Active-Site Conservation (`analysis/22_weight_sensitivity_catalytic_final.py`):**
    * Verified rank stability between evidence-weighted (`3:2:2:2:1`) and equal-weighted (`2:2:2:2:2`) hotspot scores (`Spearman ρ = 0.9346`, `P < 10⁻¹⁰⁰`; `100%` [`12/12`] top-hotspot overlap; `Supplementary Table 19`, `Supplementary Figure S2`) and confirmed `99.03%–100.00%` conservation across all `20` canonical N1 catalytic triad and framework residues (**Main Table 17**).
