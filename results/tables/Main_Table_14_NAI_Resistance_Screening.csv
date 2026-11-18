@@ -1,0 +1,17 @@
+Substitution,N1_Position,Screening_Status,Global_Count,Global_Pct,Asian_Count,Asian_Pct,NonAsian_Count,NonAsian_Pct,WHO_Phenotypic_Note
+E119V,119,Screened (0 detected),0,0.0,0,0.0,0,0.0,Reduced inhibition (Oseltamivir / Peramivir)
+E119G,119,Screened (0 detected),0,0.0,0,0.0,0,0.0,Reduced inhibition (Zanamivir / Peramivir)
+E119D,119,Screened (0 detected),0,0.0,0,0.0,0,0.0,Reduced inhibition (Zanamivir / Laninamivir)
+Q136K,136,Screened (0 detected),0,0.0,0,0.0,0,0.0,Reduced inhibition (Zanamivir / Laninamivir)
+Y155H,155,Detected,5,0.345,2,0.267,3,0.429,Reduced inhibition (Oseltamivir / Zanamivir)
+D199G,199,Screened (0 detected),0,0.0,0,0.0,0,0.0,Reduced inhibition (Oseltamivir)
+D199E,199,Screened (0 detected),0,0.0,0,0.0,0,0.0,Reduced inhibition (Oseltamivir)
+I223R,223,Screened (0 detected),0,0.0,0,0.0,0,0.0,Reduced inhibition (Oseltamivir / Zanamivir; dual synergy with H275Y)
+I223V,223,Detected,8,0.552,2,0.267,6,0.858,Permissive / compensatory substitution (Oseltamivir)
+I223K,223,Screened (0 detected),0,0.0,0,0.0,0,0.0,Reduced inhibition (Oseltamivir)
+I223T,223,Screened (0 detected),0,0.0,0,0.0,0,0.0,Permissive / low-level reduced inhibition
+S247N,247,Detected,8,0.552,6,0.8,2,0.286,Reduced inhibition (Oseltamivir; dual synergy with H275Y)
+S247G,247,Screened (0 detected),0,0.0,0,0.0,0,0.0,Reduced inhibition (Oseltamivir)
+H275Y,275,Detected,14,0.966,10,1.333,4,0.572,Highly reduced inhibition (Oseltamivir / Peramivir)
+R293K,293,Screened (0 detected),0,0.0,0,0.0,0,0.0,Highly reduced inhibition (Zanamivir / Oseltamivir)
+N295S,295,Screened (0 detected),0,0.0,0,0.0,0,0.0,Reduced inhibition (Oseltamivir)

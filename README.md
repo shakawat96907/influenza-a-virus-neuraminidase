@@ -53,7 +53,7 @@ influenza-a-virus-neuraminidase/
     └── tables/                            # Main Tables 5–6, Supplementary Tables 1–8 & outlier audit logs
 ```
 
-## Completed Analytical Workflow (`T1`–`T15`)
+## Completed Analytical Workflow (`T1`–`T16`)
 
 1. **Dataset Curation & Stratified Subsampling (`scripts/`):**
    * Retrieved human A(H1N1)pdm09 NA coding sequences (2015–2025) from NCBI Virus, filtered for complete coding sequences (1,380–1,500 nt), ≤1% ambiguous bases, intact reading frames, and deduplicated isolate names.
@@ -89,9 +89,13 @@ influenza-a-virus-neuraminidase/
    * Computed monomer vs. biological homotetramer (`PDB 4B7R`) `SASA` and normalized `RSA` (`Tien et al., 2013`), identifying 59 interfacial residues (`ΔSASA ≥ 10 Å²`, including `V453` and `T452`) and compiling single-row Figure 8A–C with PyMOL 3D stick/sphere element-colored views (**Figure 8A–C**, **Main Table 12**, `Supplementary Table 14`).
 
 13. **Season-Matched WHO Vaccine Divergence Profiling (`analysis/18_season_matched_vaccine_fig9.py`, `analysis/18b_render_fig9_fig10_1000dpi.py`):**
+    └── 19_nai_resistance_and_fig11.py            # Canonical NAI resistance screening & H275Y/I223 phylogenetic audit (Figure 11, Table 14)
    * Audited `QFQ15359.1` (non-pdm09 historical H1N1) and evaluated percentage divergence from season-matched WHO A(H1N1)pdm09 vaccine virus NA sequences (`2015–2025`), eliminating all `257` legacy `≥50%` artifacts and mapping the `16` top divergent head residues (`≥15%`) onto the 3D homotetramer (**Figures 9 & 10**, **Main Table 13**, `Supplementary Table 15`).
 
-## Ongoing Revision Analyses (`T16`–`T18`)
+14. **Neuraminidase Inhibitor (`NAI`) Resistance Screening & Phylogenetic Audit (`analysis/19_nai_resistance_and_fig11.py`):**
+   * Screened 16 canonical N1 resistance substitutions (`Screened vs. Detected`), disaggregated position `223` (`I223V` detected `n = 8`; `I223R/K/T` = `0`), and audited all `14` `H275Y` isolates across country, year, and global phylogeny (`11` independent phylogenetic origins; **Figure 11A–B**, **Main Table 14**, `Supplementary Table 16`).
+
+## Ongoing Revision Analyses (`T17`–`T18`)
 
 * Co-occurring non-consensus variants, linkage/epistasis network, and multi-strain haplotype profiling (`T12`–`T13`)
 * Neuraminidase inhibitor (`NAI`) resistance screening (`Screened vs. Detected`) and epidemiological/phylogenetic audit of `H275Y` and `I223` variants (**Figure 11**, **Main Table 14**, `Supplementary Table 16`; `T16`)

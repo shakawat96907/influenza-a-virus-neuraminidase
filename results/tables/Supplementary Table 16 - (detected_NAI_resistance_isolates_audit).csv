@@ -1,0 +1,36 @@
+Substitution,N1_Position,Accession,Region,Country,Year,Phylogenetic_Clustering
+Y155H,155,MH328858,Asia,Taiwan,2016,Independent singleton branch
+Y155H,155,PP535482,Asia,Hong Kong,2023,Independent singleton branch
+Y155H,155,MK839645,Non-Asia,Germany,2019,Independent singleton branch
+Y155H,155,PQ451904,Non-Asia,Brazil,2021,Monophyletic cluster (n=2)
+Y155H,155,PQ451863,Non-Asia,Brazil,2022,Monophyletic cluster (n=2)
+I223V,223,MG572276,Asia,Iran,2015,Independent singleton branch
+I223V,223,MG572260,Asia,Iran,2016,Independent singleton branch
+I223V,223,CY258678,Non-Asia,USA,2017,Independent singleton branch
+I223V,223,MK773015,Non-Asia,USA,2019,Independent singleton branch
+I223V,223,PX415121,Non-Asia,Senegal,2023,Monophyletic cluster (n=4)
+I223V,223,PX415137,Non-Asia,Senegal,2023,Monophyletic cluster (n=4)
+I223V,223,PX414691,Non-Asia,Senegal,2023,Monophyletic cluster (n=4)
+I223V,223,PX415161,Non-Asia,Senegal,2023,Monophyletic cluster (n=4)
+S247N,247,MN326593,Asia,Pakistan,2018,Independent singleton branch
+S247N,247,PV460150,Asia,China,2024,Independent singleton branch
+S247N,247,PQ282158,Asia,Japan,2024,Independent singleton branch
+S247N,247,PV190851,Asia,Japan,2024,Independent singleton branch
+S247N,247,PV848688,Asia,Saudi Arabia,2024,Monophyletic cluster (n=2)
+S247N,247,PV848716,Asia,Saudi Arabia,2024,Monophyletic cluster (n=2)
+S247N,247,PZ072858,Non-Asia,France,2024,Independent singleton branch
+S247N,247,PX751768,Non-Asia,Canada,2025,Independent singleton branch
+H275Y,275,KY288879,Asia,Iran,2015,Independent singleton branch
+H275Y,275,LC409165,Asia,Japan,2016,Independent singleton branch
+H275Y,275,KY509994,Asia,South Korea,2016,Monophyletic cluster (n=3)
+H275Y,275,LC376821,Asia,Japan,2017,Independent singleton branch
+H275Y,275,MZ819799,Asia,Pakistan,2017,Independent singleton branch
+H275Y,275,OR304304,Asia,Turkey,2017,Independent singleton branch
+H275Y,275,MW012893,Asia,India,2019,Independent singleton branch
+H275Y,275,MK763642,Asia,Japan,2019,Independent singleton branch
+H275Y,275,PV460142,Asia,China,2024,Monophyletic cluster (n=2)
+H275Y,275,PV460174,Asia,China,2024,Monophyletic cluster (n=2)
+H275Y,275,KX237720,Non-Asia,Czech Republic,2016,Monophyletic cluster (n=3)
+H275Y,275,KX409557,Non-Asia,USA,2016,Monophyletic cluster (n=3)
+H275Y,275,OQ652240,Non-Asia,Australia,2019,Independent singleton branch
+H275Y,275,PX835874,Non-Asia,South Africa,2024,Independent singleton branch
