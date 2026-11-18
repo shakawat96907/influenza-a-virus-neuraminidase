@@ -1,10 +1,25 @@
-# Core Bioinformatics & Evolutionary Analysis Pipeline
+## Core Bioinformatics & Evolutionary Analysis Pipeline
 
-1. `01_mafft_and_consensus.sh` — Multiple sequence alignment (MAFFT v7.526 `--auto`) and generation of gapped (493-column) and canonical ungapped (469-aa) consensus sequences.
-2. `02_numbering_audit_4B7R.py` — Global pairwise alignment against crystal structure PDB ID: `4B7R` (Chain A; 96.64% sequence identity) and cross-numbering standardization (MAFFT alignment, canonical N1, PDB `4B7R`, and classical N2 numbering).
-
-17. `17_tetramer_sasa_and_fig8.py` — Biological homotetramer (`PDB ID: 4B7R`) vs. monomer `SASA` and size-normalized `RSA` (`Tien et al., 2013`) calculation (**Main Table 12**, `Supplementary Table 14`).
-18. `17b_compile_figure8_abc.py` — Single-row composite **Figure 8A–C** rendering (`SASA`, `RSA`, and 4-subunit `CPK` PyMOL 3D homotetramer structure).
-19. `18_season_matched_vaccine_fig9.py` — Season-matched WHO A(H1N1)pdm09 vaccine divergence profiling (`2015–2025`) and `QFQ15359.1` provenance audit (**Main Table 13**, `Supplementary Table 15`).
-20. `18b_render_fig9_fig10_1000dpi.py` — `1000 DPI` **Figure 9** (`A–B`) and PyMOL 3D homotetramer **Figure 10** (`CPK` element-colored vaccine-divergent landmarks) rendering.
-21. `19_nai_resistance_and_fig11.py` — Canonical N1 neuraminidase inhibitor (`NAI`) resistance screening (`Screened vs. Detected`), residue `223` disaggregation, and global phylogenetic clustering audit (**Figure 11A–B**, **Main Table 14**, `Supplementary Table 16`).
+1. `01_mafft_and_consensus.sh` — Multiple sequence alignment (`MAFFT v7.526 --auto`) and generation of gapped (`493`-column) and canonical ungapped (`469`-aa) consensus sequences.
+2. `02_numbering_audit_4B7R.py` — Global pairwise alignment against crystal structure `PDB ID: 4B7R` (`Chain A`; `96.64%` sequence identity) and cross-numbering standardization (`MAFFT` alignment, canonical N1, `PDB 4B7R`, and classical N2 numbering; `Supplementary Table 3`).
+3. `03_codon_alignment.py` — Conversion of protein alignments into frame-matched codon-aware nucleotide alignments (`1,479 nt` across `493` codons) using `PAL2NAL v14`.
+4. `04_build_ml_trees.sh` — Maximum-likelihood phylogenetic reconstruction in `IQ-TREE v3.1.4` with `ModelFinder` (`GTR+F+I+R3` nucleotide; `HIVW+I+R3` amino acid) and `1,000` `UFBoot` / `SH-aLRT` replicates.
+5. `05_tree_audit_and_rooting.py` — Terminal branch-length diagnostic audit and explicit outgroup rooting on the earliest `2015` reference isolate (`KU322051`, Italy).
+6. `06_clock_and_recombination.py` — Molecular-clock root-to-tip regression (`TreeTime v0.12.1`) and intragenic recombination breakpoint screening (`HyPhy GARD v2.5`).
+7. `07_clean_outliers_and_gard.py` — Exclusion of seven confirmed non-pdm09/swine-origin spillover (`H1N1v`) and misannotated long-branch outliers (`Supplementary Table 2`) and post-filtering clock validation (`Supplementary Figure S1`).
+8. `09_finalize_trees_and_fig1.py` — Publication-grade rendering of the `1,449`-taxon global nucleotide (`Figure 1A`) and `871`-taxon amino-acid (`Figure 1B`) phylogenies with aligned region/year strips and `UFBoot ≥ 95%` node markers (`Supplementary Table 5`).
+9. `10_treetime_mugration.py` — Discrete geographic ancestral state reconstruction (`TreeTime mugration`) across six global regions (`338` inter-regional transitions) and identification of `66` Asia-enriched monophyletic subclusters (`Supplementary Tables 6 & 7`).
+10. `11_ancestral_and_fig2.py` — Branch-level maximum-likelihood ancestral sequence reconstruction (`TreeTime ancestral`) quantifying independent substitution origins (`homoplasy`) vs. clade expansion (`Figure 2A–C`, `Table 6`, `Supplementary Table 8`).
+11. `11b_clean_fig2_and_tables56.py` — High-resolution (`1000 DPI`) formatting of `Figure 2` and standardized generation of `Main Table 6` and `Supplementary Table 8`.
+12. `12_phylogeny_aware_enrichment.py` — Regional enrichment profiling (`Asia` vs. `Non-Asia`) combining unstratified Fisher's exact tests, year-stratified Cochran–Mantel–Haenszel (`CMH`) tests, protein-deduplicated sensitivity tests, and clade-declustered phylogenetic pruning (`Table 7`, `Supplementary Table 9`).
+13. `12b_fix_fig3.py` — Publication-grade `1000 DPI` rendering of `Figure 3A–B` with external legends and phylogeny-aware sensitivity overlays.
+14. `13_shannon_entropy_and_fig4.py` — Site-specific Shannon entropy (`H`, bits) and three-tier variability threshold sensitivity analysis (`lenient`, `baseline`, `stringent`) across all `469` canonical N1 positions (`Figure 4A–C`, `Table 8`, `Supplementary Table 10`).
+15. `14_temporal_rarefaction_and_fig5.py` — Analytical workflow script.
+16. `15_glycosylation_and_fig6.py` — Canonical `N-X-S/T` (`X ≠ P`) predicted N-linked glycosylation sequon profiling with quantitative persistence/decline classification (`Figure 6A–B`, `Table 10`, `Supplementary Table 12`).
+17. `15b_clean_fig6_table10.py` — Analytical workflow script.
+18. `16_selection_and_fig7.py` — Codon-level positive and purifying selection analysis using `HyPhy FEL`, `MEME`, and `FUBAR` across `1,449` frame-matched coding sequences (`Figure 7A–C`, `Table 11`, `Supplementary Table 13`).
+19. `17_tetramer_sasa_and_fig8.py` — Biological homotetramer (`PDB ID: 4B7R`) vs. isolated monomer (`Chain A`) `SASA` (`Å²`) and size-normalized `RSA` (`Tien et al., 2013`) calculation across all `387` head-domain residues (`Main Table 12`, `Supplementary Table 14`).
+20. `17b_compile_figure8_abc.py` — Single-row composite `Figure 8A–C` rendering (`SASA`, `RSA`, and four-subunit `CPK` element-colored PyMOL 3D homotetramer structure).
+21. `18_season_matched_vaccine_fig9.py` — Season-matched WHO A(H1N1)pdm09 vaccine virus divergence profiling (`2015–2025`) and `QFQ15359.1` GenBank provenance audit (`Main Table 13`, `Supplementary Table 15`).
+22. `18b_render_fig9_fig10_1000dpi.py` — `1000 DPI` `Figure 9A–B` and PyMOL 3D homotetramer `Figure 10` (`CPK` element-colored vaccine-divergent landmarks) rendering.
+23. `19_nai_resistance_and_fig11.py` — Canonical N1 neuraminidase inhibitor (`NAI`) resistance screening (`Screened vs. Detected`), residue `223` disaggregation (`I223V` vs. `I223R/K/T`), and global phylogenetic clustering audit (`Figure 11A–B`, `Main Table 14`, `Supplementary Table 16`).
