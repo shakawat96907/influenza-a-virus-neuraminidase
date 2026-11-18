@@ -12,22 +12,30 @@ This repository provides the reproducible bioinformatics pipeline, sequence cura
 
 ```text
 influenza-a-virus-neuraminidase/
+├── CITATION.cff                             # Citation metadata for automated Zenodo DOI archiving
+├── run_all.sh                               # End-to-end master reproduction script (Scripts 01–22)
 ├── README.md                              # Project overview, directory guide, and reproducibility instructions
 ├── environment.yml                        # Conda environment specification
 ├── run_all.sh                             # Master script to execute the completed analysis pipeline
 ├── .gitignore                             # Git ignore rules for large/temporary intermediate files
 ├── data/
-│   ├── README.md                          # Documentation of raw and processed sequence datasets
+│   ├── CITATION.cff                             # Citation metadata for automated Zenodo DOI archiving
+├── run_all.sh                               # End-to-end master reproduction script (Scripts 01–22)
+├── README.md                          # Documentation of raw and processed sequence datasets
 │   ├── raw/                               # Raw sequence records directory
 │   └── processed/                         # Curated non-redundant datasets (N = 1,449)
 │       ├── final_clean_meta.csv           # Complete metadata & accession list (N = 1,449; Supplementary Table 4)
 │       ├── final_clean_prot.fasta         # Curated full-length NA protein sequences (1,449)
 │       └── final_clean_nuc.fasta          # Curated frame-matched NA coding nucleotide sequences (1,449)
 ├── scripts/
-│   ├── README.md                          # Execution order and description of data curation scripts
+│   ├── CITATION.cff                             # Citation metadata for automated Zenodo DOI archiving
+├── run_all.sh                               # End-to-end master reproduction script (Scripts 01–22)
+├── README.md                          # Execution order and description of data curation scripts
 │   └── *.py                               # Retrieval, quality control, deduplication & stratified subsampling
 ├── analysis/
-│   ├── README.md                          # Step-by-step documentation of evolutionary & structural analyses
+│   ├── CITATION.cff                             # Citation metadata for automated Zenodo DOI archiving
+├── run_all.sh                               # End-to-end master reproduction script (Scripts 01–22)
+├── README.md                          # Step-by-step documentation of evolutionary & structural analyses
 │   ├── 01_mafft_and_consensus.sh          # Multiple sequence alignment (MAFFT v7.526) & consensus generation
 │   ├── 02_numbering_audit_4B7R.py         # Pairwise structural alignment (PDB 4B7R) & N1/N2 coordinate audit
 │   ├── 03_codon_alignment.py              # CDS reading-frame trimming & pal2nal.pl codon alignment
@@ -113,6 +121,9 @@ influenza-a-virus-neuraminidase/
 ## Ongoing Revision Analyses (`T18`)
 
 * Reproducible multi-evidence antigenic hotspot scoring and final manuscript/Zenodo DOI release (`T18`)
+
+17. **Hotspot Weight Sensitivity & Canonical Active-Site Conservation (`analysis/22_weight_sensitivity_catalytic_final.py`):**
+   * Verified rank stability between evidence-weighted (`3:2:2:2:1`) and equal-weighted (`2:2:2:2:2`) hotspot scores (`Spearman ρ = 0.9346`, `P < 10⁻¹⁰⁰`; `100%` [`12/12`] top-hotspot overlap; `Supplementary Table 19`, `Supplementary Figure S2`) and confirmed `99.03%–100.00%` conservation across all `20` canonical N1 catalytic triad and framework residues (**Main Table 17**).
 
 ## Reproducibility
 
